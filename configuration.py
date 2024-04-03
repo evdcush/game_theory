@@ -3,31 +3,32 @@
 # payoff matrix for prisoner's dilemma game
 # 3,3  | 0,5
 # 5,0  | 1,1
+
 prisoner_dilemma = {
-    'player_1': 
+    'Alice': 
         {
             'choice_1': 
             {
-                'player_2_choice_1': 3,
-                'player_2_choice_2': 0
+                'Bob_choice_1': 3,
+                'Bob_choice_2': 0
             }, 
             'choice_2': 
             {
-                'player_2_choice_1': 5, 
-                'player_2_choice_2': 1
+                'Bob_choice_1': 5, 
+                'Bob_choice_2': 1
             }
         },
-    'player_2': 
+    'Bob': 
         {
             'choice_1': 
             {
-                'player_1_choice_1': 3,
-                'player_1_choice_2': 0
+                'Alice_choice_1': 3,
+                'Alice_choice_2': 0
             }, 
             'choice_2': 
             {
-                'player_1_choice_1': 5, 
-                'player_1_choice_2': 1
+                'Alice_choice_1': 5, 
+                'Alice_choice_2': 1
             }
         },
 }   
@@ -36,30 +37,30 @@ prisoner_dilemma = {
 # 2,1  | 0,0
 # 0,0  | 1,2
 battle_of_sexes = {
-     'player_1': 
+     'Alice': 
         {
             'choice_1': 
             {
-                'player_2_choice_1': 2,
-                'player_2_choice_2': 0
+                'Bob_choice_1': 2,
+                'Bob_choice_2': 0
             }, 
             'choice_2': 
             {
-                'player_2_choice_1': 0, 
-                'player_2_choice_2': 1
+                'Bob_choice_1': 0, 
+                'Bob_choice_2': 1
             }
         },
-    'player_2': 
+    'Bob': 
         {
             'choice_1': 
             {
-                'player_1_choice_1': 1,
-                'player_1_choice_2': 0
+                'Alice_choice_1': 1,
+                'Alice_choice_2': 0
             }, 
             'choice_2': 
             {
-                'player_1_choice_1': 0, 
-                'player_1_choice_2': 2
+                'Alice_choice_1': 0, 
+                'Alice_choice_2': 2
             }
         },
 }   
@@ -69,30 +70,30 @@ battle_of_sexes = {
 # 3,3  |  0,1
 # 1,0  |  1,1
 stag_hunt = {
-     'player_1': 
+     'Alice': 
         {
             'choice_1': 
             {
-                'player_2_choice_1': 3,
-                'player_2_choice_2': 0
+                'Bob_choice_1': 3,
+                'Bob_choice_2': 0
             }, 
             'choice_2': 
             {
-                'player_2_choice_1': 1, 
-                'player_2_choice_2': 1
+                'Bob_choice_1': 1, 
+                'Bob_choice_2': 1
             }
         },
-    'player_2': 
+    'Bob': 
         {
             'choice_1': 
             {
-                'player_1_choice_1': 3,
-                'player_1_choice_2': 0
+                'Alice_choice_1': 3,
+                'Alice_choice_2': 0
             }, 
             'choice_2': 
             {
-                'player_1_choice_1': 1, 
-                'player_1_choice_2': 1
+                'Alice_choice_1': 1, 
+                'Alice_choice_2': 1
             }
         },
 }   
@@ -103,49 +104,56 @@ stag_hunt = {
 # 1,-1 |  0,0  | -1,1
 # -1,1 |  1,-1 |  0,0
 rock_paper_scissors = {
-     'player_1': 
+     'Alice': 
         {
             'choice_1': 
             {
-                'player_2_choice_1': 0,
-                'player_2_choice_2': -1,
-                'player_2_choice_3': 1
+                'Bob_choice_1': 0,
+                'Bob_choice_2': -1,
+                'Bob_choice_3': 1
             }, 
             'choice_2': 
             {
-                'player_2_choice_1': 1, 
-                'player_2_choice_2': 0,
-                'player_2_choice_3': -1
+                'Bob_choice_1': 1, 
+                'Bob_choice_2': 0,
+                'Bob_choice_3': -1
             }, 
             'choice_3': 
             {
-                'player_2_choice_1': -1, 
-                'player_2_choice_2': 1,
-                'player_2_choice_3': 0
+                'Bob_choice_1': -1, 
+                'Bob_choice_2': 1,
+                'Bob_choice_3': 0
             }
         },
-    'player_2': 
+    'Bob': 
         {
             'choice_1': 
             {
-                'player_1_choice_1': 0,
-                'player_1_choice_2': -1,
-                'player_2_choice_3': 1
+                'Alice_choice_1': 0,
+                'Alice_choice_2': -1,
+                'Alice_choice_3': 1
             }, 
             'choice_2': 
             {
-                'player_1_choice_1': 1, 
-                'player_1_choice_2': 0,
-                'player_2_choice_3': -1
+                'Alice_choice_1': 1, 
+                'Alice_choice_2': 0,
+                'Alice_choice_3': -1
             }, 
             'choice_3': 
             {
-                'player_2_choice_1': -1, 
-                'player_2_choice_2': 1,
-                'player_2_choice_3': 0
+                'Alice_choice_1': -1, 
+                'Alice_choice_2': 1,
+                'Alice_choice_3': 0
             }
         },
 }  
+
+payoff_matrix = {
+    'prisoner_dilemma':prisoner_dilemma,
+    'battle_of_sexes':battle_of_sexes,
+    'stag_hunt':stag_hunt,
+    'rock_paper_scissors':rock_paper_scissors
+    }
 
 
 guess_2_3 = "Guess a number that is 2/3 of the average of the number you guess and the numbers that other players guess."
