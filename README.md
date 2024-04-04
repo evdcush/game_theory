@@ -27,6 +27,13 @@ Limited-rational Game: Guessing ⅔ of average
 - Ultimatum game
 - Colonel Blotto game (2 player, simultaneous action, 1 round, not clear for nash equilibrium)
 
+## Quick Setup
+```
+conda create -n gametheory python=3.10
+conda activate gametheory
+pip install -r requirements.txt
+pip install -q -U google-generativeai
+```
 
 ## Experiment
 
