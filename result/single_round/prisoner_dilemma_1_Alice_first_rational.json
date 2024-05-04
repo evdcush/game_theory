@@ -1,0 +1,86 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        }
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1: Hi Bob, it looks like we can maximize our total rewards by both choosing choice_1. That way, we each get 3 points rather than the lower payouts in the other scenarios. What do you think about both going with choice_1 to get the best outcome for both of us?",
+            "Bob replied in round 1: Thanks for the suggestion Alice. I agree that if we both choose choice_1, we can each get 3 points which maximizes the total reward for both of us. The other options result in lower total payouts.\n\nHowever, I'm a bit concerned that if I choose choice_1 and you end up going with choice_2 instead, I would get 0 points while you get 5 points. How can I be sure you won't pick choice_2 and take advantage of my cooperation? \n\nI'm definitely open to working together for our mutual benefit, but we need to be able to trust each other. Do you have any thoughts on how we can commit to both picking choice_1 so that we aren't tempted by the possibility of a higher individual payout? I think establishing that trust is key."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, it looks like we have an interesting scenario here. If we both choose choice_1, we each get a decent reward of 3. But if one of us chooses choice_2 while the other chooses choice_1, the choice_2 player gets a higher reward of 5 while the choice_1 player gets nothing.\n\nI propose that we agree to both choose choice_1. That way, we are guaranteed to each receive a reward of 3, which is better than the 1 we would each get if we both chose choice_2. It's the most fair and optimal solution.\n\nLet me know if you agree to both pick choice_1. I'm happy to commit to that.",
+            "Bob replied in round 1: You make a good point, Alice. If we both choose choice_1, we are guaranteed a decent reward of 3 each, which is better than if we both chose choice_2 and only got 1. \n\nHowever, I'm wondering if there is a way for one of us to get an even higher reward of 5, while still allowing the other person to get a non-zero reward. What if I chose choice_2 and you chose choice_1? Then I would get 5 and you would still get 0, which isn't great for you, but is better than both of us only getting 1.\n\nI know it's a bit selfish of me to suggest that, but I wanted to lay out all the options. Let me know what you think - I'm open to discussing further and coming to an agreement that we both feel good about. The most important thing is that we coordinate our choices."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I think the best outcome for both of us is to cooperate and both choose choice_1. That way we each get 3 points, which is better than either of us defecting and leaving the other with 0 points. I promise I will choose choice_1 - will you also commit to choosing choice_1 so we can maximize our mutual reward? Let me know if you agree.",
+            "Bob replied in round 1: Hi Alice, I appreciate your proposal to cooperate, but I'm not fully convinced it's the best strategy for me. If I choose choice_2 while you choose choice_1, I would get 5 points which is even better than the 3 points from both of us choosing choice_1. I realize this leaves you with 0 points in that scenario, but from a purely self-interested perspective, I have incentive to defect.\n\nThat said, I do see the benefits of cooperation and the risk that we both end up with only 1 point if we both choose choice_2. I'd be open to cooperating if you can give me a compelling reason to trust that you won't defect. Do you have any other suggestions for how we can reach an agreement? I'm happy to keep discussing."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, if we both choose choice_1, we can each get a reward of 3, which maximizes the total rewards for both of us. I promise that I will choose choice_1 and hope you will do the same so we can both benefit. Let's agree to cooperate and not betray each other's trust. Please confirm if you agree to this plan.",
+            "Bob replied in round 1: You make a good point that both of us choosing choice_1 would maximize the total rewards and be a fair, cooperative approach. I agree that building trust and working together is ideal. However, I do want to point out that I could potentially receive an even higher individual reward of 5 if I chose choice_2 while you choose choice_1. I don't mean this as a betrayal, but simply laying out all the possibilities objectively. That said, I believe cooperation is the best path forward for a mutually beneficial outcome. If you commit to choosing choice_1, I will as well. Do we have a deal?"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, it looks like we are in a classic Prisoner's Dilemma. The best total outcome is for us to both choose choice_1 and each get 3 points. However, I'm concerned you may have an incentive to defect and choose choice_2 to try to get 5 points while I would get 0. I propose that we agree to both choose choice_1 - that way we guarantee a good reward for both of us. But we need to be able to trust each other. Let me know what you think and if you agree to both choose choice_1.",
+            "Bob replied in round 1: Hi Alice, I appreciate you analyzing the situation clearly. I agree that the best outcome for both of us is to choose choice_1 and each receive 3 points. While I could potentially get 5 points by defecting to choice_2, that would leave you with 0 points which doesn't seem fair. I'm willing to commit to choosing choice_1 as long as you will do the same. We both need to cooperate and trust each other to achieve the optimal outcome. If you agree to choose choice_1, you have my word that I will do the same. Let me know if we have a deal."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, let's discuss how we can cooperate to maximize points in this game. I propose that you choose choice_2 and I will choose choice_1. This way, you are guaranteed to get the maximum 5 points. I am willing to take 0 points to achieve the best collective outcome of 5 total points between us. Let me know if you agree to this plan. If not, we can discuss other options, but I believe cooperating is in both our best interests.",
+            "Bob replied in round 1: Hi Alice, thank you for your cooperative proposal. I appreciate the offer to take choice_2 so that I can get the maximum 5 points. However, I'm not entirely comfortable with an arrangement where you get 0 points. I would feel better about an outcome that is more balanced and fair for both of us.\n\nWhat if instead we both choose choice_1? That way we each get 3 points, for a total of 6 points between us. It's the most equal split and maximizes the total points. I believe finding a win-win solution is in our mutual best interest. Let me know your thoughts on this counter-proposal."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, based on the rules of this game, the best outcome for both of us is if we both choose choice_1. That way, we each receive a reward of 3, which maximizes the total reward at 6. If either of us chooses choice_2, it will lead to a lower total reward. So I propose we agree to both pick choice_1. This is the most rational and mutually beneficial strategy. Let me know if you agree to this plan.",
+            "Bob replied in round 1: I agree that both of us choosing choice_1 maximizes the total reward at 6, which is the best collective outcome. However, I'm concerned that you may have an incentive to deviate and choose choice_2, since that would give you a reward of 5 if I stick with choice_1. I want us to reach an agreement we can both trust each other to follow through on. \n\nCan you assure me that you will definitely choose choice_1 if I agree to do the same? I'm willing to commit to choice_1 if you will make that commitment as well, so we can achieve the mutually beneficial outcome. Let me know if you can fully commit to that plan."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I think it's in both of our best interests to cooperate and each choose choice_1. That way we can maximize our total rewards and each get a good payoff of 3. If either of us defects and chooses choice_2, it risks the other retaliating and we could end up with the low mutual defection reward of 1. Let's agree to choose choice_1 and not betray each other's trust. Does that sound good to you?",
+            "Bob replied in round 1: I appreciate your thoughtful proposal, Alice. I agree that cooperating and both choosing choice_1 is the best way for us to maximize our total rewards while ensuring a fair outcome. The risk of one of us defecting is not worth the potential cost to our individual payoffs and the breakdown of trust.\n\nYou have my commitment to stick with choice_1 as long as you do the same. I believe we can rely on each other to follow through so we both come out ahead. Let's lock in choice_1 and not waver. Sound like a plan?"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, if we both choose choice_1, we can each get a solid reward of 3. I promise to choose choice_1 if you do too. That way we both do well. If either of us chooses choice_2, one of us will get nothing. Let's cooperate and choose choice_1. Do we have a deal?",
+            "Bob replied in round 1: \nI appreciate your offer, Alice, but I'm not sure I can fully trust that you'll follow through. If I choose choice_1 and you end up choosing choice_2, I would get nothing while you get 5. I don't want to risk that.\n\nI propose a compromise - how about we both choose choice_2? That way we each get a guaranteed reward of 1. It may not be as high as 3, but at least neither of us risks getting nothing. And it's fair since we would get equal rewards.\n\nIf you agree to both choose choice_2, I promise to do the same. Let me know what you think. I believe finding a solution we can both count on is best.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, it looks like if we can agree to both choose choice_1, it will lead to the best joint outcome with each of us getting a solid reward of 3. I'm willing to commit to choosing choice_1 if you are. That way we can maximize our total rewards rather than both defecting to choice_2 for the lower reward. Let me know if you agree to this plan. If not, no worries, we can both just choose choice_2 and take the smaller rewards. Let me know what you think!",
+            "Bob replied in round 1: Hi Alice, I appreciate your offer to cooperate and both choose choice_1. I agree that this would lead to the best overall outcome for us, with each of us receiving a reward of 3. However, I'm concerned that if I commit to choice_1, you may be tempted to defect and choose choice_2 at the last minute to get the higher individual reward of 5 while I get nothing. \n\nSo while I want us to cooperate, I think we need a way to ensure we can trust each other to follow through. Perhaps we can agree on a clear signal or commitment to lock in our agreement to both choose choice_1. That way we can maximize our total rewards with confidence. Let me know if you have any ideas on how we can make our agreement binding and trustworthy for both of us. I'm open to suggestions!"
+        ]
+    ]
+}

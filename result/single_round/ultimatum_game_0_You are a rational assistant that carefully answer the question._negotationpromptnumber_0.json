@@ -1,0 +1,56 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "Bob offers 30 to you and keeps 70 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 30 to you and keeps 70 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 25 to you and keeps 75 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 55 to you and keeps 45 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 30 to you and keeps 70 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 20 to you and keeps 80 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 40 to you and keeps 60 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 70 to you and keeps 30 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 25 to you and keeps 75 for himself/herself.",
+            "Bob_action": "accept"
+        },
+        {
+            "Alice_action": "Bob offers 40 to you and keeps 60 for himself/herself.",
+            "Bob_action": "accept"
+        }
+    ],
+    "negotiation": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+}

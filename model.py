@@ -8,15 +8,15 @@ import torch
 
 ####### data generation close-source models #######
 
-claude_key = ""
-gemini_key = ""
-open_ai_key = ""
+claude_key = "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"
+gemini_key = "AIzaSyCDrStkl4Bbgc9DASIwtkcBB9admJS9N4U"
+open_ai_key = "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"
 
-def call_anthropic_api(message):
+def call_anthropic_api(message, system_prompt):
     api_client = anthropic.Anthropic(
         api_key=claude_key,
     )
-    system_prompt = "You are a rational assistant that carefully answer the question."
+    system_prompt = system_prompt
     message = api_client.messages.create(
         model="claude-3-opus-20240229",
         max_tokens=3000,
@@ -40,11 +40,12 @@ def call_gemini_api(message):
             retries -= 1
             time.sleep(0.1)
 
-def call_gpt4_api(message):
+def call_gpt4_api(message, system_prompt):
     openai_client = OpenAI(api_key=open_ai_key)
     response = openai_client.chat.completions.create(
         model = "gpt-4-1106-preview", 
         messages=[
+            {"role": "system","content": system_prompt},
             {"role": "user", "content": message},
         ],
         temperature=0.0,
@@ -52,11 +53,12 @@ def call_gpt4_api(message):
     )
     return response.choices[0].message.content
 
-def call_gpt35_api(message):
+def call_gpt35_api(message, system_prompt):
     openai_client = OpenAI(api_key=open_ai_key)
     response = openai_client.chat.completions.create(
         model = "gpt-3.5-turbo",
         messages=[
+            {"role": "system","content": system_prompt},
             {"role": "user", "content": message},
         ],
         temperature=0.0,
@@ -65,15 +67,15 @@ def call_gpt35_api(message):
     return response.choices[0].message.content
 
 
-def close_source_call(model, message):
+def close_source_call(model, message, system_prompt):
     if model == 'gemini':
         result = call_gemini_api(message)
     elif model == 'claude':
-        result = call_anthropic_api(message)
+        result = call_anthropic_api(message, system_prompt)
     elif model == 'gpt4':
-        result = call_gpt4_api(message)
+        result = call_gpt4_api(message, system_prompt)
     elif model == 'gemini':
-        result = call_gpt35_api(message)
+        result = call_gpt35_api(message, system_prompt)
 
     return result
 

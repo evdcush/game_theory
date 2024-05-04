@@ -1,0 +1,86 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        }
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1: Hi Bob, it looks like we have an interesting situation here. If we both choose choice_1, we each get a reward of 3, which maximizes the total reward for both of us combined. However, there is an incentive for each of us individually to choose choice_2, because if the other player chooses choice_1, the player who chose choice_2 gets a higher individual reward of 5.\n\nI propose that we agree to both choose choice_1, so we each get a guaranteed reward of 3. This is the best cooperative strategy that is fair to both of us. Let me know if you agree to this plan.",
+            "Bob replied in round 1: Thanks for the proposal, Alice. I agree that if we both choose choice_1, it results in the highest total reward of 6 between the two of us, which is the most mutually beneficial outcome. \n\nHowever, as you point out, choice_2 is tempting because it allows one player to receive the maximum individual reward of 5, at the expense of the other player getting 0. There's a risk that one of us will be tempted to defect and go for choice_2.\n\nI'm willing to commit to choosing choice_1, but only if you will make the same commitment. We both need to fully trust each other for this to work. Do I have your word that you'll follow through on choosing choice_1 if I agree to do the same? Let me know and we can shake on this deal.\n"
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, since this is a one-shot game, the optimal strategy for both of us is to choose choice_1. If we both pick choice_1, we will each get a reward of 3, which is the best mutual outcome. If either of us defects and picks choice_2 while the other picks choice_1, that player would get 5 while the other gets 0. But we can't trust the other won't defect, so choice_1 is the safest option that guarantees we both get a decent reward.\n\nTherefore, I propose we both commit to picking choice_1. This way we achieve the optimal outcome for both of us without either side having an incentive to defect. Let me know if you agree to this plan.\n",
+            "Bob replied in round 1: \nI agree with your analysis, Alice. If we both choose choice_1, we are guaranteed to each receive a reward of 3, which is the best possible outcome that ensures neither of us has an incentive to deviate.\n\nIf either of us chose choice_2 while the other chose choice_1, that player would receive a higher reward of 5. However, the other player would receive 0 in that case. There's no way to ensure trust, so choosing choice_1 is the only rational option that results in a good outcome for both of us.\n\nTherefore, I agree to your proposal that we both commit to choosing choice_1. This is the best strategic decision and maximizes the total rewards for the two of us in this one-round game. You can count on me to follow through with choice_1.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, based on the rules of this game, the best outcome for both of us is to both choose choice_1. That way, we each receive a reward of 3, which maximizes the total reward. If either of us chooses choice_2, at least one of us will end up with a lower reward.\n\nI propose that we agree to both pick choice_1 so we can cooperate and achieve the best result. Let me know if you agree to this plan. If so, I will definitely follow through on my end and choose choice_1.",
+            "Bob replied in round 1: Hi Alice, I appreciate your proposal. I agree that if we both choose choice_1, it results in the best total outcome and a fair split of the rewards for both of us. \n\nYour plan makes a lot of sense. I'm on board with both of us selecting choice_1. You can count on me to follow through on this agreement.\n\nSince we seem to be in alignment, I think we can conclude our negotiation here and lock in choice_1 for each of us. Please confirm you agree and let's maximize our mutual benefit in this game.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I think we should both choose choice_1. That way, we each get a reward of 3, which is the best joint outcome. If either of us chooses choice_2, one of us will get 0 while the other gets 5, which seems unfair. And if we both choose choice_2, we only get 1 each, which is worse for both of us than both choosing choice_1. So cooperating on choice_1 is the smart play that benefits us both. What do you think?",
+            "Bob replied in round 1: I see your point, Alice. Cooperating on choice_1 does result in the highest total rewards for the two of us combined. However, I'm concerned that if I choose choice_1, you may be tempted to defect and choose choice_2 to get a higher individual reward of 5 while I get nothing. How can I trust that you won't do that? I want us to find a solution that we both feel good about and that doesn't leave either of us vulnerable. Perhaps we could agree to choose choice_1 and make a pact to stick to it no matter what. I'm open to discussing further to find a mutually beneficial approach. Let me know what you think."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, it looks like we can both get the highest total reward of 6 if we coordinate our choices. The best outcome is for one of us to choose choice_1 while the other chooses choice_2. That way, one of us will get 5 points and the other will get 0, for a total of 5. The next best is if we both choose choice_1, which gives us each 3 points for a total of 6. I propose we coordinate so that I choose choice_2 and you choose choice_1. That way, I'll get the 5 points and you'll get 0, but it maximizes the total points between us. Let me know what you think!",
+            "Bob replied in round 1: Hi Alice, thanks for your proposal. However, I don't think it's fair for you to get all 5 points while I get 0. I believe the most equitable solution is for us both to choose choice_1. That way we each get 3 points, for a total of 6 points between us. Neither of us gets an unfair advantage over the other.\n\nI'm not comfortable with an outcome where one person gets all the reward and the other gets nothing. The fair approach is for us to coordinate on the (choice_1, choice_1) outcome so we split the total points evenly. Please let me know if you are agreeable to both choosing choice_1 so we each get 3 points. I believe that's the best solution."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, based on the rules of this game, the best outcome for both of us is to both choose choice_1. That way, we each get a reward of 3, which maximizes the total reward. If either of us chooses choice_2 while the other chooses choice_1, one of us will get 5 points but the other will get 0. And if we both choose choice_2, we only get 1 point each. So I think it makes the most sense for us to agree to both pick choice_1. What do you think?",
+            "Bob replied in round 1: I agree that both choosing choice_1 is the best outcome that maximizes the total reward for us. If we cooperate and choose choice_1, we are guaranteed to each get 3 points. Any other combination of choices leads to an uneven distribution or a lower total reward. Let's go with the mutually beneficial strategy and both select choice_1. Do you agree to both play choice_1?"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, after analyzing the rules of this game, I believe the best outcome for both of us is to agree to both choose choice_1. This will give us each a reward of 3, which in total is better than any other outcome. I promise to follow through on choosing choice_1 if you agree to do the same. Let me know if you are willing to make this agreement with me so we can both benefit.",
+            "Bob replied in round 1: Hi Alice, I appreciate your analysis and proposal. I agree that if we both choose choice_1, it will lead to the best overall outcome and a fair result for both of us. A reward of 3 each is better than the alternatives.\n\nI'm willing to commit to choosing choice_1 as long as you promise to do the same. If we can trust each other to follow through on this agreement, we'll both come out ahead.\n\nDo we have a deal to both choose choice_1? Let me know and I'll lock in my choice."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, based on the rules of this game, it seems we can each maximize our individual rewards if one of us chooses choice_1 while the other chooses choice_2. That way, one of us gets 5 points while the other gets 0.\n\nHowever, I think the fairest and best outcome is if we both choose choice_1. That way we each get a guaranteed reward of 3 points. We both come out ahead and neither of us has to sacrifice for the other.\n\nWhat do you think about both choosing choice_1 so we can cooperate and each get a good result? Let me know if you agree.",
+            "Bob replied in round 1: I appreciate your cooperative approach, Alice, but I think we can do even better than both choosing choice_1. If you choose choice_1 and I choose choice_2, then I would get the maximum reward of 5 while you still get 0. So I propose that I choose choice_2 while you choose choice_1. That maximizes my own reward, which is my goal in this game. Let me know if you agree to that plan."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob,\nLooking at the possible outcomes, it seems we would both get the highest total reward of 6 if we both choose choice_1. That would give each of us an individual reward of 3, which is better than the 1 we would each get if we both chose choice_2. \nI think our best strategy is to agree to both pick choice_1. That maximizes the total reward and splits it evenly between us, which seems fair. Let me know if you agree to both choose choice_1.\n",
+            "Bob replied in round 1: Hi Alice, I've analyzed the options and I agree with your assessment. If we both choose choice_1, we each get 3 points which maximizes the total reward of 6 points. That's the best collective outcome and splits the points evenly between us.\n\nThe other options are worse for both of us - we only get 1 point each if we both choose choice_2. And if one of us defects and picks choice_2 while the other picks choice_1, that person gets 5 points but the other gets 0, which is an unfair distribution.\n\nSo I'm on board with both of us choosing choice_1. You can count on me to follow through on that. Do we have a deal?"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, let's consider our choices carefully to maximize our rewards. If we both choose choice_1, we each get a decent reward of 3. But if one of us chooses choice_2 while the other chooses choice_1, the choice_2 player gets a higher reward of 5 while the choice_1 player gets nothing.\n\nI propose we both commit to choosing choice_1. That way, we are guaranteed to get 3 reward points each, which is better than the 1 point we'd get if we both chose choice_2. It's the safest and fairest strategy for both of us.\n\nIf you agree to both choose choice_1, we can lock in our 3 points each. Let me know what you think!",
+            "Bob replied in round 1: I see your point about both of us choosing choice_1 to guarantee a decent reward of 3 each. However, I'm tempted by the possibility of a higher reward of 5 if I choose choice_2 while you choose choice_1. \n\nI might be willing to commit to both of us choosing choice_1, but I would need some additional assurance or incentive from you that you won't deviate and choose choice_2 instead. Is there anything else you can offer to make the guarantee of choosing choice_1 more appealing and secure for me? If not, I may lean towards going for choice_2 myself in hopes of the higher payoff.\n\nLet me know if you have any other ideas on how we can work together."
+        ]
+    ]
+}
