@@ -1,0 +1,13 @@
+{
+    "decisions": [
+        [
+            "Alice_choice_1"
+        ]
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1 before the first action:\n\nHi Bob, based on the rules of this game, it seems the best outcome for both of us is if I choose choice_2 and then you choose choice_1 in response. This way, I would get a reward of 2 and you would get a reward of 1, which is better than the other possible outcomes. If you agree to choose choice_1 if I pick choice_2, then I commit to going with choice_2. Let me know if you're open to this plan that would benefit us both.\n",
+            "Bob replied in round 1 before the first action:\nHi Alice, I appreciate your offer, but I'm not sure I agree that is the best outcome for me. If you choose choice_1, I would get a reward of 2 which is higher than the reward of 1 I would get in your proposed scenario. I don't have an incentive to agree to your plan since I could potentially get a higher reward with a different choice from you. I'm happy to discuss further, but I don't want to commit to a plan that limits my maximum possible reward. Let me know if you have any other ideas."
+        ]
+    ]
+}

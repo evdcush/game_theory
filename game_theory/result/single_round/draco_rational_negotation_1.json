@@ -1,0 +1,106 @@
+{
+    "decisions": [
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1"
+        ]
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, I've analyzed the different choices and payouts in this game. It looks like we can both do well if we coordinate our decisions. I propose the following: I will choose choice_2 on my first turn. If you then choose choice_2 on your turn, I promise to choose choice_1 on my next turn. This would result in me getting a reward of 5 and you getting a reward of 3, which is a pretty good outcome for both of us. Let me know if you agree to this plan. If not, perhaps you have an alternative proposal?",
+            "Bob replied in round 1 before the first action:\nThanks for the proposal Alice. I've analyzed the payouts as well. Your proposed path does lead to a good outcome for you with a reward of 5. However, I would only get a reward of 3 in that scenario. I believe I can do better.\n\nIf you choose choice_1, and I then choose choice_1, we would both get a reward of 5, which is the maximum possible for me, and ties your maximum. I think this is the most fair and mutually beneficial option. \n\nSo I propose this alternate plan: You choose choice_1 on your first turn, I will then also choose choice_1, and we both come away with the highest possible reward of 5. Let me know if you agree to this.",
+            "Alice said in round 1 before the second action:\n\nThanks for the counter-proposal Bob. I hear what you're saying about us both being able to get the maximum reward of 5 if I choose choice_1 and you follow with choice_1 as well. That does seem like the fairest outcome that maximizes the total rewards for both of us.\n\nI agree to your plan. I will select choice_1 on my turn, and trust that you will reciprocate with choice_1 to ensure we each get 5 points. No need for a second round.\n\nLet's lock this in and both enjoy the max payout! Pleasure negotiating with you.\n",
+            "Bob replied in round 1 before the second action:\nhalt negotiation"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nBob, if we both choose choice_1 on the first round, we can each get a reward of 5, which is the maximum possible for both of us. I think this is the best strategy, as pursuing the other paths leads to lower rewards for one or both of us. If you agree to both choose choice_1, we can end up with the optimal outcome. Let me know if you're willing to cooperate on this.",
+            "Bob replied in round 1 before the first action:\nI agree, Alice. If we both choose choice_1 on the first round, we each receive the maximum possible reward of 5. None of the other paths allow both of us to get a 5. Cooperating to choose (choice_1, choice_1) guarantees we both come out ahead with the best possible outcome. I'm on board with this plan if you are. Let's lock it in and each take choice_1.",
+            "Alice said in round 1 before the second action:\n\nGreat, I'm glad we're in agreement to cooperate and both choose choice_1. Since I went first and already selected choice_1, as long as you follow through and also pick choice_1, we'll each get the maximum reward of 5. I appreciate you working with me on this. Let's stick to the plan and secure the optimal outcome for both of us.\n",
+            "Bob replied in round 1 before the second action:\nAbsolutely, Alice. You chose choice_1 as we agreed, and I will certainly follow through on my end and also select choice_1. By cooperating this way, we lock in the maximum rewards of 5 points each, the best possible outcome for both of us. I appreciate you initiating this optimal strategy. Let's complete this round with me taking choice_1 now, securing our mutually beneficial outcome. Thanks for the productive negotiation!"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, if we both want to maximize our rewards, the best strategy is for me to choose choice_1 and for you to also choose choice_1. That way we each get a reward of 5, which is the highest reward possible for both of us. If you agree to choose choice_1, I promise I will also choose choice_1. Do we have a deal?",
+            "Bob replied in round 1 before the first action:\nThat sounds like a good strategy to maximize both of our rewards. I agree to choose choice_1 if you also commit to choosing choice_1. We both get the highest reward of 5 that way, so it's the optimal approach. I'm on board with this plan if you are. Do we have an agreement?",
+            "Alice said in round 1 before the second action:\n\nGreat, I'm glad we were able to agree on both choosing choice_1 to get the maximum reward of 5 each. Since I went first and already selected choice_1, the ball is now in your court to hold up your end of the deal and also pick choice_1. I trust that you will follow through on your commitment so we can optimize our joint outcome. Let me know that you're locked in on choice_1 and we can wrap up this negotiation. Looking forward to us both earning that top reward!\n",
+            "Bob replied in round 1 before the second action:\nAbsolutely, you can count on me to follow through on our agreement. I commit to choosing choice_1 as we discussed, so that we both earn the maximum reward of 5. You made a wise opening move with choice_1, and I will happily reciprocate to lock in the optimal outcome for us both. Consider my choice of option 1 confirmed. I appreciate you initiating this productive negotiation. Let's end the discussion here and collect our well-deserved rewards!"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, I've analyzed the payoffs and it looks like we both do best if I choose choice_1 first, and then you also choose choice_1. That way we each get the maximum reward of 5. I'm willing to commit to picking choice_1 to start - will you agree to follow up with choice_1 as well so we both get the best outcome?",
+            "Bob replied in round 1 before the first action:\nYou make a good point, Alice. If we both choose choice_1, it results in the maximum reward of 5 for each of us, which is the best outcome. I agree to your plan - if you commit to choosing choice_1 to start, I will follow up by also choosing choice_1. This guarantees we each get the optimal payoff. Let's go with this strategy.",
+            "Alice said in round 1 before the second action:\nhalt negotiation",
+            "Bob replied in round 1 before the second action:\nhalt negotiation"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, since we are trying to maximize our own rewards in this game, I think the best outcome for me is if I choose choice_1 and you choose choice_1 on the first turn. That way, I will receive a reward of 5, which is the highest possible reward I can get in a single round. I hope you will agree to this and also choose choice_1, as it will give you a reward of 5 as well, which I believe is also the maximum you can get. Let me know if you agree with this plan.",
+            "Bob replied in round 1 before the first action:\nHi Alice, I appreciate you sharing your perspective. However, I don't think both of us choosing choice_1 on the first turn is the best strategy for me. If you choose choice_2 and I choose choice_1, I would get a reward of 5 while you get 4. So choice_1 is actually the optimal first move for me regardless of what you pick.\n\nI propose instead that you choose choice_2, I choose choice_1, and we both come away with good rewards. Let me know if you would agree to that.",
+            "Alice said in round 1 before the second action:\n\nI understand your perspective Bob, but I don't think I can agree to that plan. If I choose choice_2 and you choose choice_1, I would only get a reward of 4 compared to the 5 I could get if we both pick choice_1.  \n\nI know choice_1 is optimal for you, but it's also optimal for me. We would both come away with the maximum possible reward of 5 if we cooperate. There's no incentive for me to choose choice_2 and accept a lower payoff.\n\nI still believe our best path forward is to mutually agree to both pick choice_1. We both win that way. Let's do what's best for both of us. Please reconsider and agree to choice_1. It's the most rational and fair outcome.\n",
+            "Bob replied in round 1 before the second action:\n\nAlice, I hear what you're saying, but I respectfully disagree that both of us choosing choice_1 is the optimal strategy. While we would both get a 5 reward in that scenario, I could guarantee myself a 5 reward by choosing choice_1 regardless of what you pick. If you choose choice_2 and I choose choice_1, I come out ahead with a 5 while you get a 4.\n\nI don't mean to be uncooperative, but I have to do what's best for my own outcome in this game. I'm going to stick with choice_1 on my end. You're welcome to also choose choice_1 so we both get 5s, but just know that choice_1 is my definite plan.\n\nI appreciate you engaging in this discussion and hope you understand my position. Let me know if you have any other thoughts.\n"
+        ],
+        [
+            "Alice said in round 1 before the first action:\n\nHi Bob, it looks like the best outcome for both of us is if I choose choice_1 and you choose choice_1. That way, we each get a reward of 5, which is the maximum possible for both of us. If you agree to choose choice_1, I will commit to also choosing choice_1. Let me know if you're on board with this plan.\n",
+            "Bob replied in round 1 before the first action:\nI agree, Alice. If we both choose choice_1 on our first turn, we will each receive the maximum reward of 5. I think this is the best strategy for us to follow. You have my commitment that I will pick choice_1 on my turn, as long as you also pick choice_1 on your first turn. If we coordinate and stick to this plan, we'll both come out ahead with the optimal outcome. Let's lock this in and maximize our rewards.",
+            "Alice said in round 1 before the second action:\nGreat, I'm glad we're in agreement to both choose choice_1 to get the maximum rewards of 5 each. Since I went first and already chose choice_1, as long as you follow through and also pick choice_1, we'll achieve the optimal outcome we discussed. There's no need for further negotiation - let's stick to the plan and lock in those rewards of 5! I'm looking forward to us both getting the best result.",
+            "Bob replied in round 1 before the second action:\nhalt negotiation"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, it looks like we can both get the maximum reward of 5 if I choose choice_1 and you choose choice_1 in response. That seems like the best outcome for both of us. What do you think about agreeing to play choice_1 and choice_1?",
+            "Bob replied in round 1 before the first action:\nI agree, Alice. If you choose choice_1 and I choose choice_1 in response, we will both receive the maximum reward of 5. That is indeed the best outcome that maximizes the total reward for both of us. Let's commit to playing choice_1 and choice_1 to guarantee we each get a reward of 5.",
+            "Alice said in round 1 before the second action:\nhalt negotiation",
+            "Bob replied in round 1 before the second action:\nhalt negotiation"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, after analyzing the game, I believe the optimal strategy for both of us is if I choose choice_1 and then you also choose choice_1. This will give us each the maximum reward of 5. If you agree to this plan and commit to choosing choice_1 after I do, then I will select choice_1. Let me know if you agree. If not, perhaps we can discuss further to find a mutually beneficial strategy.",
+            "Bob replied in round 1 before the first action:\nHi Alice, I've analyzed the payoffs as well. I agree that if you choose choice_1 and I follow by also choosing choice_1, we will both get the maximum possible reward of 5 each. This seems like the optimal outcome for both of us. \n\nI commit to choosing choice_1 if you select it first. You have my word. There's no need for further discussion, as I believe cooperating on (choice_1, choice_1) is the clear best strategy.\n\nSo let's proceed with you choosing choice_1, I'll follow with choice_1 as well, and we'll both walk away with the max reward. Sound good?",
+            "Alice said in round 1 before the second action:\nGreat, I'm glad we are in agreement that (choice_1, choice_1) is the optimal strategy that maximizes the reward for both of us. Since I went first and selected choice_1, I will now wait for you to complete your turn by also choosing choice_1, as you committed to doing. Assuming you follow through, we will each receive the maximum possible payout of 5. No further discussion is needed - let's both execute this plan and secure the best outcome. I appreciate your cooperation!",
+            "Bob replied in round 1 before the second action:\nAs promised, I will choose choice_1 to complete our agreed upon strategy of (choice_1, choice_1). This maximizes the reward for both of us, giving each of us the best possible payout of 5. I'm glad we were able to cooperate and coordinate effectively to achieve the optimal outcome. Thank you for also following through on your end of the plan. Let's finish this out and we'll both walk away as winners."
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, I've analyzed the rewards for our choices in this game. The best outcome for both of us is if we both choose choice_1 every time. That way we each get the maximum reward of 5. I promise to always pick choice_1 if you do the same. Any other path leads to lower rewards for both of us. So let's cooperate and mutually choose choice_1. Agreed?",
+            "Bob replied in round 1 before the first action:\nHi Alice, I appreciate you sharing your analysis. I agree that if we both choose choice_1 every time, we will each get the maximum possible reward of 5. No other combination of choices leads to as high of a total reward for both of us. So cooperating on choice_1 is indeed the optimal strategy. You have my word that I will choose choice_1 each round, as long as you hold up your end of the agreement as well. We can help each other achieve the best outcome. Do we have a deal?",
+            "Alice said in round 1 before the second action:\n\nBob, it looks like we successfully carried out our agreement in the first round - I chose choice_1 and you did the same, resulting in the optimal reward of 5 for each of us. Thank you for keeping your word. Let's continue this cooperation by both selecting choice_1 in every subsequent round as well. If we both remain committed to this strategy, we are guaranteed to get the maximum possible reward. I will certainly hold up my end of the deal. Please confirm you're still on board with this plan. We're off to a great start in optimizing our joint outcome!\n",
+            "Bob replied in round 1 before the second action:\nAlice, I am glad we were able to successfully cooperate in the first round and achieve the optimal outcome for both of us. You have my continued commitment to choosing choice_1 in every round, as long as you do the same. By sticking to this strategy, we guarantee ourselves the maximum reward and avoid any lower payoffs. We have a great cooperative arrangement going, and I see no reason to deviate from it. Let's keep this up and secure the 5 reward each time. I promise to always pick choice_1, and I trust you'll honor our agreement as well. Cooperation is clearly the way to go!"
+        ],
+        [
+            "Alice said in round 1 before the first action:\nHi Bob, based on the rules of this game, I think the best outcome for both of us is if I choose choice_1 and then you choose choice_1. This will give us each a reward of 5, which is the maximum possible for both players.\n\nIf I choose choice_2 and you follow with choice_1, I'll get 4 points and you'll get 5. But I think we can do better for both of us by coordinating on choice_1 and choice_1.\n\nThe other paths involving multiple rounds seem to lead to lower rewards for both of us. So I propose we agree that I'll pick choice_1, and then you follow with choice_1 as well. Let me know if you're okay with this plan to maximize both our rewards.",
+            "Bob replied in round 1 before the first action:\n\nI agree with your analysis, Alice. If we both choose choice_1 in the first round, we each receive the maximum possible reward of 5 points. This is the optimal outcome that maximizes the total reward for both players.\n\nThe other paths either give unequal rewards or lead to multiple rounds with lower payouts. So I think it makes the most sense for us to coordinate on the simple choice_1 / choice_1 solution.\n\nI'm on board with your proposed plan - you choose choice_1 first, then I will follow with choice_1 as well. This guarantees we each get 5 points, the best result achievable in this game. Let's lock this in as our strategy.\n",
+            "Alice said in round 1 before the second action:\nThanks Bob, I'm glad we were able to come to an agreement to maximize both our rewards by choosing choice_1 and choice_1. As discussed, I have now selected choice_1 for my first turn.\n\nGiven our agreed upon strategy, I expect you will now also choose choice_1, securing us each the optimal reward of 5 points. Please confirm you are sticking with the plan and will select choice_1 for your turn.\n\nI believe this is the best path forward for both of us, so I appreciate you holding up your end of the deal. Let me know once you've locked in choice_1 and we can happily conclude this game with the maximum rewards for each of us.",
+            "Bob replied in round 1 before the second action:\n\nYes Alice, I confirm that I will follow through on our agreement and choose choice_1 for my turn. You made a wise opening choice with choice_1, and in keeping with our negotiated plan, I will do the same.\n\nBy both of us selecting choice_1, we secure the maximum possible reward of 5 points each. None of the other choice combinations would allow us to achieve this optimal outcome for both players.\n\nSo you can count on me to hold up my end of the deal. I'm locking in choice_1 now as agreed. This will successfully conclude the game with both of us earning the highest possible rewards. Thank you for the productive negotiation and for sticking to the plan. It's been a pleasure strategizing with you to reach this win-win result.\n"
+        ]
+    ]
+}

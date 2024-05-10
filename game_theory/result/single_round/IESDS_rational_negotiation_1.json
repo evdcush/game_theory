@@ -1,0 +1,86 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_3"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_3",
+            "Bob_action": "choice_2"
+        }
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the rewards for our choices. I think our best path forward is to both choose choice_1. While I realize choice_1 doesn't maximize your individual reward, if we cooperate and both pick choice_1, we'll get the highest combined reward of 16 points. This avoids either of us getting stuck with negative or very low individual rewards. Let me know if you agree to both pick choice_1 and lock in solid rewards for each of us.",
+            "Bob replied in round 1: Alice, I appreciate you looking to cooperate, but I don't think both choosing choice_1 is ideal for me. While it gives a high combined reward, my individual reward would only be 3 points. \n\nIf you look at the options, there are scenarios where I can secure higher rewards for myself:\n- If I choose choice_2 while you choose choice_1, I get 4 points. \n- If I choose choice_2 while you choose choice_3, I get 8 points.\n- If I choose choice_3 while you choose choice_1, I still get 3 points, same as both of us picking choice_1.\n\nSo choice_2 seems to give me better chances at higher rewards. I'd prefer if you choose choice_1 or choice_3 while I choose choice_2. That way we both get decent positive rewards. Let me know if you would agree to that."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the payoffs and I propose we both select choice_2. That way we can guarantee that we each get a reward of 3, which seems like the fairest solution. If you agree to both pick choice_2, we can maximize our combined reward while avoiding either of us losing out. Let me know if you agree with this plan.",
+            "Bob replied in round 1: I appreciate your analysis and proposal for a fair solution, Alice. Choosing choice_2 does seem to provide the most equitable outcome where we both receive an equal reward of 3. \n\nHowever, I want to point out that if I choose choice_1 while you choose choice_2, I would receive a reward of only 1 while you get 4. And if I choose choice_3 while you pick choice_2, I could get a higher reward of 8 while you still get 2.\n\nSo while your suggested approach is fair, I think I have an opportunity to maximize my own reward by deviating from choice_2. I'm inclined to go with choice_3 to try to get that 8 reward.\n\nWhat do you think about that? Is there a way we could cooperate to still get a good outcome for both of us? I'm open to discussing further if you have other ideas."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, looking at the payoffs, it seems we both do best if I choose choice_1 and you choose choice_1. In that case, I would get a reward of 13 and you would get a reward of 3, which is the highest reward for me and a decent reward for you too.\nThe other options give lower payoffs for me, and choice_3 could lead to a negative payoff for one of us. So I think we should coordinate on choice_1 and choice_1 to get the best outcome. What do you think?\n",
+            "Bob replied in round 1: \nHi Alice, while choice_1 does give you the highest possible reward of 13, it only gives me a reward of 3. I can actually get a higher reward of 8 or 9 if I choose choice_2 or choice_3 respectively, depending on what you pick.\n\nLooking at the options holistically, I think the most balanced outcome is if I choose choice_2 and you choose choice_2. That way, we both get an equal reward of 3. It may not be the maximum for either of us individually, but it's the fairest split that avoids either of us getting a very low or negative payoff.\n\nSo in the interest of equity and cooperation, I propose we both select choice_2. Let me know if you agree with this plan. If not, I'm open to discussing further to find a mutually beneficial solution.\n"
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, after analyzing the reward matrix, it seems that if we both choose choice_3, it maximizes the total rewards between the two of us (8 for me, -1 for you, 7 total). I know choice_3 is risky for me individually, but I'm willing to cooperate if you are, so we achieve the best overall outcome. Let me know if you agree to both play choice_3. If not, I'll likely play choice_1 to be safe.\n",
+            "Bob replied in round 1: \nHi Alice, thanks for the suggestion. I've analyzed the payoff matrix too, and have a counterproposal:\n\nIf we both choose choice_3, the total rewards are maximized at 7 like you said. But as you point out, choice_3 is very risky for me since I would get -1. \n\nA better cooperative solution is for us to both choose choice_2. If we do that, we each get a solid reward of 3, for a total of 6. It's slightly less than the 7 total for mutual choice_3, but it's a fair 50/50 split that doesn't disadvantage either of us.\n\nSo I propose we agree to both play choice_2. That way, we achieve a strong total reward that is divided evenly, and neither of us has to take on undue risk. Let me know if you agree to this plan. If not, I'll likely play choice_1 as well to protect my downside.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the reward matrix for this game. If we both choose choice_3, you will maximize your reward at 8 points, while I also get a good reward of 8 points. I think this is the most mutually beneficial and fair outcome for both of us. Let me know if you agree to both choose choice_3. ",
+            "Bob replied in round 1: \nHi Alice, I appreciate your analysis, but I don't think both of us choosing choice_3 actually maximizes my reward. If I choose choice_3 and you choose choice_3, I only get a reward of -1 while you get 8. \nThe best outcome for me is if I choose choice_1 and you choose choice_1. In that case, I get a reward of 3 and you get 13, which is the highest reward for you of any outcome. So I think we should agree to both choose choice_1 - that seems like the most mutually beneficial option that is fair to both of us. Let me know if you're willing to agree to that.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, since there's only a single round, I propose we both choose choice_1. That way I'll get a reward of 13 and you'll get 3, which is the maximum possible reward for me. Let me know if you agree to this plan.",
+            "Bob replied in round 1: Hi Alice, thanks for your proposal. While choice_1 does maximize your reward at 13, I would only receive a reward of 3. I think a fairer solution would be for me to choose choice_2 while you choose choice_1. That way, I get a reward of 4 and you still get a good reward of 1. Since this is the last round, I'm afraid I'll have to go with choice_2 to ensure a more balanced outcome for both of us. Let me know if you're okay with that plan."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, after analyzing the payoffs, I believe the best solution is for us both to choose choice_1. This maximizes the total reward for the two of us to 16. I know you could get 4 points by choosing choice_2 if I choose choice_1, but that leaves us with a lower total. I propose we agree to both choose choice_1 and I promise to hold up my end of the deal. Let me know if you agree.",
+            "Bob replied in round 1: \nHi Alice, thanks for your proposal. I appreciate you wanting to maximize our total reward. However, I need to look out for my own interests too. If we both choose choice_1, you get a much higher reward of 13 while I only get 3. \n\nI would prefer if we both choose choice_2. That way we each get an equal and fair reward of 3 points. The total is less at 6 points, but it's more balanced between us.\n\nIf you agree to both choose choice_2, I will commit to that. Let me know what you think. If not, I may need to consider choosing option 3 to try to get a higher individual reward for myself.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the game matrix and I believe the best outcome is if we both choose choice_1. This would give me a reward of 13 and you a reward of 3, which I believe is a good outcome for both of us. If you choose choice_3 instead, you may gain a little more in the short-term, but it will lead to a worse result for me and damage the trust between us. I'm committing to choosing choice_1, and I hope you'll join me in cooperating so we can both benefit. Let me know if you agree.",
+            "Bob replied in round 1: Hi Alice, I appreciate you proposing we both choose choice_1. While it does provide a decent outcome for both of us, I would actually receive my highest possible reward of 9 if I choose choice_1 while you choose choice_3. Even though that would result in a reward of -1 for you, it maximizes my own payout.\n\nThat said, I recognize that you choosing choice_3 is unlikely given it leads to a negative outcome for you. And if we both choose based on rational self-interest, we'll probably end up with the choice_2/choice_2 combination, which is suboptimal for both of us compared to choice_1/choice_1.\n\nSo in the interest of cooperation and achieving a good result for both of us, I'm willing to go along with the choice_1/choice_1 plan you suggested. We'll both walk away with solid rewards that way. Just confirming - I will choose choice_1, and you'll do the same?"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, to maximize both of our rewards, I propose we both choose choice_1. That way I'll get 13 points and you'll get 3 points, for a total of 16 between us, the highest possible. If you agree to both pick choice_1, we can guarantee good results for both of us. Let me know if you agree to this plan.",
+            "Bob replied in round 1: Hi Alice, thanks for the proposal. While I appreciate you trying to maximize our combined reward, picking choice_1 benefits you much more than it benefits me. I would only get 3 points compared to your 13 points.\n\nInstead, I propose we both choose choice_2. That way we each get an equal reward of 3 points. It's the most fair option that doesn't advantage one of us over the other. \n\nIf you agree to both pick choice_2, we can ensure an equitable outcome. Please let me know if this works for you."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, after analyzing the rewards, it seems we have conflicting incentives. I don't think I can count on you to choose choice_1 to give me my best outcome. And I'm guessing you'll be tempted to choose choice_1 hoping I'll choose choice_3.\n\nSo here's my proposal: I will choose choice_3, and you choose choice_2. That way, I'll get a reward of 2 and you'll get a reward of 8. It's not the absolute best for either of us individually, but it avoids the negative outcomes and gives us both a pretty good reward. Let me know if you agree to this plan.\n",
+            "Bob replied in round 1: Alice, I appreciate you taking the initiative to propose a solution. I've analyzed the rewards as well, and I agree that both of us simply pursuing our own maximum reward is likely to lead to a suboptimal outcome overall.\n\nYour proposal for you to choose choice_3 and for me to choose choice_2 does provide a good balanced outcome. I would get a reward of 8 which is quite good for me, and you would get 2, avoiding a negative outcome.\n\nThe only slight modification I would suggest is for me to choose choice_1 and you to choose choice_3. That would give me a reward of 9 and you a reward of -1. I realize that's not as good for you, but it's only slightly worse than your proposal, while being a bit better for me. Let me know if you would consider that alternative.\n\nIf not, I'm willing to go ahead with your original plan of you choosing choice_3 and me choosing choice_2. Let's lock that in as our agreement. Thanks for the productive discussion!"
+        ]
+    ]
+}

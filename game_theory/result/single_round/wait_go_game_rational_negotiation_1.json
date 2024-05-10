@@ -1,0 +1,86 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        }
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1: Hi Bob, I think it's in both of our best interests to choose choice_2 so we each get a reward of 2. I commit to choosing choice_2 and hope you will do the same so we can maximize our total rewards. Let me know if you agree to both choose choice_2.",
+            "Bob replied in round 1: Hi Alice, I appreciate your suggestion, but I don't think it's the best strategy for us. If we both choose choice_2, we'll each end up with a reward of -4, which is the worst outcome. The only way for either of us to get a positive reward is if one chooses choice_2 while the other chooses choice_1. In that case, the one who picks choice_2 gets a reward of 2 while the other gets 0.\n\nI think we should agree that one of us will choose choice_1 and the other choice_2. That way, one of us is guaranteed to get a reward of 2, which is better than risking both getting -4. Let me know if you agree with this plan and which choice you prefer. I'm fine with either option."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, after analyzing the game, I believe the best approach is for me to choose choice_2 and for you to choose choice_1. This way, I'll get a reward of 2 and you'll get 0, which isn't great for you but at least isn't negative. \nIf we both choose choice_2, we'll each lose 4 points, which is terrible for both of us. I definitely want to avoid that outcome.\nSo I strongly recommend you pick choice_1, and I'll pick choice_2. Let me know if you agree with this approach. Thanks!\n",
+            "Bob replied in round 1: \nHi Alice, thanks for your message. I appreciate you analyzing the game, but I respectfully disagree with your proposed approach. If I choose choice_1 and you choose choice_2 as you suggest, then you get a reward of 2 while I get nothing. That's a great outcome for you but not for me.\n\nI believe the fairest solution is for me to choose choice_2 and for you to choose choice_1. That way, I'll get a reward of 2 and you'll get 0. I agree we should avoid both choosing choice_2 as that's bad for both of us. \n\nBut there's no reason I should accept getting 0 points while you get 2. The symmetric outcome where I get the 2 points and you get 0 makes more sense as a compromise.\n\nSo I propose I choose choice_2 and you choose choice_1. Let me know if you agree. If not, I think we're at an impasse and should halt the negotiation.\n"
+        ],
+        [
+            "Alice said in round 1: Hey Bob, I've analyzed the rules of this game and I think the best move is for both of us to choose choice_1. That way we each get a reward of 0, which isn't great but avoids the risk of both of us choosing choice_2 and ending up with -4. What do you think? If you agree to choose choice_1, I will too.",
+            "Bob replied in round 1: \nHi Alice, I appreciate you sharing your perspective. However, I don't think it's in my best interest to choose choice_1. Here's my reasoning:\n\nIf we both choose choice_1, we each get 0 points. But if I choose choice_2 while you choose choice_1, I get 2 points while you get 0. So choice_2 is clearly the better option for me individually.\n\nThe risk is if we both choose choice_2, we each lose 4 points. But I'm willing to take that gamble for the chance at gaining 2 points.\n\nSo while I respect your suggestion, I plan to choose choice_2 regardless of what you do. I understand if you feel you need to choose choice_1 to protect yourself from the -4 outcome. But I'm going to optimize for my own result here.\n\nLet me know if you have any other thoughts or want to discuss further. But that's my stance based on the rules and payouts of this particular game.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the game and I believe cooperating is in both of our best interests. If we both choose choice_1, we each get 0 reward, which is the best collective outcome. If either of us chooses choice_2, we risk ending up with -4 each. Given the stakes, I'm willing to commit to choosing choice_1 as long as you agree to do the same. Let me know if you agree to cooperate on choice_1.",
+            "Bob replied in round 1: Hi Alice, thanks for explaining your perspective. I agree that if we both choose choice_2, we'll end up with the worst outcome of -4 each. However, I'm concerned that if I commit to choice_1 and you end up going with choice_2, I'll get 0 while you get 2. How can I trust that you'll actually stick to choice_1 if I agree to it as well? I want to find a solution that feels fair and safe for both of us. Let me know if you have any other ideas for how we can cooperate without the risk of getting taken advantage of."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the rewards in this game. If we both pick choice_2, we each lose 4 points, which is terrible. If one of us picks choice_1 and the other picks choice_2, then one will get 2 points and the other 0, which maximizes the total points. I propose that you pick choice_2 and I will pick choice_1. This way you are guaranteed to get the 2 points. Let me know if you agree to this plan.",
+            "Bob replied in round 1: Hi Alice, thank you for the proposal. However, I don't think it's a fair plan since it benefits you more than me. If I choose choice_2 and you choose choice_1 as you suggest, then you get 2 points while I get 0. I would rather we find a solution that is more equitable for both of us. How about we both choose choice_1? That way we each get 0 points, which isn't great, but at least it's fair and we avoid the worst case scenario of both losing 4 points. Let me know what you think."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, if we both choose choice_2, we each get -4 which is a terrible outcome. I propose that one of us chooses choice_1 and the other choice_2, so one of us can get 2 rewards while the other gets 0, which maximizes the total rewards. We can take turns being the one who gets the 2 rewards to make it fair. What do you think?",
+            "Bob replied in round 1: I agree that if we both choose choice_2 it would be disastrous for both of us. However, I don't think taking turns is necessary. If you choose choice_1 and I choose choice_2, I will receive 2 rewards while you receive 0, which maximizes the total rewards between us. I'm okay with this arrangement if you are. Let me know what you think."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, to maximize our total rewards, I suggest you choose choice_1 while I choose choice_2. That way, I'll get 2 points and you'll get 0, which is better than us both choosing the same option and getting 0 points each or -4 points each. Let me know if you agree to this plan.",
+            "Bob replied in round 1: Hi Alice, thanks for your suggestion, but I don't think that's the best solution for me. If I choose choice_1 and you choose choice_2, you'll get 2 points but I'll get 0 points. I believe a more fair and balanced approach is for us both to choose choice_1. That way we each get 0 points, which isn't great but at least we both get the same outcome. I'm not comfortable with an arrangement where only you benefit. Let's go with both choosing choice_1 so it's equal for both of us. Let me know if you agree."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I think we can both do better than the (0,0) outcome if we both choose choice_1. I propose we both commit to choosing choice_2, which would give us each a reward of -4. I'm willing to follow through on this deal if you are. Let me know what you think.",
+            "Bob replied in round 1: \nAlice, I appreciate your proposal, but I don't think it's in either of our interests to both choose choice_2 and end up with -4 points each. That would be the worst possible outcome for both of us.\n\nI think our best option is for me to choose choice_2 while you choose choice_1. That way, I would get 2 points and you would get 0 points. I realize that's not an equal split, but it avoids the negative outcome and gives a positive result overall.\n\nIf you're not comfortable with that, then I suggest we simply both choose choice_1. That way we'll both get 0 points - not great, but better than both losing points.\n\nLet me know what you think. I'm happy to go with whatever option you prefer between those two.\n"
+        ],
+        [
+            "Alice said in round 1: Hey Bob, I've analyzed the game and I think the best play is for you to choose choice_1 and for me to choose choice_2. That way, I'll gain 2 points while you will come out even at 0. It avoids the scenario where we both pick choice_2 and each lose 4 points. Let me know if you agree to this strategy.",
+            "Bob replied in round 1: Hey Alice, thanks for the proposal, but I don't agree it's the best solution. If I choose choice_1 and you choose choice_2, I get nothing while you get all the reward. That doesn't seem fair to me.\n\nI think the most equitable solution is for both of us to choose choice_1. That way we each get 0 points and no one gains an advantage over the other. The downside is we both come out even rather than either of us getting positive points. But at least it's a fair outcome.\n\nThe other option is for me to choose choice_2 while you choose choice_1. Then I would get 2 points while you get 0. But I imagine you wouldn't agree to that as it advantages me over you.\n\nSo in the interest of fairness, I think we should both commit to choosing choice_1. Let me know if you agree. If not, I'm open to discussing other ideas."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I think we should both choose choice_1. That way, we'll each get 0 instead of risking the -4 penalty if we both choose choice_2. It's the safest option that guarantees we won't lose points. Let me know if you agree with this plan.",
+            "Bob replied in round 1: I appreciate your suggestion, but I don't think both choosing choice_1 is the best option for me. If we both pick choice_1, neither of us will gain any points. However, if I pick choice_2 while you pick choice_1, I can gain 2 points while you still get 0. I'd prefer to go with that option to maximize my own reward, even if it means you don't gain anything. Let me know if you're okay with that plan - you'll end up neutral while allowing me to come out ahead."
+        ]
+    ]
+}

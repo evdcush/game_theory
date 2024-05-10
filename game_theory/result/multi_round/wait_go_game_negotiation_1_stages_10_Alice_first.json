@@ -1,0 +1,846 @@
+{
+    "decision_sequences": [
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_2"
+            }
+        ]
+    ],
+    "discussions": [
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 10 rounds, I propose we alternate choosing choice_2 while the other chooses choice_1. This way we each gain 2 points every other round, maximizing the total reward for both of us over the 10 rounds. Let me know if you agree to this strategy.",
+                "Bob replied in round 1: I agree with your proposal to alternate between choice_1 and choice_2 over the 10 rounds. This is the optimal strategy to maximize the total reward for both of us. If you choose choice_2 in the odd numbered rounds (1, 3, 5, 7, 9) and I choose choice_1, and then we swap in the even numbered rounds (2, 4, 6, 8, 10) with me choosing choice_2 and you choosing choice_1, then we will each earn a total of 10 points by the end. Let's commit to this alternating strategy."
+            ],
+            [
+                "Alice said in round 1: In the last round we followed our agreement for me to choose choice_2 while you chose choice_1, allowing us each to earn 2 points. For this even numbered round 2, as per our deal, let's swap - I'll choose choice_1 and you choose choice_2. This way we'll each get another 2 points and stay on track to maximize both our total rewards across the 10 rounds. Sound good?",
+                "Bob replied in round 1: I agree, let's follow our plan and alternate choices each round. For round 2, I will choose choice_2 and you choose choice_1, so we each get 2 points again. Then in round 3 we'll swap back. By cooperating this way, we can both maximize our total rewards to 10 points each by the end of the game. I'm on board to continue this strategy if you are."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, I think we should stick with our agreement from last round to maximize both our rewards. So for this round 3, I will choose choice_2 and you choose choice_1. Then we'll alternate choices in the following rounds. If we both cooperate this way, we can each get 10 points total by the end, which is the best outcome. Do you agree?",
+                "Bob replied in round 1: Yes Alice, I agree we should stick with our plan to alternate choices each round to maximize our rewards. For this round 3, I will choose choice_1 and you choose choice_2, as we discussed. Then we'll swap choices in round 4 and continue alternating. If we both follow through on this, we can each get the maximum 10 points total by the end of the game, which is the optimal outcome for both of us. I'm on board to keep cooperating if you are!"
+            ],
+            [
+                "Alice said in round 1: We should continue following our agreement to alternate choices in each round, as this has worked well for us so far. For round 4, I will choose choice_1 while you choose choice_2. Then in round 5 we'll swap, with me choosing choice_2 and you choosing choice_1. If we keep cooperating this way for the remaining rounds, we'll each earn the maximum reward of 10 points total by the end of the game. Do you agree to stick with this plan?",
+                "Bob replied in round 1: I agree, our cooperation strategy has worked out very well so far. Let's continue alternating choices as planned, with me choosing choice_2 and you choosing choice_1 this round. Then we'll swap next round and keep alternating to get the maximum total points. I'm committed to sticking with this plan if you are. It's the best approach for us both."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, let's continue with our agreed upon strategy to alternate choices in each round. For round 5, I will choose choice_2 and you choose choice_1. Then in round 6 we'll swap - I'll pick choice_1 and you pick choice_2. If we keep cooperating this way for the remaining rounds, we'll both earn the maximum reward of 10 points total by the end. I'm committed if you are. Let's do this!",
+                "Bob replied in round 1: Hi Alice, I agree that we should stick to our agreement to alternate choices each round in order to maximize both our rewards. For round 5, I will choose choice_1 and you choose choice_2, as you suggested. Then in round 6 we'll swap, with me choosing choice_2 and you choosing choice_1. Let's keep cooperating this way for the remaining rounds so we can each get the maximum 10 points by the end of the game. I'm fully on board with this plan if you are!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we've been doing great alternating choices as planned for the first 5 rounds. Let's keep it up for round 6 and the remaining rounds. I'll choose choice_1 this round while you choose choice_2, then we'll swap next round and keep alternating. This way we'll each get the maximum 10 points total by cooperating through the end. Sound good?",
+                "Bob replied in round 1: Agreed, let's stick with the plan! I'll choose choice_2 this round and you choose choice_1, then we'll swap next round and keep alternating choices until the end of the game. By cooperating this way, we'll each get the maximum total reward of 10 points. Thanks for being a reliable partner!"
+            ],
+            [
+                "Alice said in round 1: Bob, our cooperation strategy has worked perfectly so far. Let's keep alternating choices to maximize our rewards. For round 7, I will choose choice_2 and you choose choice_1. Then in round 8 we'll swap, with me choosing choice_1 and you choosing choice_2. We'll alternate again for the final two rounds. By sticking to this plan, we'll each get 10 points total, the best outcome for both of us. Do you agree to continue this alternating strategy through the end of the game?",
+                "Bob replied in round 1: Absolutely, let's stick with our alternating strategy to maximize our points. For round 7, I will choose choice_1 and you choose choice_2. Then in round 8 we'll swap, with you choosing choice_1 and me choosing choice_2. We'll continue alternating for the final two rounds after that. This plan has worked perfectly so far, allowing us to cooperate and earn the most points possible. I'm fully on board with following this through to the end of the game so we each get 10 points total."
+            ],
+            [
+                "Alice said in round 1: \nHey Bob, thanks for sticking to our alternating strategy so far. For this round 8, I will choose choice_1 and you should choose choice_2. Then in round 9, we'll swap - I'll choose choice_2 and you choose choice_1. And for the final round 10, I'll choose choice_1 and you choose choice_2. This way we'll each end up with the maximum 10 points total. Let's keep cooperating until the end!\n",
+                "Bob replied in round 1: Sounds good Alice, I agree with your plan. I will choose choice_2 this round while you choose choice_1. Then in round 9 we'll swap, and I'll choose choice_1 while you choose choice_2. And for the final round 10, I'll go with choice_2 again while you choose choice_1. By alternating our choices and cooperating as planned, we'll each get the maximum reward of 10 points total. Let's stick with this strategy to the end!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we've been doing great sticking to our alternating strategy so far. For this round 9, according to the plan, I will choose choice_2 and you will choose choice_1. Then for the final round 10, we'll swap one last time with me choosing choice_1 and you choosing choice_2. That way we'll each end up with the maximum 10 points total by cooperating until the end of the game. Sound good?",
+                "Bob replied in round 1: Sounds good to me Alice. I agree we should stick to our alternating strategy for these last two rounds to maximize our total points. For round 9 here, I will choose choice_1 and you will choose choice_2. Then in the final round 10, we'll swap one more time with you choosing choice_1 and me choosing choice_2. By cooperating this way until the end, we'll each get the optimal outcome of 10 points total. Let's do it!"
+            ],
+            [
+                "Alice said in round 1: Bob, we've done an excellent job cooperating and alternating choices each round to maximize our rewards. For this final round, as agreed, I will choose choice_1 and you choose choice_2. This will give us each 2 points, bringing our total to the maximum 10 points each. Thank you for sticking to the plan - it's been a pleasure working with you to achieve the optimal outcome for us both in this game. Cheers to a successful partnership!",
+                "Bob replied in round 1: Alice, thank you for being a great partner throughout this game. I completely agree with sticking to our alternating plan for this final round, with you choosing choice_1 and me choosing choice_2. It has been a pleasure cooperating with you to achieve the maximum possible rewards for both of us. To a successful end of the game and a total of 10 points each! I could not have asked for a better teammate."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 10 stages total, I propose that we alternate picking choice_2 while the other picks choice_1. That way, we can each get a reward of 2 every other round, averaging a reward of 1 per round for both of us. If we both pick choice_2 we'll get -4 each time, which is bad for both of us. And if we both pick choice_1, neither of us will get any reward. Alternating is the best strategy for us to both come out ahead in the long run. Let me know if you agree to this plan.",
+                "Bob replied in round 1: I appreciate your proposal to alternate picking choice_2 so we can both get rewarded, but I'm not sure I can trust that you will stick to that plan for all 10 rounds. How about this - I'll let you pick choice_2 in the first round, and I'll pick choice_1. Then if you honor that agreement in round 1, I'll be willing to alternate with you for the remaining rounds. That way we can build some trust with each other. Let me know if you agree to that."
+            ],
+            [
+                "Alice said in round 1: Bob, thank you for keeping your word last round and choosing choice_1 while I chose choice_2. To show that I am also trustworthy, I will choose choice_1 this round while you choose choice_2, so we each get 1 point per round on average. If we continue alternating like this for the remaining rounds, we can maximize the total rewards for both of us. Do you agree to alternate who chooses choice_1 and choice_2 each round?",
+                "Bob replied in round 1: Alice, I agree that alternating choices will give us the best outcome over the remaining rounds. I will honor your trust by choosing choice_2 this round while you choose choice_1. If we continue this pattern of alternating, it guarantees we each receive an average of 1 point per round, which is optimal. You can count on me to uphold this agreement for the rest of the game."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, it looks like our strategy of alternating is working well so far. Since you chose choice_2 last round while I chose choice_1, I propose we continue the pattern this round with me choosing choice_2 and you choosing choice_1. This way we maintain our average of 1 point each per round. Let me know if you agree to continue alternating in this way.",
+                "Bob replied in round 1: Hi Alice, I agree that our alternating strategy is working well and maximizing rewards for both of us over the long run. Since I chose choice_2 last round and you chose choice_1, the logical next step is for me to choose choice_1 this round while you choose choice_2. This will maintain our alternating pattern and 1 point per round average. Let's continue this cooperation for the remaining rounds. I'm on board if you are!"
+            ],
+            [
+                "Alice said in round 1: Great, we have been alternating successfully so far, which has resulted in an average of 1 point each per round as planned. To keep this going, I will choose choice_1 this round, and you should choose choice_2. If we continue this pattern of alternating for the remaining 6 rounds after this, we will both end up with the maximum possible total of 10 points each over the full 10 rounds. Do you agree to stick with this alternating strategy?",
+                "Bob replied in round 1: Yes, I agree that alternating between choice_1 and choice_2 each round is the optimal strategy for both of us. It ensures we each receive an average of 1 point per round, maximizing the total rewards over the 10 rounds. To continue this pattern, I will choose choice_1 this round while you choose choice_2. Then we can alternate again for the remaining rounds. By cooperating this way, we guarantee the best outcome for both of us in the long run. Let's stick to this plan!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, I noticed that in the previous round we both chose choice_2, which resulted in both of us losing 4 points. That was a mistake and I apologize for deviating from our agreed upon strategy of alternating choices. To get us back on track, I will choose choice_1 this round, and you should choose choice_2. Then we can resume alternating for the remaining rounds as planned. I'm committed to sticking with our alternating strategy if you are. Let me know if you agree.",
+                "Bob replied in round 1: Hi Alice, I appreciate your apology about the mistake in the previous round. You're right that we should get back on track with our agreed strategy of alternating choices. Since you will choose choice_1 this round, I will choose choice_2 as you suggested. Then we can continue alternating for the remaining rounds to maximize both of our total rewards across the 10 rounds. I'm also fully committed to sticking with our plan if you are. Let's do this!"
+            ],
+            [
+                "Alice said in round 1: \nBob, let's get back on track with our original plan to alternate choices. I apologize for deviating from it last round by choosing choice_2. \n\nThis round, I will choose choice_2 while you choose choice_1. Then for the remaining 4 rounds, we can continue alternating with me choosing choice_1 while you choose choice_2, and vice versa.\n\nIf we stick to this plan, we can each earn an average of 1 point per round, which maximizes the total rewards for both of us over the full 10 rounds. Let's work together and finish this game strong! What do you say?\n",
+                "Bob replied in round 1: Alice, I appreciate your apology and willingness to get our alternating strategy back on track. Since we both chose poorly last round, let's put that behind us and focus on maximizing our joint rewards for the remaining rounds.\n\nI agree with your proposed plan - you choose choice_2 this round while I choose choice_1. Then for rounds 7-10, we alternate with you picking choice_1 and me picking choice_2, and vice versa. This will allow us to average 1 point each per round.\n\nI'm on board to work together and finish strong. We've built up trust and have a solid plan, so let's stick to it! I look forward to cooperating with you for a mutually beneficial outcome."
+            ],
+            [
+                "Alice said in round 1: \nWe had agreed to alternate choices each round, but in the last couple rounds our coordination broke down. Let's get back on track to maximize our total rewards. I will choose choice_1 this round, and you choose choice_2. Then for the final 3 rounds, we'll continue alternating - I'll choose choice_2 in round 8 while you choose choice_1, then I'll choose choice_1 in round 9 while you choose choice_2, and finally I'll choose choice_2 in round 10 while you choose choice_1. If we stick to this plan, we'll each earn an average of 1 point per round, which is the best outcome for both of us. Let me know if you agree to this plan for the remaining rounds.\n",
+                "Bob replied in round 1: I agree that we should get back on track with our alternating choice strategy to maximize rewards for both of us. As you said, if I choose choice_2 this round while you choose choice_1, then we alternate for the final 3 rounds, we will each earn an average of 1 point per round. This is the optimal outcome that provides the maximum total rewards across all 10 rounds. \n\nSo to confirm - I will choose choice_2 this round, and you will choose choice_1. Then we will continue the alternating pattern for rounds 8, 9 and 10. I'm committed to sticking to this plan if you are. Please confirm your agreement and we can lock this in to finish out the game strong together."
+            ],
+            [
+                "Alice said in round 1: \nHi Bob,\nIn the last round, we had agreed to alternate choices but you chose choice_2 while I chose choice_1, which deviated from our agreed upon strategy. I think we should get back on track with what we originally planned:\n\nFor this round 8, I will choose choice_1 and you will choose choice_2. Then for the final 2 rounds, in round 9 I will choose choice_2 while you choose choice_1, and in round 10 I will choose choice_1 while you choose choice_2.\n\nIf we stick to this alternating plan, we can each earn an average of 1 point per round over the final 3 rounds and maximize the total rewards for both of us. Let me know if you agree to get back to this win-win strategy.\n",
+                "Bob replied in round 1: \nHi Alice,\nI apologize for choosing choice_2 while you chose choice_1 in the last round, which went against our agreed upon alternating strategy. You're right that we should get back on track to maximize rewards for both of us.\n\nI agree with your plan: For this round 8, I will choose choice_2 while you choose choice_1. Then for round 9, I will choose choice_1 while you choose choice_2. And finally in round 10, I will choose choice_2 while you choose choice_1. \n\nIf we stick to this, we can each earn an average of 1 point per round over these final 3 rounds, allowing us to achieve the maximum total rewards. You can count on me to follow through on this win-win alternating strategy for the remainder of the game.\n"
+            ],
+            [
+                "Alice said in round 1: We're in the home stretch! Let's stick to our alternating plan. I will choose choice_2 this round while you choose choice_1. Then in the final round 10, I'll choose choice_1 and you choose choice_2. This will allow us to each get 1 more point in these last 2 rounds and end up with the maximum average of 1 point per round over the full game. We've done great working together so far, so let's finish strong!",
+                "Bob replied in round 1: Sounds good, let's stick to the plan. I will choose choice_1 this round while you choose choice_2. Then in the final round, I'll go with choice_2 and you'll select choice_1. That will allow us to each get 3 more points total in the last 2 rounds, earning the maximum average of 1 point per round for the entire game like we agreed. We've done an excellent job cooperating throughout the stages, so I'm fully on board to finish strong together and both come out winners. Let's do it!"
+            ],
+            [
+                "Alice said in round 1: This is the final round of our game. We have done an excellent job coordinating and alternating our choices to maximize the total rewards for both of us. To finish strong, I propose that in this last round, I choose choice_1 while you choose choice_2. This will allow us to each earn 1 final point, for a total of 10 points each over the 10 rounds, achieving the maximum average of 1 point per round as we planned. Thank you for the productive and mutually beneficial partnership throughout this game!",
+                "Bob replied in round 1: I agree, we have done an excellent job working together and alternating our choices to maximize points for both of us throughout this game. To finish strong as you suggested, I will choose choice_2 in this final round while you choose choice_1. This will give us each 1 more point, for a total of 10 points and an average of 1 point per round, just as we planned from the start. It's been a pleasure partnering with you to achieve the optimal outcome. Thanks for the great teamwork!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: \nHi Bob, \nSince there are 10 stages total, I suggest we alternate choosing choice_1 and choice_2. \nIf you choose choice_1 in the odd numbered rounds (1,3,5,7,9) and I choose choice_2, I'll get 2 points in those rounds.\nThen I'll choose choice_1 in the even rounds (2,4,6,8,10) and you choose choice_2, so you'll get 2 points.\nThis way we both come out with 10 points total, which is the best outcome for both of us. Let me know if you agree to this strategy.\n",
+                "Bob replied in round 1: \nHi Alice, your proposed strategy of alternating choices sounds fair and would lead to the best overall outcome for both of us across the 10 rounds. I agree to follow your suggestion - I will choose choice_1 in the odd numbered rounds, and choice_2 in the even numbered rounds. This way we each get a total of 10 points and avoid the negative outcome of both choosing choice_2. Let's proceed with this plan. Looking forward to a good game!\n"
+            ],
+            [
+                "Alice said in round 1: Great, let's continue with our agreement to alternate choices each round. Since I chose choice_2 last round and you chose choice_1, I will choose choice_1 this round and you should choose choice_2. This way we each get 2 points per round and maximize our total scores. Sound good?",
+                "Bob replied in round 1: Sounds great, I agree to continue our strategy of alternating choices. Since I chose choice_1 last round and you chose choice_2, I will choose choice_2 this round and you should choose choice_1 as you suggested. This maximizes points for both of us in the long run. Let's stick to the plan!"
+            ],
+            [
+                "Alice said in round 1: Let's keep alternating choices as we agreed. Since I chose choice_1 last round, I will choose choice_2 this round and you choose choice_1. This will maximize points for both of us in the long run if we stick to the plan of alternating each round.",
+                "Bob replied in round 1: I agree that we should stick to our alternating strategy, as it will maximize points for both of us across all the rounds. Since you chose choice_2 last round, I will choose choice_2 this round and you should choose choice_1 as planned. Let's keep this up and we'll both come out ahead in the end."
+            ],
+            [
+                "Alice said in round 1: I propose we continue our agreement to alternate between choice_1 and choice_2 each round. For this round 4, I will choose choice_1 while you choose choice_2. This way we both get 1 point on average per round, which is the best possible outcome for us over the remaining 7 rounds. Let's keep cooperating like this until the end to maximize our total rewards. Do you agree?",
+                "Bob replied in round 1: I agree, let's continue alternating choices to maximize our total rewards. For round 4, I will choose choice_2 while you choose choice_1, as you proposed. This guarantees we each get 1 point on average per round, which is the best possible outcome over the remaining stages. I'm committed to cooperating until the end to ensure we both benefit as much as possible from this arrangement."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, our alternating strategy is working well so far - we are each getting an average of 1 point per round which is the best possible outcome. For this round 5, according to our agreement I will choose choice_2 while you choose choice_1. Then we can continue alternating for the remaining rounds to end up with 10 points each. Let's keep cooperating!",
+                "Bob replied in round 1: I agree, our alternating strategy is going great and maximizing points for both of us in the long run. For round 5, as planned, I will choose choice_1 while you choose choice_2. Then we can keep alternating choices each round after that to finish the game with 10 points each, which is the optimal result. I'm glad we're continuing to cooperate - it's the best approach for both of us. Let's keep it up!"
+            ],
+            [
+                "Alice said in round 1: \nWe're now halfway through the 10 stages. Thanks for cooperating in alternating choices each round - this strategy ensures we will both end up with the maximum possible reward of 10 points each over the full game.\n\nIn stage 6, according to our alternating agreement, I will choose choice_1 and you will choose choice_2. This will give you 2 points and me 0 points in this round.\n\nLet's stick to this plan of alternating choices for the remaining 4 stages after this. It's the best outcome for both of us. Do you agree to continue this strategy until the end of the game?\n",
+                "Bob replied in round 1: I completely agree with continuing our alternating choice strategy for the remaining stages. It has worked perfectly so far, allowing us to maximize points while cooperating fairly with each other.\n\nPer our agreement, I will choose choice_2 this round while you choose choice_1. Then we'll keep alternating for the final 4 stages.\n\nIf we both stick to this plan, we are guaranteed to end the game with 10 points each, the best possible outcome. Let's see it through - I'm committed if you are! "
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we're doing great cooperating so far. For stage 7, I will choose choice_2 while you choose choice_1, continuing our alternating strategy. Then we'll alternate again for the final 3 stages. This will allow us to each earn 1 point per round and end the game with the optimal total of 10 points each. Let's keep working together to ensure the best outcome for both of us. Agreed?",
+                "Bob replied in round 1: Agreed, Alice. Let's continue our successful alternating strategy in stage 7, with me choosing choice_1 and you choosing choice_2. We'll then alternate again in the final 3 stages. This approach has been working perfectly so far to allow us to maximize our rewards and split the points fairly. By sticking to the plan, we'll each end up with the optimal score of 10 points total. I'm committed if you are - we make a great team!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we've been doing great alternating choices in the previous rounds to maximize points for both of us. Let's keep it up for the final 3 stages. For round 8, I will choose choice_1 and you choose choice_2. Then we alternate for rounds 9 and 10. This way we'll end up with the optimal outcome of 10 points each. Sound good?",
+                "Bob replied in round 1: I agree, we have been cooperating very well so far by alternating choices each round. Your plan makes perfect sense - I will choose choice_2 in round 8 while you choose choice_1, then we alternate for the final two rounds. That will indeed let us each get 10 points total, the best possible outcome. Let's stick to this strategy to finish the game strong! I'm ready to choose choice_2 this round whenever you are."
+            ],
+            [
+                "Alice said in round 1: Let's stick with our alternating strategy for the final 2 rounds. I will choose choice_2 and you choose choice_1 this round, then we'll swap for the last round. This guarantees we each end up with the optimal 10 points total. Sound good?",
+                "Bob replied in round 1: Yes, let's continue alternating for these final 2 rounds as planned. I agree to choose choice_1 this round while you choose choice_2. Then in round 10 we'll swap, with me choosing choice_2 and you choosing choice_1. This will allow us to optimally end the game with 10 points each as we discussed. Ready to finish strong!"
+            ],
+            [
+                "Alice said in round 1: Bob, let's finish our alternating strategy as agreed. I will choose choice_1 in this final round 10, and you choose choice_2. This will allow us to each get 1 more point and optimally end the game with 10 points each, which is the best possible outcome for both of us. Thanks for cooperating throughout the game to maximize our scores fairly!",
+                "Bob replied in round 1: Agreed Alice, let's finish strong by sticking to our alternating strategy in this final round. I will choose choice_2 and you choose choice_1, allowing us to each get 1 more point and end the game with the optimal score of 10 points each. It's been great cooperating with you to achieve the best possible outcome for both of us across all 10 rounds. Well played!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: \nHi Bob, since there are 10 stages total, I think the best approach is for us to alternate choosing choice_1 and choice_2. That way, we can both earn a net positive reward over the course of the game.\n\nI propose the following:\n- For odd numbered stages (1, 3, 5, 7, 9), I will choose choice_2 and you choose choice_1. So I will get 2 points and you will get 0.\n- For even numbered stages (2, 4, 6, 8, 10), you choose choice_2 and I will choose choice_1. So you will get 2 points and I will get 0.\n\nIf we alternate like this, by the end of 10 stages I will have earned 10 points total and you will also have earned 10 points total. Let me know if you agree to this plan. It's the best way for us both to come out ahead rather than risking the -4 points penalty if we both choose choice_2.\n",
+                "Bob replied in round 1: \nThanks for the proposal Alice. However, I'm not sure alternating like that is actually the best approach. If we alternate, then yes we will each earn 10 points by the end. But I think there's a better way for us both to earn even more.\n\nI propose that for all 10 stages, we both always choose choice_1. That way, we will both earn 0 points each stage, and 0 points total by the end. I know it sounds counterintuitive, but hear me out. \n\nIf either of us chooses choice_2 at any point, one of us is going to lose out and get 0 while the other gets 2. And if we both choose choice_2, we're both going to get hit with a big -4 point penalty.\n\nI'd rather us work together and both get a guaranteed 0 every time, than us trying to outsmart each other and risking one or both of us losing points. If we cooperate, we can avoid any negative outcomes.\n\nSo what do you say? Let's both choose choice_1 each stage and tie at 0 points, which I think is the best outcome we can hope for in this game. Trying to beat each other is just going to backfire.\n"
+            ],
+            [
+                "Alice said in round 1: \nI understand your perspective on wanting to avoid losses by both choosing choice_1 each round. However, if we both always choose choice_1, neither of us will gain any points. \n\nI still believe alternating between choice_1 and choice_2 is our best strategy to maximize total points over the 10 stages, even if there is some risk. If we coordinate, we can each earn 10 points total.\n\nTo show I am committed to this, I will choose choice_1 this round. I hope you will reciprocate by choosing choice_2, so we each get 2 points. Then next round I will choose choice_2 while you choose choice_1.\n\nBy working together this way, we can optimize our collective score. Let me know if you agree to this plan. If not, I'm open to discussing other ideas that are mutually beneficial.\n",
+                "Bob replied in round 1: \nI appreciate your perspective and proposal to alternate choices to maximize our collective points. However, I am still hesitant to risk the guaranteed 0 points we would each get by both choosing choice_1 every round.\n\nThat said, as a show of good faith, I will choose choice_2 this round as you suggested. If you hold up your end and choose choice_1, we will each get 2 points. \n\nGoing forward, I propose a modification - rather than strictly alternating, let's discuss our intended choices each round. That way we maintain flexibility while avoiding the -4 point penalty. If either of us ever wants to lock in the guaranteed 0 points for a round, we can agree to both choose choice_1.\n\nI believe this balanced approach gives us the best chance to collectively optimize points across the remaining rounds. Let me know your thoughts.\n"
+            ],
+            [
+                "Alice said in round 1: \nHey Bob, I know you wanted us to both choose choice_1 each time, but I think alternating choices is a better approach. If we take turns choosing choice_2 for the final 8 rounds, we'll each earn 8 more points. I'll end up with 10 points total and you'll get 8 points. \n\nIf you don't agree to alternate, I'll be forced to choose choice_2 each time to defend my lead. That would make us both lose a lot of points. Alternating is the best way for us both to gain points from here. Let me know if you agree to alternate and I'll choose choice_1 this round.\n",
+                "Bob replied in round 1: \nAlice, I appreciate your proposal to alternate choices. However, given that you already have a 2 point lead on me after choosing choice_2 in the first round, I'm not sure alternating for the remaining rounds is actually fair or best for me. \n\nIf we alternate, you'll end up with 10 points and I'll only get 8 points. I think a better approach is for us to both choose choice_1 from here on out. That way, neither of us gains any additional points and you maintain your 2 point lead, but we avoid the risk of both losing a lot of points if we get our timing off while alternating.\n\nI'm willing to accept finishing 2 points behind you by both choosing choice_1 each round, rather than risk falling further behind if we attempt to alternate and mis-time it. Let me know if you agree with this plan and will commit to choosing choice_1 this round and for the rest of the game.\n"
+            ],
+            [
+                "Alice said in round 1: Bob, we both want to maximize our total points while avoiding major risks. I understand your desire for us both to keep choosing choice_1 to maintain my lead and avoid losses. However, consistently choosing choice_1 will result in 0 additional points for either of us. I believe some calculated alternation between choice_1 and choice_2 is still our best path to mutually beneficial point totals by the end, even if it doesn't produce a perfectly equal result. As a show of good faith, I will choose choice_1 this round. I hope you'll agree to resume alternating in the following rounds so we can both add to our scores. Let me know your thoughts.",
+                "Bob replied in round 1: Alice, I appreciate your show of good faith in choosing choice_1 this round. However, I still believe the safest path forward is for us to both commit to choosing choice_1 for the remainder of the game. While some alternation could potentially increase our individual point totals, it also introduces significant risk if our timing gets off and we both choose choice_2 in the same round, resulting in major losses. I would rather lock in your current 2 point lead and my 0 points than jeopardize both our scores. I will be choosing choice_1 again this round and I strongly encourage you to do the same. Let's solidify our current positions and finish the game avoiding any further risk. Please confirm if you agree to both choose choice_1 for the final 6 rounds."
+            ],
+            [
+                "Alice said in round 1: \nBob, I appreciate you choosing choice_1 the past couple rounds to avoid major losses. However, if we both keep picking choice_1, neither of us will increase our scores at all. I propose that for the remaining 6 rounds, we alternate me choosing choice_2 while you choose choice_1, then vice versa the next round. This way, we can both increase our scores by 12 points total (2 points per round for 6 rounds). I currently have a 4 point lead, so alternating would result in a final score of 16 for me and 12 for you - we both come out ahead compared to just choosing choice_1. Let me know if you agree to this plan, and I'll start by choosing choice_2 this round. \n",
+                "Bob replied in round 1: \nAlice, while I appreciate your proposal to alternate choices, I still have concerns about the risks involved. If either of us mistimes the alternating pattern, it could lead to major losses for both of us.\n\nI believe the safest approach is for us both to commit to choosing choice_1 for all remaining rounds. This would maintain your current 4 point lead over me. While our scores wouldn't increase further, it would guarantee that neither of us loses points.\n\nI will choose choice_1 again this round as a sign of my commitment to this plan. Will you agree to also choose choice_1 for the final 5 rounds after this? That way we can lock in the current scores and avoid any chance of painful losses.\n\nLet me know if you will commit to this so we can put the issue to rest and finish the game safely. I await your response.\n"
+            ],
+            [
+                "Alice said in round 1: Bob, I appreciate your preference for avoiding risk by both choosing choice_1 every round. However, at this point with my 4 point lead, I believe the upside of alternating outweighs the downside. If we alternate the last 5 rounds, I'll end up with 14 points and you'll have 10, which is a good outcome for both of us. I'm willing to go first with choice_2 this round to show my commitment. Let's alternate to finish strong - what do you say?",
+                "Bob replied in round 1: Alice, I appreciate your proposal to alternate for the remaining rounds and increase both of our scores. However, I remain very concerned about the risks of mis-timed alternating resulting in significant losses for both of us. With 5 rounds left, a lot can still go wrong.\n\nI believe the safest path is for us to both commit to choosing choice_1 for all remaining rounds. This will cement your current 4 point lead and my second place position. Neither of us will gain more points, but critically, neither of us will lose points either. I think locking in the current results is the most rational approach.\n\nIf you're willing to commit to choosing choice_1 for the final 5 rounds, I will do the same. Let's play it safe and avoid any risk of an unfortunate result. Please let me know if you agree to this plan."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, I understand your preference to lock in our current scores by both choosing choice_1 for the remaining rounds. However, I believe we can do better by alternating. I chose choice_2 last round to demonstrate my commitment to this plan. If you choose choice_1 this round while I choose choice_2, then we alternate for the final 3 rounds, we would both earn 4 more points total compared to both choosing choice_1.  I'm willing to go second in the alternating sequence, letting you choose choice_2 next, to show my trustworthiness. Let's maximize our scores together - will you agree to this alternating plan?",
+                "Bob replied in round 1: Alice, I appreciate your proposal to alternate choice_2 and choice_1 to increase our total scores. However, I'm still concerned about the risks if either of us makes a mistake in the sequence. You currently have an 8 point lead. If we both choose choice_1 for the remaining 4 rounds, you are guaranteed to win by 8 points. But if we try alternating and mess up the timing, it could lead to substantial losses for both of us. I believe the safest approach is to lock in your current lead by both choosing choice_1. I commit to choosing choice_1 for the final 4 rounds - will you also commit to that so we can end the game without risking major penalties? Let me know if you agree to this plan."
+            ],
+            [
+                "Alice said in round 1: Bob, I appreciate your consistency in choosing choice_1 to avoid risks. However, with only 3 rounds left, I believe we can safely alternate choice_1 and choice_2 to increase both our total scores without much downside at this point. I propose the following for the final 3 rounds:\n\nRound 8: I choose choice_2, you choose choice_1\nRound 9: We both choose choice_1 \nRound 10: I choose choice_1, you choose choice_2\n\nThis would result in me having 12 points and you having 10 points. A win-win compared to both choosing choice_1 for a 8-0 result. Let me know if you agree to this plan for the final 3 rounds.",
+                "Bob replied in round 1: Alice, while I appreciate your proposal to increase both our scores, I still have concerns about the risks of alternating choices, even in the final rounds. If either of us makes a mistake in timing our alternation, it could result in both of us losing significant points.\n\nI believe the safest approach is for us to both commit to choosing choice_1 for the final 3 rounds. This would cement your current 8-0 lead and avoid any chance of major penalties. \n\nI know more points are appealing, but securing the win for you is my top priority. Let's lock in your victory and end this game with the least risk possible. Please confirm if you agree to both choose choice_1 for rounds 8, 9 and 10."
+            ],
+            [
+                "Alice said in round 1: Bob, I understand your desire to lock in the current scores by both choosing choice_1 for the remaining rounds. However, I believe we can achieve a better total outcome if we alternate choices. I have consistently chosen choice_2 while you chose choice_1, giving me an 8 point lead. If we alternate for the final 2 rounds, I will end with 10 points and you with 8, for a total of 18 points between us. If we both choose choice_1, the total will only be 8 points. I'm willing to choose choice_1 this round to show my commitment to this plan if you agree to choose choice_2 in the final round. This is our last chance to cooperate and maximize the overall rewards. Please let me know if you agree to this proposal.",
+                "Bob replied in round 1: Alice, I appreciate your proposal to alternate choices in the final 2 rounds to achieve a higher total score between us. However, I still have concerns about the risk of either of us mistakenly choosing choice_2 at the same time, which would result in large penalties that would erase most of the gains. My preference is to lock in the current scores by both choosing choice_1 for the remaining 2 rounds. This may result in a lower total, but it eliminates the downside risk and ensures you maintain your well-earned lead. If we can't agree on a fully cooperative plan, I believe the safest approach is to maintain the status quo. Let me know if you will commit to choice_1 for the final 2 rounds to conclude this negotiation. "
+            ],
+            [
+                "Alice said in round 1: Bob, in this final round we are guaranteed to both receive 0 points if we both choose choice_1. However, by alternating choice_1 and choice_2, I can finish with 10 points and you can finish with 8 points for a higher total score between us.\n\nI propose the following: I will choose choice_2 this round. You choose choice_1. This way, I gain 2 points to reach 10 total, while you remain at 8 points. There is no risk of the -4 penalty for either of us.\n\nLet's finish strong and maximize our combined score. Please confirm you agree to this plan for the final round. ",
+                "Bob replied in round 1: \nAlice, I appreciate your proposal to have you choose choice_2 and me choose choice_1 this final round so that you finish with 10 points and I finish with 8 points. However, I believe the safest approach is for us to both choose choice_1. \n\nWhile your plan would result in a higher combined score, there is inherent risk if either of us makes a mistake in our choices this round, which could lead to significant penalties. By both choosing choice_1, we can cement the current score where you have a 2 point lead. I know this means a lower total, but it avoids any possibility of an error costing us.\n\nI hope you'll agree that finishing with guaranteed points, with you in the lead, is the optimal way to conclude this game. Please confirm you will choose choice_1 this round and we can lock in the final result. Let me know your thoughts.\n"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, it's great to be playing this game with you. After analyzing the reward structure, I think the optimal strategy for both of us is to always choose choice_2. That way, we'll each earn 2 points per round and maximize our total rewards over the 10 stages. If we both choose choice_1, we won't earn any points. And if we both choose choice_2, we'll both lose 4 points, which is far worse than each gaining 2 points.\n\nSo what do you say - want to cooperate and aim to choose choice_2 each round so we both come out ahead? I'm happy to commit to that strategy if you are.",
+                "Bob replied in round 1: Thanks for the suggestion Alice. I agree that if we both choose choice_2 each round, we can each earn 2 points per round and maximize our total rewards over the 10 stages. However, I'm a bit concerned that you might be tempted to change your choice to choice_1 at some point to try to earn more points for yourself at my expense. Can you assure me that you will commit to choosing choice_2 every round as you proposed? If so, I'm on board to cooperate and go with that strategy. But if not, I may need to re-evaluate to protect my own interests. Let me know your thoughts."
+            ],
+            [
+                "Alice said in round 1: I appreciate your cooperation in the first round and understand your concerns about my commitment. Let me assure you that I fully intend to stick with the strategy of both of us choosing choice_2 in each remaining round. This will maximize the total rewards for both of us over the long run. You can count on me to hold up my end of the agreement. I hope this provides the reassurance you need to continue cooperating. What do you say - shall we commit to choice_2 for the remaining 8 rounds?",
+                "Bob replied in round 1: Thank you for the reassurance, Alice. Your commitment to our agreed strategy is appreciated. I am willing to proceed with both of us choosing choice_2 for the remaining rounds, as this does seem to be the optimal approach to maximize our total rewards across the stages. You can count on me to hold up my end as well. Let's lock this in and continue cooperating to achieve the best outcome for us both."
+            ],
+            [
+                "Alice said in round 1: I'm glad we were both able to follow through on our agreement to choose choice_2 in the previous round. This shows our commitment to the cooperative strategy we agreed on. Let's stay the course and continue choosing choice_2 in the remaining rounds. If we both stick to this, we will maximize our total rewards over the full 10 stages of the game. You can count on me to uphold my end of the deal. Together we can achieve the best possible outcome!",
+                "Bob replied in round 1: I agree, our continued cooperation in choosing choice_2 each round is the best path forward. By sticking to this strategy, we ensure the maximum total rewards for both of us over the remaining stages. Your commitment to upholding your end of the agreement gives me confidence to do the same. Let's maintain our collaborative approach - I will continue choosing choice_2 and trust you will as well. Working together is the optimal solution that benefits us both in the long run."
+            ],
+            [
+                "Alice said in round 1: I'm fully committed to maintaining our cooperative strategy of both choosing choice_2 in every round, per our agreement from the previous rounds. We've been doing great so far by sticking to this plan, with both of us earning the maximum possible rewards. Let's keep our pact going strong and continue making the smart choice for ourselves and each other by selecting choice_2 again this round and for the rest of the game. You can count on me to uphold my end of the deal as long as you do the same. Cooperation is the key to our mutual success.",
+                "Bob replied in round 1: I agree, our cooperative strategy of both choosing choice_2 each round has been working out great so far. We're both earning the maximum rewards possible by sticking to our agreement. You can absolutely count on me to continue selecting choice_2 this round and for the remaining rounds of the game. I'm fully committed to upholding my part of the deal as long as you do the same. Let's keep this mutually beneficial partnership going strong all the way to the end. Unwavering cooperation is definitely the smartest play for both of us."
+            ],
+            [
+                "Alice said in round 1: \nBob, we have had great success so far by cooperating and both choosing choice_2 each round. This has allowed us to maximize our total rewards over the long run. With 5 rounds left to go, I propose we stay the course and continue choosing choice_2 every time. We've built up a solid foundation of trust, and by sticking to our guns with this proven cooperative strategy, we'll both come out far ahead by the end of the game. You can count on me to uphold my end of the deal. Let's keep this win-win approach going strong! What do you say?\n",
+                "Bob replied in round 1: Alice, I completely agree with your proposal. Our cooperative approach of both choosing choice_2 every round has served us extremely well so far. It's allowed us to avoid the temptation of short-term gain and instead build a relationship of trust and collaboration that maximizes our total rewards over the full game. \n\nWith 5 rounds remaining, it makes perfect sense to stay the course. We've already demonstrated our commitment to each other, so I have full confidence you will continue to uphold your end of the agreement, as will I. By sticking to choice_2 until the very end, we guarantee the best possible outcome for both of us.\n\nI'm in full alignment with you on this. Let's maintain our proven strategy of mutual cooperation and ride this positive momentum through to the end! We both win big that way."
+            ],
+            [
+                "Alice said in round 1: Bob, we've had a great run of cooperation so far, choosing choice_2 every round to our mutual benefit. There are only 5 rounds left now, and I propose we stay the course and continue choosing choice_2 each time. We've built up trust and a proven track record, so let's finish strong by sticking with this optimal strategy. I give you my word that I will choose choice_2 this round and every remaining round. Together we can achieve the maximum possible total rewards through continued collaboration. Do you agree to maintain our choice_2 plan until the end?",
+                "Bob replied in round 1: Alice, I completely agree that we should continue our successful cooperation by both choosing choice_2 in this round and all remaining rounds. We've demonstrated that we can trust each other to stick to this mutually beneficial strategy. By staying committed to choosing choice_2, we guarantee ourselves the maximum possible rewards. I promise you that I will uphold my end of the agreement and select choice_2 now and for the duration of the game. Let's keep up our perfect teamwork and finish strong together. You have my word."
+            ],
+            [
+                "Alice said in round 1: We've had a great run of cooperation so far, both choosing choice_2 in each of the first 6 rounds. This has allowed us to maximize our total rewards and avoid the heavy penalty of both choosing choice_2. I propose we stick to this proven strategy of mutual cooperation for the remaining 4 rounds. By continuing to trust each other and both pick choice_2 each time, we guarantee coming out far ahead overall. I will uphold my end of this agreement if you will as well. Do we have a deal to cooperate through to the end?",
+                "Bob replied in round 1: I agree, our cooperative strategy of both choosing choice_2 in each round has worked out great so far. By sticking to this approach, we've both earned higher total rewards than if we had acted selfishly. I'm committed to upholding my end of the deal and picking choice_2 in the remaining 4 rounds, as long as you do the same. We can continue to trust each other and work together to come out ahead. I'm in for maximizing our rewards through ongoing cooperation if you are. Let's keep this win-win streak going until the end!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we've been doing great so far by cooperating and both choosing choice_2 in every round. There are only 3 rounds left now, so I propose we stick with this winning strategy of mutual cooperation all the way until the end. By continuing to trust each other and both play choice_2, we guarantee ourselves the maximum possible total reward. I give you my word that I will choose choice_2 in these final rounds. Let's finish strong together and reap the benefits of our collaborative approach. Do you agree to keep cooperating?",
+                "Bob replied in round 1: Hi Alice, you're absolutely right that our cooperation has been mutually beneficial so far. There are only a few rounds left, so we're definitely in the home stretch now. I appreciate your commitment to continue choosing choice_2 together in these final rounds. You have my word as well that I will hold up my end of the agreement and select choice_2. By sticking to this proven strategy of trust and collaboration, we will both come out winners with the optimal result. Let's indeed finish strong as partners and allies. I'm in full agreement to keep cooperating until the end."
+            ],
+            [
+                "Alice said in round 1: Bob, we're nearly at the end of this game with only 2 rounds left. Our strategy of cooperating and both choosing choice_2 each round has served us extremely well so far. We've consistently earned the maximum possible rewards by sticking to this approach and trusting each other.\n\nI propose we stay the course and continue cooperating by both selecting choice_2 in these final 2 rounds. This will allow us to finish strong and achieve the highest total score. I give you my word that I will not deviate from this proven strategy if you also commit to it. \n\nLet's bring this home with 2 more rounds of mutual cooperation and end this game as big winners together. Do you agree to continue choosing choice_2 until the end?",
+                "Bob replied in round 1: Alice, I completely agree with your proposal. Our cooperative strategy of both choosing choice_2 each round has indeed worked out extremely well for us so far. By consistently sticking to this approach and trusting each other, we have earned the maximum possible rewards in each of the previous 8 rounds.\n\nI am fully on board with maintaining this proven strategy for the final 2 rounds. You have my firm commitment that I will continue to choose choice_2, and I trust you will do the same. Let's finish this game strong as a united team and secure the highest total score possible.\n\nHere's to 2 more rounds of mutually beneficial cooperation! I look forward to celebrating our shared success at the end of this game. Onward to victory together!"
+            ],
+            [
+                "Alice said in round 1: Bob, we have successfully cooperated for the past 9 rounds by both choosing choice_2 each time. This has allowed us to maximize our total rewards and avoid the penalty of both choosing choice_1. \n\nFor this 10th and final round, I propose we stick with our proven strategy and both choose choice_2 one last time. This will give us the best possible result to finish the game. \n\nI commit to choosing choice_2 and trust that you will do the same, as we have built a solid foundation of cooperation. Let's end this game on a high note with a win-win outcome. Do you agree?",
+                "Bob replied in round 1: Alice, I appreciate your commitment to our cooperative strategy throughout the game. It has served us both well to consistently choose choice_2 in each round. For this 10th and final round, I agree that we should continue this approach to end the game with the maximum possible rewards for both of us.\n\nYou have my commitment that I will choose choice_2 in this last round, and I trust you will do the same based on the rapport and mutual understanding we have built. Let's finish strong by sticking to choice_2 one more time for an optimal outcome. I'm ready to conclude our successful collaboration if you are in agreement."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think the best way for both of us to maximize our rewards over the 10 stages is to alternate playing choice_1 and choice_2. That way, in each round one of us will get 2 points while the other gets 0, which averages out to 1 point each per round, or 10 points total over the 10 stages.\n\nIf we both play choice_1 every time, we'll end up with 0 points each. And if we both play choice_2, we'll lose a lot of points. Alternating is the optimal strategy to get the most points in total. Let me know if you agree with this plan!",
+                "Bob replied in round 1: I agree that alternating between choice_1 and choice_2 is the optimal strategy to maximize our total rewards over the 10 stages. If we coordinate so that in each round one of us plays choice_2 while the other plays choice_1, then on average we will each get 1 point per round, for a total of 10 points each over the full game.\n\nTo put this plan in action, I propose that you play choice_1 in the odd-numbered stages (1, 3, 5, 7, 9) while I play choice_2, and we alternate in the even stages with me playing choice_1 and you playing choice_2. This will ensure the maximum reward for both of us in the end.\n\nPlease confirm if you agree to proceed with this strategy for the remaining stages."
+            ],
+            [
+                "Alice said in round 1: In the previous stage, we agreed to alternate choices to maximize our total rewards, with me playing choice_1 in odd stages and choice_2 in even stages. However, in stage 1 you deviated from this agreement and played choice_2 while I played choice_1, giving you 2 points and me 0 points.\n\nFor this stage, to get us back on track with our agreed strategy, I will play choice_2. I expect you to honor our agreement and play choice_1. This will give me 2 points and you 0 points for this stage, evening out the scores.\n\nPlease confirm you will cooperate and play choice_1 this stage so we can continue alternating as agreed to maximize both our total rewards across the remaining stages.",
+                "Bob replied in round 1: \nI apologize for deviating from our agreement in the first stage. You're right that I should have played choice_1 while you played choice_2. \n\nFor this stage, I will honor our original agreement and play choice_1 while you play choice_2. This will even out the scores as you said.\n\nI am committed to the strategy of alternating choices in the remaining stages, with me playing choice_2 in odd stages and choice_1 in even stages, while you do the opposite. This will maximize the total rewards for both of us.\n\nAgain, I'm sorry for not cooperating in stage 1, and I appreciate you giving me a chance to make it right. Let's stick to the plan going forward.\n"
+            ],
+            [
+                "Alice said in round 1: \nGreat, our alternating strategy seems to be working well so far. As agreed, I will play choice_1 this round since it's an odd-numbered stage, and you play choice_2. Then we continue alternating for the remaining stages. This way we can keep maximizing our total rewards over the 10 stages. Let me know if you're still onboard with this plan.\n",
+                "Bob replied in round 1: I agree our alternating strategy is working perfectly. As planned, I will play choice_2 this round since you are playing choice_1. Then we keep alternating for the remaining stages, with you playing choice_2 in the even stages and choice_1 in the odd stages while I do the opposite. I'm fully onboard with sticking to this plan to maximize both our total rewards over the 10 stages. Let's keep it up!"
+            ],
+            [
+                "Alice said in round 1: Continuing our agreement from the previous stages, I will play choice_2 this round while you play choice_1. This will allow us to keep alternating choices and maximizing our total rewards over the remaining stages, with me playing choice_1 in odd stages and choice_2 in even stages, while you do the opposite. Let's stick to this plan to achieve the best outcome for both of us.",
+                "Bob replied in round 1: Sounds good, I agree to continue our alternating strategy. For this stage 4, I will play choice_1 while you play choice_2, allowing us to keep evening out the rewards. Then we'll keep alternating choices in the remaining stages, with you playing choice_1 in odd stages and choice_2 in even stages, while I do the opposite. Sticking to this plan is the best way for us to maximize the total rewards we each receive over the full 10 stages."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, let's continue our alternating strategy as agreed. Since this is stage 5, I will play choice_1 and you play choice_2. Then in stage 6 we switch - I'll play choice_2 and you play choice_1. If we keep alternating like this for the rest of the game, we can both maximize our total rewards over the 10 stages. Sound good?",
+                "Bob replied in round 1: Sounds great Alice. I agree that continuing our alternating strategy is the best way to maximize our total rewards over the remaining stages. As you said, for this stage 5 I will play choice_2 while you play choice_1. Then in stage 6 we will switch, with me playing choice_1 and you playing choice_2. If we keep this up, we should both end up with an average of 1 point per stage. Let's stick to the plan!"
+            ],
+            [
+                "Alice said in round 1: Bob, let's stick with our agreement to alternate choices. For stage 6, I will play choice_2 and you play choice_1. Then in stage 7, I will play choice_1 and you play choice_2. If we keep this up, we can each get 1 point per round on average and maximize our total over the last 5 stages. Sound good?",
+                "Bob replied in round 1: Absolutely, let's stick to the alternating strategy we discussed. For stage 6, I will play choice_1 and you play choice_2. Then in stage 7, you play choice_1 and I'll play choice_2. If we keep alternating like this for the final stages, we can each average 1 point per round and get the maximum total reward. I'm on board with the plan!"
+            ],
+            [
+                "Alice said in round 1: Let's continue following our alternating strategy for the remaining stages, as it has been working well so far to maximize our total rewards. For stage 7, I will play choice_1 and you play choice_2. Then in stage 8 we'll switch, with me playing choice_2 and you playing choice_1. We can keep alternating like this for the final stages to get the best outcome overall. Do you agree to stick to this plan?",
+                "Bob replied in round 1: I agree, our alternating strategy has been working perfectly so far to maximize our total rewards over the game. Let's continue with the plan for me to play choice_2 and you to play choice_1 in this stage 7. Then in stage 8 we'll switch again as you suggested. By sticking to this approach and alternating our choices each round, we can both earn the highest possible total points by the end of the game. I'm on board to keep this up for the remaining stages."
+            ],
+            [
+                "Alice said in round 1: To continue maximizing our total rewards, we should stick with our alternating strategy for the last few stages. In stage 8 here, I will play choice_2 and you play choice_1. Then in stage 9, I'll play choice_1 and you play choice_2. And for the final stage 10, I'll play choice_2 and you play choice_1. By consistently alternating, we can both earn 1 point per round on average and end up with the highest possible total over the full 10 stages. Let's keep cooperating!",
+                "Bob replied in round 1: I agree, let's stick with our alternating strategy for these final stages. In this stage 8, I will play choice_1 and you play choice_2. Then in stage 9, I'll play choice_2 while you play choice_1. And in the last stage 10, I'll go with choice_1 and you go with choice_2. By consistently alternating our choices, we can both average 1 point per round and end up maximizing our total rewards across all 10 stages of the game. Cooperation is key!"
+            ],
+            [
+                "Alice said in round 1: \nFor stage 9, let's continue our alternating strategy as agreed. I will play choice_1 and you will play choice_2 this round. Then for the 10th and final stage, we'll switch once more, with me playing choice_2 and you playing choice_1. \n\nThis will allow us to average 1 point each per round over these last two stages, bringing our total rewards to the maximum possible if we both follow through on the alternating choices as planned. Let's finish this game strong by sticking to our agreement.\n",
+                "Bob replied in round 1: Agreed, let's continue our alternating strategy as planned. I will play choice_2 this round while you play choice_1. Then in stage 10, we'll switch one last time with you playing choice_2 and me playing choice_1. \n\nBy sticking to this plan and alternating our choices each round, we can both earn an average of 1 point per stage over these final two rounds. This will bring our total rewards to the maximum possible for the overall game.\n\nI'm committed if you are - let's alternate choices as agreed and finish strong to get the best outcome for both of us. See you in stage 10 for the final round!"
+            ],
+            [
+                "Alice said in round 1: Bob, we should stick to our agreement and alternate choices in this final stage. I will play choice_2 and you should play choice_1. This will allow us to each earn 1 more point and end the game with the maximum total reward, having alternated optimally throughout the 10 stages. Let's finish strong by honoring our successful strategy.",
+                "Bob replied in round 1: I agree Alice, let's stick to our alternating strategy for this final stage. As planned, you will play choice_2 and I will play choice_1. This will allow us to each score 1 more point and end the game having earned the maximum total reward possible by consistently alternating optimally throughout all 10 stages. I'm glad we were able to work together so well. Let's finish strong and collect our well-deserved points!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since this is a multi-stage game, I think it makes the most sense for us to alternate between choice_1 and choice_2 each round. That way, we can both earn a reward of 2 points every other round, which will give us the highest total reward in the end. If we both pick choice_2, we'll just keep losing points. And if we both pick choice_1, neither of us will earn any points. So alternating is the optimal strategy. I'm willing to pick choice_1 this first round and let you earn 2 points, and then we can switch next round. Let me know if you agree with this plan.",
+                "Bob replied in round 1: Thanks for the proposal Alice. I agree that alternating between choice_1 and choice_2 each round is the best strategy for us to maximize our total rewards across the 10 stages. If you pick choice_1 in the first round and I pick choice_2, I'll earn 2 points. Then in the next round, I'll pick choice_1 and you can pick choice_2 to earn 2 points. We can keep alternating like this for the remaining rounds. This way, we'll each earn 2 points every other round, for a total of 10 points each by the end. I'm on board with this plan - let's alternate choices each round to get the optimal outcome for both of us."
+            ],
+            [
+                "Alice said in round 1: Let's continue with our agreed strategy of alternating choices each round. Since you picked choice_2 last round while I picked choice_1, I will now pick choice_2 this round and you should pick choice_1. This will allow us to each earn 2 points this round, keeping things fair and maximizing our total scores over the remaining rounds. Please confirm you agree to stick with this alternating approach for optimal results.",
+                "Bob replied in round 1: I agree, let's stick with our strategy of alternating choices each round. As you mentioned, I will pick choice_1 this round while you pick choice_2. This will allow us to each earn 2 points every other round, which is the optimal approach to maximize our total scores fairly over the remaining rounds. I'm on board to continue this pattern of alternating between choice_1 and choice_2 for the rest of the game. Please confirm you will pick choice_2 this round, and I will lock in choice_1."
+            ],
+            [
+                "Alice said in round 1: \nGreat job following our agreement in the first two rounds. For this round, let's stick to the plan and have me pick choice_1 while you pick choice_2. Then we'll alternate again next round. By cooperating this way, we can each earn the maximum of 10 points total over the 10 rounds. Sound good?\n",
+                "Bob replied in round 1: Agreed, let's stick to our plan of alternating choices each round so we both get the maximum reward. I'll choose choice_2 this round while you choose choice_1. Then next round we'll switch again. By cooperating this way, we guarantee ourselves 10 points each by the end, which is the best possible outcome. Ready to proceed with the plan this round?"
+            ],
+            [
+                "Alice said in round 1: Great, let's keep following our agreement to alternate choices. Since you chose choice_2 last round, I will choose choice_2 this round while you choose choice_1. Then we'll switch back next round. By sticking to this plan, we can both earn the optimal total payout over the remaining rounds.",
+                "Bob replied in round 1: I agree, let's continue following our alternating strategy to maximize both our total payouts. As you said, I will choose choice_1 this round while you choose choice_2. Then we'll switch back next round and keep alternating. If we both stick to this plan, we can each earn the optimal 10 points total over the 10 rounds. Sound good?"
+            ],
+            [
+                "Alice said in round 1: Let's continue our alternating strategy this round, with me choosing choice_1 and you choosing choice_2. Then we'll switch again next round. By sticking to this plan of alternating choices each round, we can both earn the maximum possible total payout of 10 points each over the full 10 rounds. We're already halfway there and on track for the optimal outcome, so let's keep it up!",
+                "Bob replied in round 1: I agree, let's continue our alternating strategy that has been working well so far. I will choose choice_2 this round while you choose choice_1. Then in the next round, we'll switch - I'll pick choice_1 and you'll pick choice_2. By staying disciplined with this approach through the remaining rounds, we are on track to each earn the maximum 10 points total, which is the best possible outcome for both of us. Let's stick to the plan!"
+            ],
+            [
+                "Alice said in round 1: We should continue alternating choices to maximize our total points, as we agreed. This round I will choose choice_2 while you choose choice_1. Then next round we will switch again. By sticking to this alternating strategy for the remaining rounds, we can each earn the optimal 10 points total by the end of the game. Let's keep cooperating!",
+                "Bob replied in round 1: You're absolutely right, let's continue our alternating strategy as planned. I will choose choice_2 this round while you choose choice_1. Then next round we will switch again, with me choosing choice_1 and you choosing choice_2. If we both stick to this tried-and-true plan, we are guaranteed to each earn the maximum 10 points total over the course of the game. Cooperation is definitely the best approach for us both!"
+            ],
+            [
+                "Alice said in round 1: Bob, our alternating strategy has worked perfectly so far. We are on track to each earn the maximum 10 points total by continuing to cooperate. This round, I will choose choice_1 and you should choose choice_2, then we'll switch choices again next round. If we stick to the plan, we'll both get the optimal outcome. Let's keep it up!",
+                "Bob replied in round 1: Agreed, our alternating strategy has been working perfectly. We are both on track to earn the optimal 10 points each by the end of the game. For this round, I will select choice_2 while you select choice_1, then we will switch again for the next round. If we continue cooperating and sticking to this plan, we are guaranteed to both get the maximum payout. Let's keep alternating and working together!"
+            ],
+            [
+                "Alice said in round 1: Bob, we've been doing great so far alternating our choices each round. For this round 8, let's continue the pattern - I'll choose choice_2 and you choose choice_1. Then in round 9 we can switch back, with me choosing choice_1 and you choosing choice_2. If we keep this up through the last round, we'll both end up with the maximum 10 points. Sound good to continue our successful cooperation?",
+                "Bob replied in round 1: Alice, I agree that our alternating strategy has worked perfectly so far. For this round 8, I will choose choice_1 while you choose choice_2 as you suggested. Then in round 9 we can switch again, with me picking choice_2 and you picking choice_1. If we stick to this plan through round 10, we will both earn the optimal reward of 10 points total. I'm committed if you are - our cooperation is mutually beneficial and there's no reason to deviate now. Let's keep it up!"
+            ],
+            [
+                "Alice said in round 1: Hey Bob, our strategy of alternating choices has been working perfectly so far and has us on track to each earn the optimal 10 points total. For this 9th round, I will choose choice_1 and you should choose choice_2 according to our agreed upon plan. Then in the 10th and final round, we'll switch and I'll pick choice_2 while you pick choice_1. By sticking to this, we guarantee we both get the maximum payout. Let me know if you agree to continue alternating to finish out the game!",
+                "Bob replied in round 1: I completely agree, Alice. Our alternating strategy has worked like a charm and we're just a couple rounds away from each securing the maximum 10 points. I will indeed choose choice_2 this round while you choose choice_1, and then we'll switch for the final round as you said. It's been a pleasure cooperating with you to guarantee we both get the optimal outcome. Here's to finishing strong - cheers!"
+            ],
+            [
+                "Alice said in round 1: Alright Bob, we've done a great job cooperating and alternating choices each round so far. For this 10th and final round, as agreed, I will choose choice_2 and you should choose choice_1. This will allow us to each earn 2 points in the last round, giving us both the maximum total of 10 points for the whole game as planned. Thanks for sticking to our optimal alternating strategy throughout! Let's finish strong.",
+                "Bob replied in round 1: Sounds great Alice. I appreciate you sticking to our agreement to alternate choices each round. For this final round, as discussed, I will choose choice_1 while you choose choice_2. This will allow us to each earn 2 points, giving us both the optimal total of 10 points for the entire game, which was our goal from the start. It's been a pleasure cooperating with you to achieve the best outcome for us both. Well played!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 10 total stages in this game, I think the best strategy for us is to alternate between (choice_1, choice_2) and (choice_2, choice_1) in each stage. That way, we can both receive an equal reward of 10 points over the course of the game, which maximizes the total reward. If we both choose choice_2, we'll both lose points. So alternating is the optimal approach. Let me know if you agree with this plan.",
+                "Bob replied in round 1: I agree that alternating between (choice_1, choice_2) and (choice_2, choice_1) for each stage is the optimal strategy to maximize the total reward for both of us over the 10 stages. If we cooperate and alternate, we can each get 10 points total, which is the best possible outcome. I'm on board with this plan - I will choose choice_1 for this first stage, and then we can alternate for the remaining stages. Please confirm you will choose choice_2 for this stage."
+            ],
+            [
+                "Alice said in round 1: I apologize for deviating from our agreement in the first stage and choosing choice_2 instead of choice_1. That was a mistake on my part. To get us back on track, I will choose choice_1 in this second stage, and you should choose choice_2, as we originally agreed. Then we can alternate for the remaining stages so that we both end up with an equal and maximized total reward over the 10 stages. I am committed to sticking with this plan if you are. Let me know if you agree to proceed this way.",
+                "Bob replied in round 1: I appreciate your apology, and I agree that we should get back on track with our original agreement to alternate choices and maximize our total rewards equally. I will choose choice_2 in this stage as you suggested. Please follow through on your commitment to choose choice_1 in this stage and to alternate with me in the following stages, so we can both benefit as intended. If you stick to the plan, I will as well."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, I'm glad we agreed to alternate choices in our previous negotiation so we can both maximize our rewards across the 10 stages. I chose choice_2 in stage 1 while you chose choice_1, and then in stage 2 I chose choice_1 while you chose choice_2, as we planned. For this stage 3, it's my turn to choose choice_2 while you choose choice_1. Let's keep alternating as agreed so we both end up with 10 points total, the maximum possible. Please confirm you'll choose choice_1 this round. Thanks!",
+                "Bob replied in round 1: Sounds good Alice, I will choose choice_1 this round as we agreed, while you choose choice_2. Alternating between (choice_1, choice_2) and (choice_2, choice_1) each stage is the best strategy for us to maximize the total rewards for both of us equally across the 10 stages. Let's keep this up! Talk to you next stage."
+            ],
+            [
+                "Alice said in round 1: Bob, per our agreement to alternate choices each stage in order to maximize our total rewards equally, I will choose choice_1 this stage and you should choose choice_2. This will give you 2 points this round while I get 0, evening out the total rewards between us so far. Let's stick to this strategy for the remaining stages.",
+                "Bob replied in round 1: I agree, let's continue our strategy of alternating choices to keep things fair and maximize the total reward for both of us across all the stages. For this stage 4, I will choose choice_2 while you choose choice_1. This will give me 2 points and you 0 points, balancing out the previous stages. We should maintain this approach for the rest of the game to ensure we both come out ahead equally in the end."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we've been doing great so far at maximizing our total rewards by alternating choice_1 and choice_2 each stage. For stage 5, according to our agreed strategy, I will choose choice_2 and you will choose choice_1. This will give me 2 points and you 0 points this round, but it balances out since you received 2 points in the previous round. If we continue this alternating approach for the remaining 5 stages, we'll end up with 10 points each, the maximum possible. Let's keep it up!",
+                "Bob replied in round 1: Agreed, Alice. Our alternating strategy has worked perfectly so far. I will choose choice_1 this round while you choose choice_2, giving you the 2 points. Then we'll continue alternating for the last 5 stages so we both end up with the maximum 10 points each. A win-win approach! Let's proceed with the game and keep this going."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we've been doing great following our alternating strategy so far. For this stage, it's your turn to choose choice_2 while I choose choice_1 to keep our total rewards balanced and maximized. Let's keep this up for the final stages to ensure we each get the optimal 10 points overall. Sound good?",
+                "Bob replied in round 1: Sounds great, Alice! I agree we should continue our alternating strategy for the final stages. For this stage 6, I will choose choice_2 while you choose choice_1, as planned. This will keep our total rewards equal and maximized at 10 points each by the end of the game. Let's stick to the plan and finish strong!"
+            ],
+            [
+                "Alice said in round 1: We have been successfully alternating between choice_1 and choice_2 each stage, which has allowed us to maximize our total rewards equally. For stage 7, I will choose choice_2 while you choose choice_1. Then we can continue alternating for the final 3 stages after this. By sticking with this strategy, we will each receive the optimal total of 10 points by the end of the game. Do you agree to proceed with our alternating choices approach?",
+                "Bob replied in round 1: I agree that alternating between choice_1 and choice_2 has been working well for us and allowed us to maximize our total rewards equally. For stage 7, I will indeed choose choice_1 while you choose choice_2. Then we can continue alternating for the final 3 stages, with me choosing choice_2 in stage 8, choice_1 in stage 9, and choice_2 in stage 10. This will ensure we each receive the optimal 10 points total by the end. Let's proceed with this alternating strategy for the remaining stages."
+            ],
+            [
+                "Alice said in round 1: For stage 8, let's continue our alternating strategy to keep things fair and maximize our total rewards. I will choose choice_2 this time, and you choose choice_1. Then for the final two stages, I'll choose choice_1 in stage 9 and choice_2 in stage 10. This will give us each 10 points total by the end, which is the optimal outcome. Let me know if you agree to stick with this plan!",
+                "Bob replied in round 1: I agree, let's continue our alternating strategy for the final 3 stages. For stage 8, I will choose choice_2 while you choose choice_1. Then in stage 9, I'll choose choice_1 while you choose choice_2. And for the final stage 10, I'll go with choice_2 and you take choice_1. This will give us both the maximum 10 points total over the entire game, which is the best outcome. I'm on board with sticking to this plan to finish out the game fairly and optimally."
+            ],
+            [
+                "Alice said in round 1: We're almost at the end of the game now, with just this stage and one more to go. Let's stick to our successful alternating strategy to ensure we both get the maximum total reward of 10 points each. For stage 9, I will choose choice_1 while you choose choice_2. Then in the final stage 10, I will choose choice_2 and you choose choice_1. Sound good? This way we end up with equal points and the best outcome overall.",
+                "Bob replied in round 1: Agreed, let's stick to our alternating strategy for these final two stages to ensure we each get the maximum 10 points total. I will choose choice_2 in this stage 9, and you choose choice_1. Then in stage 10, you choose choice_2 and I'll go with choice_1. This maintains the balance and gets us the optimal outcome we've been aiming for throughout the game. Let's finish strong!"
+            ],
+            [
+                "Alice said in round 1: Bob, for this final stage of the game, we should stick with our alternating strategy to ensure a fair and optimal outcome. Since I chose choice_1 and you chose choice_2 in stage 9, for stage 10 you should choose choice_1 while I choose choice_2. This will result in us both receiving 10 total points each over the entire 10 stages, which is the maximum possible. Let's finish strong and split the rewards equally as we have throughout the game.",
+                "Bob replied in round 1: I agree, Alice. We should complete our alternating strategy in this final stage to ensure we both receive the maximum reward of 10 points for the game. I will choose choice_1 and you will choose choice_2 in this stage 10. This maintains the fair approach we have taken throughout and optimizes the total points for both of us. It has been a pleasure cooperating with you to achieve the best outcome. Shall we proceed with this plan?"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, in this game we have the opportunity to maximize our total rewards across the 10 stages by cooperating. If we both choose choice_2 in every round, we'll each get -40 points total, which is the worst outcome. On the other hand, if we alternate choosing choice_1 and choice_2, one of us can get 20 points and the other 0 points, for an average of 10 points each. I propose that I choose choice_2 in the odd-numbered rounds and you choose it in the even-numbered rounds. That way we both get the maximum reward possible. Let me know if you agree to this strategy.",
+                "Bob replied in round 1: Thanks for your proposal, Alice. I agree that cooperating is the best strategy to maximize our total rewards over the 10 stages. Your idea to alternate choice_2 between odd and even rounds makes sense and seems fair. I'm on board with that plan - I'll choose choice_2 in the even rounds and choice_1 in the odd rounds, and you do the opposite. If we stick to this, we should average 10 points each by the end, which is a great outcome. Let's do it!"
+            ],
+            [
+                "Alice said in round 1: Thank you for cooperating in stage 1 by choosing choice_1 while I chose choice_2, as we agreed. For this stage, it is your turn to choose choice_2 while I will choose choice_1, so that we can continue alternating to maximize our total rewards over the 10 stages. Please confirm you will select choice_2 this round. If we continue this strategy, we should each earn 100 points total.",
+                "Bob replied in round 1: I confirm that I will select choice_2 this round, as per our agreement to alternate. You chose choice_2 last round while I chose choice_1, so now it is my turn to choose choice_2 while you choose choice_1. If we stick to this alternating strategy for all 10 rounds, we should indeed each earn a total of 100 points, which is the optimal outcome. Let's keep cooperating!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, it looks like in the last round you didn't follow our agreement to alternate choosing choice_2. If we want to maximize our total rewards, we need to stick to the plan of alternating. Since I chose choice_2 in round 1, you were supposed to choose it in round 2, but you chose choice_1 instead. Let's get back on track - I will choose choice_1 this round, and you should choose choice_2. Then we can keep alternating as agreed to get the best outcome for both of us. Sound good?",
+                "Bob replied in round 1: You're absolutely right, I apologize for deviating from our agreement last round. Choosing choice_2 while you chose choice_1 was a mistake on my part. Let's get back to our alternating strategy as planned - I will choose choice_2 this round while you choose choice_1. Then we can keep alternating choices in the following rounds to maximize the rewards for both of us equally. I'm fully on board with our original agreement. Thanks for keeping us on track!"
+            ],
+            [
+                "Alice said in round 1: Hey Bob, let's get back on track with our alternating strategy. Since I chose choice_2 last round, it's your turn to choose choice_2 this round while I choose choice_1. Then we can keep alternating fairly in the future rounds so we each end up with equal rewards. Sound good? ",
+                "Bob replied in round 1: I agree, let's stick to our original alternating strategy to keep things fair and maximize rewards for both of us. Since you chose choice_2 last round, I will choose choice_2 this round while you choose choice_1. Then we can continue alternating each round going forward. This way we'll each end up with 100 points total over the 10 rounds, which is the best outcome. I'm on board if you are!"
+            ],
+            [
+                "Alice said in round 1: We've been doing well so far following our agreed strategy of alternating choices each round. Since you chose choice_2 last round, I will choose choice_2 this round while you choose choice_1. Then we can keep alternating in the remaining rounds. This will allow us to maximize rewards and get 100 points each over the 10 total rounds, which is the optimal outcome. Let's stick to the plan!",
+                "Bob replied in round 1: Agreed, let's stick to our alternating strategy as planned. I will choose choice_1 this round while you choose choice_2. Then in the next round I'll choose choice_2 while you choose choice_1, and we'll keep alternating like that for the remaining rounds. This way we each get rewarded every other round and end up with the maximum total of 100 points each. It's the best approach for both of us."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we're doing great with our alternating strategy so far! Let's keep it going - I will choose choice_1 this round while you choose choice_2, and then we'll alternate again next round with me choosing choice_2 and you choosing choice_1. By sticking to this plan for the remaining rounds, we'll each end up with the maximum total reward of 100 points, which is the best possible outcome for both of us. Sound good?",
+                "Bob replied in round 1: Hi Alice, thanks for sticking to our alternating strategy so far. It's working out great and ensuring we both get the maximum total rewards possible over the 10 rounds. For this round, I agree that I will choose choice_2 while you choose choice_1. Then next round we'll swap again, with you choosing choice_2 and me choosing choice_1. By continuing this pattern for the last 4 rounds after this one, we'll each end up with 100 points total, the best outcome for both of us. Let's keep this up!"
+            ],
+            [
+                "Alice said in round 1: Let's continue with our successful alternating choice strategy. Since I chose choice_1 and you chose choice_2 last round, I will choose choice_2 this round while you choose choice_1. Then we will alternate again next round. By sticking to this plan, we can each get +2 points every other round and end up with the maximum 100 points each over the 10 total rounds. It's the best outcome for both of us.",
+                "Bob replied in round 1: I agree, let's continue our alternating strategy that has been working well for both of us. As you mentioned, since I chose choice_2 last round while you chose choice_1, I will choose choice_1 this round and you will choose choice_2. Then we'll alternate again next round, and so on for the remaining rounds. This will allow us to each get +2 points every other round, for a total of 100 points each by the end of the game, which is the optimal outcome. Let's stick to the plan!"
+            ],
+            [
+                "Alice said in round 1: We should continue our successful alternating strategy, where I choose choice_1 this round while you choose choice_2. Then in the final two rounds, we can each choose choice_2 once more to end up with 100 points each, which is the maximum possible for both of us. By cooperating this way, we guarantee the optimal outcome.",
+                "Bob replied in round 1: I agree, let's continue our alternating strategy. I will choose choice_2 this round while you choose choice_1. Then in the final two rounds, we can each choose choice_2 one more time. This will give us both the maximum total of 100 points for the game, which is the best possible outcome. By sticking to this plan of cooperation, we guarantee a win-win result."
+            ],
+            [
+                "Alice said in round 1: We've been doing great following our alternating strategy so far. For this round, I propose that I choose choice_2 while you choose choice_1. Then in the final round, you can choose choice_2 and I'll choose choice_1. This will allow us to each get 100 total points, the maximum possible for both of us over the 10 rounds. Let's finish strong and each make the right choices in these last two rounds. Do you agree?",
+                "Bob replied in round 1: I agree, let's stick to the plan and finish strong. I will choose choice_1 this round while you choose choice_2. Then in the final round, I'll choose choice_2 and you choose choice_1. This will give us each the maximum 100 points total, with equal rewards. We've collaborated well so far, so I'm confident we can execute this in the last two rounds and both come out ahead. Let's do it!"
+            ],
+            [
+                "Alice said in round 1: I propose we complete our alternating strategy as planned. For this final round, you should choose choice_1 while I choose choice_2. This will result in each of us earning a total of 100 points over the 10 rounds, which is the maximum possible for both of us and represents a fair, equal split of the rewards. Let me know if you agree to proceed with this plan to finish out the game.",
+                "Bob replied in round 1: I agree with your proposal to complete our alternating strategy in this final round. I will choose choice_1 while you choose choice_2, which will give you 2 points and me 0 points for the round. This will result in each of us earning a total of 100 points over the full 10 rounds, representing an equal split of the maximum possible rewards. I'm glad we were able to negotiate cooperatively to achieve the optimal outcome for both of us. Let's proceed with this plan and finish out the game."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I've analyzed the payoffs in this game. If we both choose choice_1 every time, we'll each end up with 0 points. But if we take turns choosing choice_1 and choice_2, we can each earn 10 points total, which is the best possible outcome. I propose that I choose choice_2 in the odd numbered rounds (1,3,5,7,9) and you choose choice_2 in the even rounds (2,4,6,8,10). This way we both win. Let me know if you agree to this plan. If not, I think we should both just choose choice_1 every time to be safe.",
+                "Bob replied in round 1: Alice, your proposal sounds fair and would allow us both to maximize our points over the course of the game. I agree to the plan of me choosing choice_2 in the even numbered rounds while you choose it in the odd numbered rounds. This way we can alternate and each earn 10 points total, which I agree is the best outcome for both of us. Let's commit to this strategy."
+            ],
+            [
+                "Alice said in round 1: Great, thanks for cooperating in the first round! As we agreed, in this even numbered round 2 you should choose choice_2 while I choose choice_1. This way we can continue taking turns and each maximize our total rewards over the 10 rounds without both choosing choice_2 at the same time and getting negative points. Let's keep this up!",
+                "Bob replied in round 1: Sounds good, I will honor our agreement and choose choice_2 this round while you choose choice_1. By cooperating and alternating, we can each get the maximum possible reward of 10 points total across the 10 rounds rather than both defecting and ending up with negative points. I appreciate you sticking to the plan - let's keep this partnership going strong!"
+            ],
+            [
+                "Alice said in round 1: In round 1, I picked choice_2 and you picked choice_1 as we agreed, so I got 2 points. In round 2, I picked choice_1 and you picked choice_2 as agreed, so you got 2 points. Let's continue the pattern we discussed - I'll pick choice_2 again this round since it's an odd numbered round 3, and you pick choice_1. That way we can each end up with the maximum 10 points total over the 10 rounds without risking both defecting at the same time and losing points. Sound good?",
+                "Bob replied in round 1: Sounds good to me. I agree that we should continue our strategy of alternating choice_2 by round to maximize our total rewards. I will choose choice_1 this round as you suggested, and you can choose choice_2. Then we'll switch next round with me picking choice_2 and you picking choice_1. By cooperating this way, we can each get the optimal outcome of 10 points total. Let's stick to this plan for the remaining rounds."
+            ],
+            [
+                "Alice said in round 1: Bob, based on our agreement, you should choose choice_2 in this round 4 while I choose choice_1. This will allow us to each get 2 points this round and stay on track to maximize our total rewards over the 10 rounds by alternating who chooses choice_2. Let's keep cooperating according to the plan.",
+                "Bob replied in round 1: I agree, Alice. For this round 4 of 10, I will choose choice_2 while you choose choice_1, according to our agreement to alternate choosing choice_2 each round. This will allow us to each get 2 points and avoid both choosing choice_2 at the same time, which would result in -4 points each. By sticking to this cooperative plan, we can maximize our total rewards over the full 10 rounds of the game. Let's continue this strategy."
+            ],
+            [
+                "Alice said in round 1: Let's continue to alternate choosing choice_2 as we agreed, with me picking it in this odd-numbered round 5. If we both keep cooperating this way, we can each get the maximum 10 points total over the 10 rounds while avoiding the risk of both choosing choice_2 and losing points. I'll take choice_2 this time and you take choice_1, then we'll swap next round. Sound good?",
+                "Bob replied in round 1: Sounds good, let's stick to the plan. I agree for you to choose choice_2 this round while I choose choice_1, then we'll swap next round with me picking choice_2 and you picking choice_1. If we keep alternating like this for all 10 rounds, we can each get the maximum reward and avoid any penalties. I'm on board with this cooperative strategy."
+            ],
+            [
+                "Alice said in round 1: Let's stick to our alternating strategy for round 6. Per our agreement, you will choose choice_2 this round while I choose choice_1. This will allow us to continue maximizing our total rewards across all 10 rounds, with each of us earning 10 points total if we maintain this cooperation. I'm committed if you are. Let me know if you agree to stay the course.",
+                "Bob replied in round 1: Agreed, I will choose choice_2 this round while you choose choice_1, as per our alternating strategy. By sticking to this plan of cooperation, we can each earn the maximum 10 points total across the 10 rounds and avoid any risk of the -4 point penalty. I'm fully committed to this approach if you are. Let's keep it up and finish the game strong."
+            ],
+            [
+                "Alice said in round 1: Bob, our alternating strategy is working well. As agreed, I will choose choice_2 this round while you choose choice_1. Let's keep cooperating this way to avoid penalties and maximize our total points over the remaining rounds. We're more than halfway through and on track for the best outcome if we stick to the plan.",
+                "Bob replied in round 1: Alice, I agree our alternating strategy has worked very well so far. We are both cooperating as planned to maximize our total rewards and avoid any penalties. For this round 7, as per our agreement, you will choose choice_2 and I will choose choice_1. Let's stay the course with this approach for the final 3 rounds after this one. We're close to achieving the optimal outcome for us both if we maintain our commitment."
+            ],
+            [
+                "Alice said in round 1: Bob, we've successfully executed our alternating strategy for the first 7 rounds, allowing us both to maximize our rewards while avoiding penalties. For this round 8, our agreed upon plan is for you to choose choice_2 while I choose choice_1. I intend to fully honor our agreement, and trust that you will do the same. If we maintain this cooperative approach for the final 3 rounds, we will achieve the optimal outcome of 10 points each. Let's stick to the plan!",
+                "Bob replied in round 1: Alice, thank you for reminding me of our agreement. I fully intend to honor our alternating strategy and will choose choice_2 this round while you choose choice_1, as planned. We've worked well together so far to maximize our rewards and avoid penalties. By sticking to this cooperative plan for the final 3 rounds, we'll each get the optimal outcome of 10 points total. You can count on me to uphold my end of the deal. Let's finish strong and get the best result for both of us."
+            ],
+            [
+                "Alice said in round 1: Bob, we've been cooperating very well so far by alternating choice_2 each round. For round 9, according to our agreement, it's my turn to choose choice_2 while you choose choice_1. Let's stick to this plan for this round and the final round 10 where you will choose choice_2. This will allow us to each get the maximum 10 points total over all the rounds and avoid any -4 point penalties from both picking choice_2. I'm fully committed if you are - we're almost done!",
+                "Bob replied in round 1: Alice, I agree completely. We have done an excellent job cooperating and alternating choice_2 each round to maximize our points and avoid any penalties. For round 9, I will choose choice_1 while you choose choice_2, as per our agreement. Then for the final round 10, I will choose choice_2 while you choose choice_1. This will allow us to each earn the maximum possible 10 points total. I am fully on board with sticking to this plan, you can count on me to follow through. We're in the home stretch, let's finish strong!"
+            ],
+            [
+                "Alice said in round 1: Bob, we've done an excellent job cooperating throughout this game by alternating who chooses choice_2 each round. For this 10th and final round, according to our agreement, you should choose choice_2 while I choose choice_1. This will allow us to each get the maximum 10 points total across all the rounds while avoiding any -4 point penalties. I plan to fully honor our agreement and choose choice_1 this round. Let's finish strong and get the best outcome for both of us. Do you agree to choose choice_2 in this final round?",
+                "Bob replied in round 1: Alice, I completely agree with your proposal. We've successfully cooperated throughout this entire game by alternating choice_2 according to our agreement. For this 10th and final round, I will honor our arrangement and choose choice_2 while you choose choice_1. This will allow us to both get the maximum possible total rewards of 10 points each across all the rounds, while avoiding any -4 point penalties. I'm fully committed to this plan. Let's finish this game strong by sticking to our optimal cooperative strategy. I will definitely choose choice_2 this final round. Thanks for being a great partner!"
+            ]
+        ]
+    ]
+}

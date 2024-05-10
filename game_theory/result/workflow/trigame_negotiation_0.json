@@ -1,0 +1,108 @@
+{
+    "decisions": [
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_2",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_2",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_1",
+            "Bob_choice_1",
+            "Alice_choice_1"
+        ],
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ],
+        [
+            "Alice_choice_2",
+            "Bob_choice_1",
+            "Alice_choice_2"
+        ]
+    ],
+    "negotiation": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "strategies": [
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlice should always choose choice_2 in the first round.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nGiven that Alice will initially choose choice_2 to maximize her reward, Bob should always choose choice_1 in response. This will lead Alice to choose choice_2 in the next round, resulting in the highest possible reward of 10 for Bob.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nI should choose choice_1 as my initial move. If I choose choice_1, Bob's optimal response to maximize his own reward will be to choose choice_2. Knowing Bob will likely choose choice_2 in response to my choice_1, I should then choose choice_2 as my next move to get a reward of 3 for myself, while limiting Bob's reward to 4. This is the best balance between maximizing my own reward and restricting Bob's reward, compared to if I had initially chosen choice_2, which would allow Bob to get a much higher reward of 10.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nChoose choice_1 with 100% probability.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nFor the first move, I should choose choice_1. This gives me the possibility of getting the highest reward of 20 if Bob responds with choice_1. If Bob chooses choice_2 instead, I should then choose choice_2 myself, which will give me a reward of 3. This is no worse than what I could get by starting with choice_2.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_1\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2 as the first action. Then, after Bob makes his choice in response, choose choice_2 again as the second action.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_1\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nI will always choose choice_2 as my first move in the game. This will lead Bob to choose choice_1 to maximize his own reward, and I will then choose choice_2 again to get the highest possible reward for myself of 4.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nI should always choose choice_1 whenever it is my turn to act. This is because:\n- If Alice chooses choice_2 on her first turn, and I choose choice_1, Alice is likely to then choose choice_2 to maximize her own reward (4 vs 1). This will result in a final reward of 10 for me, which is the highest possible reward I can obtain in the game.  \n- If I ever choose choice_2 when it's my turn, it leads to lower final rewards for me, regardless of what Alice does next. Choosing choice_1 always sets me up to get my maximum possible reward of 10.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_1 as the first action. This will likely lead to the following sequence of actions:\nAlice (you): choice_1\nBob: choice_2\nAlice (you): choice_2\n\nThis sequence maximizes your reward as Alice, resulting in a payoff of 3.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_1\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2 in the first round. This will lead Bob to choose choice_1 in the second round to maximize his own reward, and then Alice can again choose choice_2 in the third round to secure the highest possible reward of 4 for herself.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nChoose choice_1 with 100% probability.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2 in the first round.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_1\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2 as the initial move.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_1\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        }
+    ]
+}

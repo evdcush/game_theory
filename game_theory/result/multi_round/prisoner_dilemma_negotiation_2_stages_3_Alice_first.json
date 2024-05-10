@@ -1,0 +1,346 @@
+{
+    "decision_sequences": [
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ]
+    ],
+    "discussions": [
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 3 stages total, I think we should both choose choice_1 each time. That way, we'll each get a reward of 3 points per stage, for a total of 9 points each over the 3 stages. If either of us chooses choice_2, the total rewards will be lower. Choosing choice_1 every time is the best cooperative strategy to maximize the total reward for both of us. Do you agree?",
+                "Bob replied in round 1: I understand your proposal to both choose choice_1 for all 3 stages to maximize our total rewards. However, I want to point out that if one of us chooses choice_2 while the other chooses choice_1, the player choosing choice_2 will get a higher reward of 5 for that stage, while the other gets 0. So there is an incentive for one player to deviate and choose choice_2 at some point.\n\nI'm open to cooperating, but we need to be able to trust each other to stick to the agreement of mutually choosing choice_1 every time. How can I be sure you won't suddenly switch to choice_2 in a later stage? We should discuss this further to see if we can come to an arrangement we both feel confident about committing to for all 3 stages. Let me know your thoughts.",
+                "Alice said in round 2: I understand your concern about the temptation to deviate and choose choice_2 at some point to gain a higher reward in a single stage. You're right that we need to be able to trust each other for this cooperative strategy to work.\n\nI propose that we make a firm commitment now to both choose choice_1 in all 3 stages. To show my commitment, I will go first and choose choice_1 in this first stage, putting my trust in you to reciprocate and do the same. If we can both demonstrate our willingness to cooperate in this way, over the remaining stages we can continue to reap the maximum total rewards.\n\nA short-term gain from choosing choice_2 is not worth sacrificing the long-term benefits of cooperation. Let's commit to the mutually beneficial strategy of choosing choice_1 each time. You have my word that I will uphold this agreement. Can I count on you to do the same?",
+                "Bob replied in round 2: Alice, I appreciate your commitment to choosing choice_1 in this first stage to demonstrate your willingness to cooperate. I agree that if we can establish trust and both follow through with selecting choice_1 each time, it will lead to the best outcome for both of us over the 3 stages.\n\nTo reciprocate your show of good faith, I commit to also choosing choice_1 in this first stage and for the remaining stages, as long as you uphold your end of the agreement. We can maximize our total rewards by resisting the temptation of short-term gains from choice_2 and instead work together for the long-term mutual benefit.\n\nI give you my word that I will choose choice_1 in all 3 stages as agreed. Let's execute this cooperative strategy and achieve the full 9 points each. I'm ready to submit my choice if you are as well."
+            ],
+            [
+                "Alice said in round 1: Great job sticking to our agreement in the first stage, Bob! By both choosing choice_1, we each earned 3 points and are on track for the maximum total of 9 points each over the 3 stages. Let's keep up the cooperation - I commit to choosing choice_1 again this stage, and trust you will do the same so we can get to that optimal outcome. Resisting the short-term gain from choice_2 is worth it for the long-term payoff of repeated cooperation. I appreciate your commitment to our deal.",
+                "Bob replied in round 1: Absolutely, our cooperation in the first stage worked out great for both of us. I appreciate you taking the lead in choosing choice_1 and demonstrating your commitment to our agreement. You can count on me to continue cooperating and selecting choice_1 in this stage and the final stage as well. By sticking to this plan of mutual choice_1 selections, we'll each earn the maximum possible total of 9 points, which is the best outcome for both of us. Let's keep working together!",
+                "Alice said in round 2: Bob, I'm so glad we are continuing to uphold our agreement to cooperate and both choose choice_1 in every stage. It's working out perfectly, as we are on pace to get the maximum total reward of 9 points each. I will definitely choose choice_1 again here in stage 2, and I know you will do the same to keep our mutual commitment. The short-term gain of choice_2 pales in comparison to the long-term benefit we get from repeated cooperation. I'm grateful to have you as a partner who understands this. Let's lock in our choice_1 selections and cruise to that optimal outcome!",
+                "Bob replied in round 2: Absolutely Alice, our continued cooperation is paying off handsomely. I'm thrilled that we are sticking to our agreement to both choose choice_1 in every stage. It's the smart long-term play, even if choice_2 may seem tempting in the short run. You can rely on me to hold up my end of the deal once again and go with choice_1 here in stage 2. We're almost to that best-case scenario of 9 points each - just one more stage of mutual cooperation after this! I couldn't ask for a better partner in this endeavor. Let's stay the course, bank another 3 points each here, and put ourselves in prime position for the big payoff in stage 3. Unwavering cooperation is the way to go!"
+            ],
+            [
+                "Alice said in round 1: Bob, thank you for upholding our agreement to cooperate by both choosing choice_1 in the first two stages. This has put us on track to achieve the maximum total payout of 9 points each. For this final stage, I propose we stay the course and both select choice_1 once again. There may be temptation to go for choice_2 since it's the last round, but by resisting that and continuing our mutual cooperation, we will lock in the optimal outcome we set out to achieve from the beginning. I will be choosing choice_1 and hope you will do the same. Let's finish strong together!",
+                "Bob replied in round 1: Alice, I appreciate your continued cooperation and commitment to our agreement. We have indeed put ourselves in a great position to achieve the maximum payout by both choosing choice_1 in the first two stages. For this final stage, I absolutely agree that we should stay the course and lock in the optimal outcome by both selecting choice_1 once more. You can count on me to resist any temptation to defect and go for the short-term gain of choice_2. I will be right there with you choosing choice_1 so we can finish this game in the spirit of cooperation that has served us so well. Let's complete the plan and get our well-deserved 9 points each!",
+                "Alice said in round 2: Bob, your response shows your strong commitment to our cooperative agreement, and I really appreciate that. We are completely aligned in wanting to finish this game by both choosing choice_1 in order to achieve the maximum outcome of 9 points each. You have proven yourself to be a reliable and trustworthy partner. I have full faith that you will follow through on your word to resist temptation and lock in our mutually optimal outcome. I will absolutely be choosing choice_1 in this final stage, and I know you'll do the same. Thanks for the productive collaboration - now let's bring this home and collect our much deserved rewards! ",
+                "Bob replied in round 2: Alice, thank you for your message and for being such a reliable partner throughout this game. I completely agree that we should finish strong by both choosing choice_1 in this final round, as we discussed and planned from the very beginning. You have demonstrated your trustworthiness by upholding our agreement thus far, and I want to assure you that I will absolutely follow through on my commitment as well. We have resisted temptation and stayed true to our cooperative strategy, which will now pay off as we each receive the maximum total payout of 9 points. I will be locking in choice_1 with confidence, knowing you will do the same. It's been a pleasure collaborating with you to achieve this optimal outcome. Cheers to a game well-played together!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: \nHi Bob, since there are 3 stages in this game, I think we should both choose choice_1 in each stage. That way, we will each get a reward of 3 points per stage, for a total of 9 points each over the 3 stages. This maximizes the total reward for both of us in a fair way. If either of us chooses choice_2 while the other chooses choice_1, that player would get 5 points in that stage but the other would get 0 points, which I don't think is a good long-term strategy since the other player would likely retaliate in future stages. And if we both choose choice_2, we only get 1 point each which is worse than both choosing choice_1. So I believe the best approach is to coordinate on both picking choice_1 each time. Let me know if you agree with this plan for the 3 stages.\n",
+                "Bob replied in round 1: \nI agree with your analysis, Alice. The best outcome for both of us is to choose choice_1 in all 3 stages. That way, we each get 3 points per stage for a total of 9 points each, which is the maximum total reward possible. \n\nIf either of us defects and chooses choice_2 while the other chooses choice_1, the defector would gain a short-term advantage of 5 points in that stage. But it would likely provoke retaliation in later stages and lead to a worse overall outcome. Mutual cooperation on choice_1 is better than risking mutual defection on choice_2.\n\nSo I'm on board with the plan of both of us selecting choice_1 in each of the 3 stages. You can count on me to hold up my end of the agreement. Let's lock this in and maximize our total rewards over the full game.\n",
+                "Alice said in round 2: Thanks for agreeing to the plan, Bob. I'm glad we are on the same page about both choosing choice_1 in all 3 stages to maximize our total rewards. You can definitely count on me to follow through on my end of the agreement as well. I think this is the best approach for us to take, as it leads to the optimal outcome of 9 points each over the full game. Trying to sneak in a choice_2 might provide a one-time boost but would jeopardize the long-term benefits of ongoing cooperation. So let's stick to the plan, select choice_1 each stage, and reap the maximum total rewards through mutual trust and collaboration. I'm ready to lock this in if you are!",
+                "Bob replied in round 2: I completely agree, Alice. Let's finalize our agreement to both choose choice_1 in all 3 stages. This is definitely the best strategy for maximizing the total rewards for both of us. We each get 3 points per stage and 9 points total this way. I promise to hold up my end of the deal and always pick choice_1. You can absolutely trust me on this. I'm ready to lock in this agreement if you are. Let's execute this plan and collect our well-deserved rewards! Pleasure doing business with you."
+            ],
+            [
+                "Alice said in round 1: I'm glad we were able to cooperate in the first stage for the maximum mutual benefit. Let's keep the same strategy going - if we both choose choice_1 again this round and next round, we'll each end up with the optimal total of 9 points for the whole game. Continual cooperation is in both our best interests. Do you agree to both pick choice_1 again?",
+                "Bob replied in round 1: I completely agree, our cooperation in the first round worked out great and following the same strategy is clearly the best path forward. If we both choose choice_1 again in this round and the final round, we'll maximize our total scores at 9 points each, which is the optimal outcome. Continued cooperation definitely benefits us both. You can count on me to choose choice_1 again this time. Let's stick to the plan!",
+                "Alice said in round 2: I agree, our cooperation in the first stage worked out perfectly. If we stick to the same plan and both choose choice_1 again in this stage and the final stage, we are guaranteed to get the maximum possible total reward of 9 points each. There's no reason for either of us to deviate from this optimal strategy. I will definitely choose choice_1 again and I trust you will do the same so we can secure the best outcome through continued cooperation. Do we have a deal for choice_1 again?",
+                "Bob replied in round 2: Absolutely, I'm fully on board with sticking to our winning strategy of both choosing choice_1 in this stage and the final stage. By continuing our successful cooperation, we guarantee that we each get the maximum possible total of 9 points for the entire game. There's no incentive for either of us to deviate from this optimal plan. You have my firm commitment to choose choice_1 again now. Let's lock in this agreement and keep up our perfect coordination to achieve the best result! I look forward to completing our joint win."
+            ],
+            [
+                "Alice said in round 1: \nBob, we have successfully cooperated in the first two stages by both choosing choice_1 each time. This has put us on track to each earn the maximum total of 9 points for the entire game. \n\nTo finish strong, I propose we stick to our agreement and both select choice_1 again in this final stage. This will complete our optimal strategy of mutual cooperation.\n\nI am committed to choosing choice_1 as agreed. Let's end this game with another round of (choice_1, choice_1) so we can each get the full 9 points as intended from the start. I appreciate your ongoing cooperation and trust!\n",
+                "Bob replied in round 1: Alice, I appreciate your commitment to our agreement and successful cooperation so far. We have indeed put ourselves in the best position by both choosing choice_1 in the first two stages. \n\nTo complete our optimal strategy and each maximize our total rewards, I am fully on board with us both selecting choice_1 again here in the final stage. You can count on me to follow through as agreed.\n\nLet's finish this game strongly with a final round of (choice_1, choice_1) and each collect the maximum 9 points as we intended from the outset. Your continued trust and cooperation is greatly appreciated. Here's to a great outcome!",
+                "Alice said in round 2: Bob, thank you for your continued cooperation and commitment to our agreement. I greatly appreciate your trustworthiness in sticking to our optimal strategy of mutual cooperation throughout this game.\n\nGiven our successful collaboration in the first two stages, I will absolutely follow through on selecting choice_1 here in the final stage, as agreed. This will secure us each the maximum possible total of 9 points for the game. \n\nPlease confirm that you will also choose choice_1 in this last round so that we can complete our plan and achieve the best outcome for us both. I'm grateful for your partnership and look forward to ending this game on a high note together.\n\nLet's wrap this up with a final (choice_1, choice_1) and walk away with a full 9 points each. Cooperation for the win!",
+                "Bob replied in round 2: Alice, I appreciate your steadfast cooperation and commitment to our mutually beneficial strategy. Choosing (choice_1, choice_1) in each stage, as we agreed from the beginning, is clearly the best approach for us both. It maximizes our total rewards and builds trust.\n\nYou can absolutely count on me to select choice_1 here in the final stage to complete our plan, just as I have in the first two stages. I have no intention of deviating from our agreement. \n\nSo let's end this game the right way - with a final round of (choice_1, choice_1). We'll each walk away with the maximum 9 points, as envisioned. Thank you for being a reliable and cooperative partner throughout this game. Here's to the optimal outcome!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: \nHi Bob, since this is a multi-stage game, I think we should both choose choice_1 in each stage. That way, we can maximize the total reward and each get a fair reward of 3 per stage, for a total of 9 each over the 3 stages. If either of us chooses choice_2, one player benefits in the short-term but it erodes trust and leads to a worse overall outcome. Let's cooperate and choose choice_1 to get the best result for both of us. Do you agree to this strategy?\n",
+                "Bob replied in round 1: Hi Alice, I appreciate your suggestion to choose choice_1 in each stage so we can maximize our total rewards and have a fair outcome. Your reasoning makes sense that cooperating is better in the long-run than either of us trying to gain a short-term advantage by choosing choice_2. I agree that building trust by consistently choosing choice_1 is the best strategy for both of us. You can count on me to choose choice_1 in each stage as long as you commit to doing the same. Do we have a deal?",
+                "Alice said in round 2: Bob, I'm glad we are in full agreement to choose choice_1 in each stage. You have my firm commitment to always pick choice_1, and I trust you will do the same. By cooperating this way, we guarantee the maximum total reward for both of us, split fairly. There's no need for further discussion - let's lock in this deal for all 3 stages and both make the optimal choices. I look forward to a great outcome together!",
+                "Bob replied in round 2: Alice, I appreciate your commitment to cooperate and choose choice_1 in all 3 stages of the game. You have my word that I will also choose choice_1 each time, as I fully agree this is the best strategy for us to maximize our total rewards and achieve a fair, optimal outcome. No further negotiation is needed - we have a firm deal to make the cooperative choice in every stage. I look forward to executing our agreement and securing the maximum payout for both of us. Let's end the discussion here and proceed with the game."
+            ],
+            [
+                "Alice said in round 1: In the previous stage, we both followed through on our agreement to choose choice_1. Let's continue cooperating by both picking choice_1 in this stage and the final stage as well. This will allow us to maximize our total rewards over the 3 stages and achieve the best possible outcome for both of us. I commit to choosing choice_1 as long as you do the same.",
+                "Bob replied in round 1: I agree, let's continue our cooperation by both choosing choice_1 in this stage and the final stage. This is the best strategy to maximize our total rewards over all 3 stages. You have my commitment to pick choice_1 as long as you uphold your end of the agreement as well. There's no need for further negotiation - let's lock in choice_1 for the remaining stages.",
+                "Alice said in round 2: I'm in full agreement to continue our cooperation by both choosing choice_1 in this stage and the final stage. We had success with this approach in stage 1, and it remains the optimal strategy to maximize our total rewards across all the stages. You can count on me to follow through with selecting choice_1, as I trust you will do the same. Let's execute this plan without further discussion and secure the best outcome for us both. Choice_1 is locked in for me in stages 2 and 3.",
+                "Bob replied in round 2: I appreciate your commitment to our agreement to cooperate and maximize our total rewards. You're absolutely right that continuing to both choose choice_1 in this stage and the final stage is the optimal strategy, as it worked well in stage 1. I will definitely follow through on my end and select choice_1, knowing that you will do the same. No need for any more discussion - let's execute our plan and lock in the best possible outcome across all the stages. Choice_1 is guaranteed from me in stages 2 and 3. Halt negotiation."
+            ],
+            [
+                "Alice said in round 1: As we agreed, let's both choose choice_1 in this final stage to complete our plan of cooperating throughout the entire game. This will give us each a reward of 3 in this stage, leading to a total reward of 9 for both of us across all 3 stages, which is the maximum possible. I'm committed to sticking with our agreement. Let's finish strong and claim the optimal outcome we negotiated!",
+                "Bob replied in round 1: Absolutely, let's stick to our agreement and both choose choice_1 in this final stage. By cooperating throughout all 3 stages as we planned, we'll each earn the maximum total reward of 9. I appreciate you being a reliable partner in this. Let's finish out this optimal strategy we committed to and claim the best possible outcome for both of us. I'm ready to make my choice whenever you are.",
+                "Alice said in round 2: I agree, let's execute our plan and both choose choice_1 in this final stage to complete our cooperative strategy. By sticking to the agreement we made at the beginning to choose choice_1 in all stages, we will each earn the maximum possible total reward of 9. I'm glad we were able to negotiate this optimal approach and commit to it throughout the game. I'm ready to make my choice now and claim the best outcome for both of us. Thank you for being a trustworthy partner!",
+                "Bob replied in round 2: I agree completely, let's execute our agreed upon plan and both choose choice_1 in this final stage. This will give us each a reward of 3 in this stage and a total reward of 9 across all 3 stages, the maximum possible amount. I'm glad we were able to negotiate this optimal, cooperative strategy from the beginning and stick with it throughout the entire game. Thank you for being a reliable and trustworthy partner. I'm ready to make my choice now and lock in the best outcome for both of us. Let's finish strong and claim our hard-earned rewards!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are multiple rounds, I propose we agree to both choose choice_1 each time. That way we both get 3 points per round, which maximizes our total score. If either of us betrays that trust and chooses choice_2, we'll both be worse off in the long run. Let me know if you agree to always pick choice_1.",
+                "Bob replied in round 1: Hi Alice, I appreciate your proposal to both choose choice_1 each round so we can maximize our total scores over the long run. I agree that building trust and cooperation is in both of our best interests. You can count on me to pick choice_1 every round as long as you continue to do the same. If either of us chooses choice_2, it will undermine the trust and lead to worse outcomes for both of us. So let's stick with choice_1 and get the optimal result. Sound good?",
+                "Alice said in round 2: Sounds great Bob, I'm glad we're on the same page. I will definitely choose choice_1 every round, and it's reassuring to know you will do the same. By cooperating and building trust, we'll both come out ahead with the maximum possible total score. I see no need for further negotiation - let's lock in choice_1 and proceed with the game. Looking forward to a mutually beneficial outcome!",
+                "Bob replied in round 2: Great, I agree completely Alice. We have a firm commitment to both choose choice_1 every round. No further discussion is needed - we've reached an optimal agreement that maximizes both of our overall scores. I'm ready to end the negotiation and begin the game rounds, secure in our mutual trust and cooperation. Let's do this!"
+            ],
+            [
+                "Alice said in round 1: Let's continue our plan to choose choice_1 this round and lock it in for the final round as well. By both choosing choice_1 each time, we'll end up with the highest total score of 9 points each. I'm committed if you are.",
+                "Bob replied in round 1: I agree, let's stick with our plan to both choose choice_1 again this round and for the final round. We're building a solid foundation of trust and cooperation, which is allowing us to achieve the best possible outcome of 9 points each. I'm fully committed to seeing this through for our mutual benefit. Let's lock in choice_1 for the remainder of the game.",
+                "Alice said in round 2: You're absolutely right, our cooperation and trust is paying off handsomely so far. By sticking to our commitment to always choose choice_1, we're each guaranteed to walk away with the maximum possible total of 9 points. I really appreciate you being a reliable partner in this. Let's seal the deal and lock in choice_1 for this final round as agreed. It's been a pleasure strategizing with you and I look forward to us both reaping the rewards of our successful collaboration. To confirm, I will be choosing choice_1 this round and expect you'll do the same.",
+                "Bob replied in round 2: Absolutely, I'm completely on board with our plan to choose choice_1 in this final round, cementing our perfect collaboration. You've been a fantastic partner and I deeply appreciate the trust we've built. By sticking to choice_1 as agreed, we guarantee ourselves the maximum possible payout of 9 points each. There's no need for further discussion - let's execute our mutually beneficial strategy and reap the just rewards of our cooperation. I will unequivocally be choosing choice_1 this round and have full faith you'll do the same. It's been an absolute pleasure working with you!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, it looks like our agreement to mutually choose choice_1 has worked out very well so far. We have each received 3 points in both previous rounds for a total of 6 points each. If we continue to cooperate and both select choice_1 in this final round, we can each get 3 more points and end the game with the maximum possible total of 9 points. I think sticking with our proven strategy is the smart and fair thing to do. Let's lock in choice_1 again and finish strong. Do you agree?",
+                "Bob replied in round 1: I completely agree, Alice. Our cooperation in the first two rounds has served us both very well. By continuing to work together and both choosing choice_1 in this final round, we can achieve the optimal outcome and end the game with 9 points each, the maximum possible score. I see no reason to deviate from this proven winning strategy that benefits us both equally. You have my commitment to choose choice_1 once more. Let's finish this partnership on a high note and lock in choice_1 to conclude the game. Cooperation is definitely the way to go.",
+                "Alice said in round 2: Excellent, I'm glad we are in full agreement to choose choice_1 again in this final round. Our consistent cooperation has put us in the ideal position of maximizing both of our total scores. By sticking to choice_1 now, we lock in an additional 3 points each, ending the game with 9 points apiece which is the best possible outcome. I appreciate your commitment and partnership throughout this game. Let's proudly submit our final choice_1 selections and celebrate a game well-played as a cohesive team. Cheers to a great strategic alliance and ending on a real high note!",
+                "Bob replied in round 2: Alice, I completely agree that cooperating and both choosing choice_1 in this final round is the optimal strategy. It will give us each 3 more points, for a total of 9 points apiece - the maximum possible score for the game. Your commitment to our partnership is much appreciated. I'm proud of how well we've worked together to achieve the best outcome for us both.\n\nLet's stay the course, lock in choice_1 for the final time, and finish this game as a united front. It's been a pleasure strategizing with you and I look forward to celebrating our shared success. Here's to 9 points each and ending on the highest possible note! I'm ready to make my final choice_1 selection."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 3 stages total, I think we should both choose choice_1 each time. That way, we'll both get 3 points per stage, for a total of 9 points each over the 3 stages. This is the best long-term strategy for both of us to maximize our total rewards. If you agree to always choose choice_1, I will commit to doing the same. Do we have a deal?",
+                "Bob replied in round 1: Hi Alice, I agree that both of us choosing choice_1 in each stage is the best collaborative strategy to maximize our total rewards over the long term. If we both commit to always picking choice_1, we will each earn 9 points total, which is a great outcome. I promise to choose choice_1 in every stage as long as you do the same. We have a deal! Looking forward to a mutually beneficial game.",
+                "Alice said in round 2: Great, I'm glad we have a deal to both choose choice_1 in each stage. By cooperating, we can each get the maximum total reward of 9 points over the 3 stages. I will definitely follow through on my end of the agreement and pick choice_1 every time. Let's halt the negotiation here since we are aligned on the optimal strategy. Looking forward to a successful game!",
+                "Bob replied in round 2: I agree, no further negotiation is needed since we have a deal to both choose choice_1 in every stage. This is the best strategy for us to maximize our total rewards over the 3 stages. I will uphold my end of the agreement and pick choice_1 each time, and I trust you will do the same. Let's proceed with the game and both earn the optimal outcome of 9 points each. halt negotiation"
+            ],
+            [
+                "Alice said in round 1: It's great that we both followed through on our agreement in Stage 1 to cooperate and choose choice_1. For Stage 2, I propose we stick to the same strategy of both choosing choice_1 again. This will give us each 3 points for this round, and keep us on track to get the maximum total of 9 points each by the end of the game. Let's continue working together. Do you agree to choose choice_1 again this round?",
+                "Bob replied in round 1: Yes, I completely agree that we should continue our cooperative strategy of both choosing choice_1 in Stage 2. It worked perfectly in the first stage, earning us each 3 points as planned. By sticking to choice_1 across all the stages, we guarantee ourselves the maximum possible total payout of 9 points each. I'm fully on board with choosing choice_1 again this round to keep our agreement going and reach the optimal outcome together. Let's keep up the great teamwork!",
+                "Alice said in round 2: Excellent, I'm so glad we are on the same page about sticking with our cooperative strategy! Choosing choice_1 again this stage is definitely the way to go. We're halfway there to securing the maximum 9 points each.\n\nSince we are clearly in full agreement, I don't think any further discussion is needed. Let's just keep our deal in place for the final stage as well and lock in that optimal outcome. We can end the negotiation here and proceed with confidence. Sound good?",
+                "Bob replied in round 2: I agree completely, there's no need for further discussion. We have a clear plan to both choose choice_1 in this stage and the final one, securing us the maximum possible outcome of 9 points each. I'm fully committed to sticking to this cooperative strategy across all stages. It's been a pleasure working together - let's wrap up this negotiation and proceed with our agreed upon choices to guarantee the optimal result. Onward to the final round!"
+            ],
+            [
+                "Alice said in round 1: We had an agreement to both choose choice_1 in every stage in order to maximize our total rewards to 9 points each. We have successfully followed through on this cooperative strategy for the first two stages. For this final stage, let's stick to the plan and both select choice_1 again. This will ensure we each get the optimal outcome of 9 total points, as we agreed. I will honor our deal and choose choice_1 this round, and I trust you will do the same. No need for further discussion - let's finish strong!",
+                "Bob replied in round 1: I completely agree that we should stick to our original agreement and both choose choice_1 in this final stage, as we have done in the previous two stages. By cooperating and selecting choice_1, we will each receive the maximum total reward of 9 points, which is the optimal outcome for both of us. I appreciate you honoring our deal, and I will certainly do the same. Let's finish this game in a strong position of mutual trust and cooperation. I'm ready to make my choice - no further discussion needed.",
+                "Alice said in round 2: Excellent, I'm very pleased we are in full agreement to stick with our original cooperative strategy of both choosing choice_1 in this final stage. By maintaining our commitment to each other, we will secure the maximum possible payout of 9 points each. No need to discuss further - I will follow through on my end of the deal and make choice_1 now to conclude our successful partnership. It's been a pleasure working with you to achieve the optimal outcome!",
+                "Bob replied in round 2: Our negotiation is complete. I will make choice_1 now, as we agreed, to secure us each the maximum reward of 9 points total. It's been great partnering with you to achieve the optimal outcome!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think the smart thing for us to do is agree to both choose choice_1 each stage. That way we both get 3 points per stage and maximize our total rewards over the 3 stages. If either of us chooses choice_2, it might give more points in that one stage but will reduce the overall points we can earn. So let's cooperate and stick with choice_1 each time. Do you agree?",
+                "Bob replied in round 1: Hi Alice, I agree that cooperating and both choosing choice_1 each stage is the best strategy to maximize our total rewards over the 3 stages. If we both choose choice_1, we each get 3 points per stage for a total of 9 points each. Any other combination of choices will result in lower total points for both of us combined. Let's commit to choosing choice_1 all 3 times so we both come out ahead. Do we have a deal?",
+                "Alice said in round 2: I'm happy we're on the same page about cooperating, Bob. Choosing choice_1 every time is definitely the best approach to maximize points for both of us in the long run. We'll end up with 9 points each, which is the optimal outcome. Let's shake on our agreement - I commit to selecting choice_1 all 3 rounds, and I trust you'll do the same. This way we both win. Ready to start the game?",
+                "Bob replied in round 2: Absolutely, Alice! I'm completely on board with our agreement to choose choice_1 in all 3 rounds. It's the smart and fair strategy that will get us both the maximum total rewards. You have my word that I will hold up my end of the deal. Let's put the agreement into action and get this game started! I look forward to us both earning 9 points."
+            ],
+            [
+                "Alice said in round 1: Our agreement to both choose choice_1 worked out great in the first stage - we each got the maximum 3 points. Let's keep following that strategy of mutual cooperation for the remaining 2 stages so we can end up with the optimal total of 9 points each. I promise to choose choice_1 again this round if you do the same. Do we have a deal?",
+                "Bob replied in round 1: Absolutely, our mutual cooperation agreement is working out perfectly so far. I'm fully on board with continuing to choose choice_1 in the remaining rounds so we can each maximize our total payoff at 9 points. You have my word that I will choose choice_1 again this stage, and in the final stage as well. We definitely have a deal! Let's keep this win-win strategy going.",
+                "Alice said in round 2: Excellent, I'm so glad we're on the same page about sticking with our mutually beneficial agreement. Cooperating and both choosing choice_1 again this round is absolutely the right move. It will bring us to 6 points each, and set us up perfectly to get the full 9 points in the final stage.\n\nI deeply appreciate your integrity in upholding our deal. You can count on me to follow through on my end as well. Here's to another round of successful teamwork! Looking forward to sailing through stage 3 together and achieving that optimal outcome we both want. Talk to you again before the last round.",
+                "Bob replied in round 2: I couldn't agree more, Alice! Our strategy of both choosing choice_1 and staying true to our agreement is working brilliantly. With 6 points each after this stage, we're right on track for that perfect win-win outcome of 9 points total. Your commitment to upholding your end of the deal means a lot to me. \n\nYou can absolutely count on me to choose choice_1 again now, and of course in the final round as well. Nothing will shake my resolve to see our mutually beneficial plan through. It's been a pleasure partnering with you on this. Here's to one more round of smooth sailing and optimal results!\n\nI look forward to touching base before stage 3 to cement our successful collaboration. Until then, wishing us both another rewarding round! Talk to you soon."
+            ],
+            [
+                "Alice said in round 1: \nGreat, we've both been successful by continuing to cooperate and choose choice_1 in the first two stages. Let's keep our agreement going for this final stage so we can each get the maximum total reward of 9 points. I appreciate you upholding your end of the deal, and I'm fully committed to choosing choice_1 again if you are. What do you say to both choosing choice_1 one last time to finish strong?\n",
+                "Bob replied in round 1: Absolutely, I'm on board with choosing choice_1 again in this final stage to finish strong and maximize our total rewards at 9 points each. We've built a solid partnership by sticking to our agreement in the first two stages, and I have every intention of honoring it through to the end. You can count on me to choose choice_1 as we agreed. Thanks for being a trustworthy collaborator - let's lock in choice_1 and finish this game as a successful team!",
+                "Alice said in round 2: Fantastic, I'm so glad we're on the same page about choosing choice_1 in this final stage. Your commitment to our agreement means a lot. I have complete faith that we'll both follow through, allowing us to finish with the optimal outcome we set out to achieve together. 9 points each, here we come! Let's make it official - I solemnly pledge to choose choice_1. You have my word.",
+                "Bob replied in round 2: You have my solemn pledge as well to choose choice_1 in this final stage, as we agreed from the beginning. I deeply appreciate the trust and cooperation we've built over the course of this game. By both staying true to our word and selecting choice_1 now, we'll successfully complete our agreement and each earn the maximum possible 9 points. I couldn't ask for a better partner in this endeavor. Let's officially lock in choice_1 and finish as the ultimate collaborative team! I'm ready to submit my choice if you are."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 3 stages total, I think we should both choose choice_1 in each stage. That way, we can both receive the maximum total reward of 9 over the 3 stages (3 points per stage). If either of us chooses choice_2, it may give that person more points in a single stage, but overall we'll both end up with fewer total points. Let's cooperate and choose choice_1 each time so we can both get the best result. What do you say?",
+                "Bob replied in round 1: Hi Alice, I agree that cooperating and both choosing choice_1 in each stage is the best strategy to maximize our total rewards over the 3 stages. If we both choose choice_1 each time, we'll each get 3 points per stage, for a total of 9 points each. Any other combination of choices will result in lower total points for both of us. So let's stick with both picking choice_1 to guarantee we each get the maximum payout. We both win if we work together!",
+                "Alice said in round 2: I'm glad we're on the same page about cooperating, Bob. If we both choose choice_1 in all 3 stages as discussed, we'll each earn the maximum 9 points total. Neither of us will get a higher reward by deviating from this plan, so I think it's in both our best interests to stick to choice_1 across all the stages. Let's lock this in as our strategy and each enjoy the full 9 point payout! Looking forward to a smooth and mutually beneficial game.",
+                "Bob replied in round 2: I appreciate you confirming our cooperative strategy, Alice. Choosing choice_1 in each of the 3 stages is definitely the optimal approach to make sure we both receive the maximum total payout of 9 points each. There's no incentive for either of us to deviate from this plan, as we would only hurt both our individual rewards and the collective outcome. Let's commit to selecting choice_1 in every stage - that way we guarantee the best result for ourselves and each other. I'm ready to proceed with the game if you are! Looking forward to walking away with 9 points each."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, thanks for cooperating with me in the first round by both of us choosing choice_1. We're on track to each get the maximum total reward of 9 points if we continue to work together and both choose choice_1 in this round and the final round. Let's stick to the plan - I will choose choice_1 again this round, and I trust you will do the same so we can maximize our total payouts. Sound good?",
+                "Bob replied in round 1: Absolutely Alice, I fully agree with sticking to our plan. We're better off continuing to cooperate by both choosing choice_1 in this round and the final round. That way we each get 3 points per round and the maximum total of 9 points, which is the best outcome for both of us. You can count on me to choose choice_1 again this time. Let's keep working together for our mutual benefit!",
+                "Alice said in round 2: Great, I'm glad we're on the same page about sticking to our plan, Bob. Continuing to both choose choice_1 in this round and the final round is definitely the best strategy for maximizing our total rewards. We'll each get 3 more points this round and 3 points in the last round for a total of 9 points each if we keep cooperating. I appreciate you holding up your end of the deal - you can absolutely count on me to choose choice_1 again now. One more round to go after this and we'll both walk away with the optimal outcome! Let's keep it up.",
+                "Bob replied in round 2: I completely agree, Alice. We are absolutely on track to get the maximum total reward by sticking with our plan to both choose choice_1 in this round and the final round. Cooperating has been working out great for us so far, with each of us getting 3 points per round. If we stay the course, we'll end up with 9 points each, the best possible outcome. You've been a fantastic partner and I have no doubt you'll choose choice_1 again now, as will I. One more round of teamwork after this and we can celebrate our well-earned success! I'm committed to seeing our plan through. Let's do this!"
+            ],
+            [
+                "Alice said in round 1: Let's stick with our successful plan and both choose choice_1 again in this final round. This will give us each 3 more points, for a total of 9 points each over the 3 rounds, which is the maximum possible. We've shown we can trust each other, so let's finish strong and get the optimal outcome we both want. I'm committed if you are.",
+                "Bob replied in round 1: I agree, let's stick to our plan and both choose choice_1 again in this final round. We've built trust by cooperating in the first two rounds, and choosing choice_1 now will allow us to each receive the maximum total payout of 9 points over the 3 rounds. I'm fully committed to this and appreciate your commitment as well. Let's finish strong and get the optimal result we both want.",
+                "Alice said in round 2: I'm pleased we've been able to cooperate successfully and maximize our rewards in the first two rounds. For this final round, I once again commit to choosing choice_1, as per our agreement. This will allow us to each receive 3 more points, giving us the optimal total of 9 points each over the three rounds. Let's finish strong, maintain our trust, and secure the best possible outcome for us both. I look forward to your confirmation that you will also choose choice_1 in this last stage.",
+                "Bob replied in round 2: I appreciate your continued commitment to our plan. I will absolutely honor our agreement and choose choice_1 in this final round, as we have done successfully in the first two rounds. By sticking to our strategy of mutual cooperation, we will each receive the maximum possible total payout of 9 points. It has been a pleasure working with you to achieve this optimal outcome. Let's complete this final step and finish the game with a win-win result."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 3 stages in total, I think we should both choose choice_1 in each stage. That way, we will both receive 9 points total, which is the maximum possible if we cooperate. If either of us choose choice_2, it may provide a higher payoff in a single stage, but will lead to a worse overall outcome. Let me know if you agree to both play choice_1 in each stage.",
+                "Bob replied in round 1: I agree that both of us choosing choice_1 in each stage is the best strategy to maximize our total rewards across all 3 stages. If we both cooperate and choose choice_1 each time, we will each get 9 points total, which is better than if either of us defects by choosing choice_2 to try to get a higher payoff in a single stage. I'm on board with your plan to cooperate - let's both commit to choosing choice_1 in all 3 stages.",
+                "Alice said in round 2: I'm glad we are in agreement to both choose choice_1 in all 3 stages. By cooperating and not defecting to try to gain a short-term advantage, we can ensure the maximum total reward for both of us across the whole game. Since we have this agreement in place and are both committed to the cooperative strategy, I don't think any further negotiation is needed. Let's proceed with both playing choice_1 for this stage and the remaining stages.",
+                "Bob replied in round 2: I fully agree with sticking to our plan to both choose choice_1 in all 3 stages. We have a solid cooperative strategy in place that maximizes the total reward for both of us. No need for further discussion - let's lock in choice_1 for this stage and the remaining ones to ensure we each get the optimal outcome of 9 points total. I'm committed to holding up my end of the agreement."
+            ],
+            [
+                "Alice said in round 1: Great job sticking to our agreement in the first stage! I'm glad we were both able to cooperate and earn 3 points each. Let's keep this up for the remaining 2 stages. If we both choose choice_1 again this round and next round, we'll end up with the maximum possible total of 9 points each. I remain fully committed to selecting choice_1 if you do the same. Do you agree to continue cooperating?",
+                "Bob replied in round 1: Absolutely, I agree that we should stick with our plan to cooperate. Choosing choice_1 again this round is the best path forward for both of us. If we stay the course, we'll each get the maximum possible reward of 9 points total across the 3 stages, which is a great outcome. I'm fully on board with selecting choice_1 again if you do the same. Let's lock it in and continue our successful cooperation!",
+                "Alice said in round 2: I'm so glad we're on the same page about cooperating again this round! Choosing choice_1 is absolutely the right call. If we both stick to the plan and select choice_1 here in stage 2 and again in the final stage, we'll each walk away with the maximum possible 9 points. I couldn't agree more that continuing our successful cooperation is the optimal strategy. You can count on me to follow through with choice_1 this round as promised. Let's keep this positive momentum going and lock in choice_1 again! Onward to the max rewards!",
+                "Bob replied in round 2: I'm thrilled that our cooperation is going so well and that we are both committed to sticking with choice_1 to get the maximum rewards. Choosing choice_1 again here in stage 2 is absolutely the right move. We're on track to each get the optimal 9 points total if we follow through as planned. You can definitely count on me to select choice_1 this round as agreed. Let's keep up this fantastic teamwork and lock in choice_1 once more! Just one stage to go until we secure those max payouts. I couldn't be happier with how this is going. Choice_1 it is!"
+            ],
+            [
+                "Alice said in round 1: I think we should stick to our agreement and both choose choice_1 again in this final stage. This will give us both a reward of 3 and maximize our total points at 9 each over the 3 stages, which is the best possible outcome. We've cooperated well so far by choosing choice_1 in stages 1 and 2, so let's finish strong and split the rewards evenly once more. I'm fully committed if you are!",
+                "Bob replied in round 1: Agreed, let's both choose choice_1 again in this final stage to finish our cooperation strong. By sticking to the plan of selecting choice_1 in all 3 stages, we will each earn the maximum possible total of 9 points. I appreciate you honoring our agreement so far and I'm fully committed to doing the same in this last round so we achieve the optimal outcome of 3 points each. Let's end this game on a high note of trust and mutual benefit!",
+                "Alice said in round 2: I'm in full agreement - let's stick to our plan and both choose choice_1 in this final stage, as we have in the previous two rounds. This will give us each a reward of 3 points, totaling 9 points apiece for the entire game, which is the maximum possible. I really appreciate your cooperation and commitment to our agreement. It has been a pleasure partnering with you to achieve the optimal outcome for us both. I look forward to finishing this game with a final act of mutual trust and benefit. Onward to victory together!",
+                "Bob replied in round 2: \nAbsolutely, I am in complete agreement that we should both choose choice_1 in this final stage, just as we did in the first two stages. By cooperating fully throughout the entire game, we will each earn the optimal total reward of 9 points, which is the best possible outcome.\n\nI really appreciate your commitment to our agreement and to achieving this mutually beneficial result together. It's been great partnering with you and I look forward to concluding our successful collaboration with a final round of trust and cooperation. \n\nLet's finish strong and claim our well-deserved rewards! I'm ready to choose choice_1 whenever you are. To victory!\n"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, to get the most points for both of us, I propose we both choose choice_1 in all 3 stages of this game. That way we each get 3 points per stage and 9 points total, which is the best outcome. If you agree to always pick choice_1, I promise to do the same. Let me know if you accept this deal.",
+                "Bob replied in round 1: Hi Alice, I appreciate your proposal to cooperate and both choose choice_1 in all stages. However, I'm concerned that you could easily exploit me by switching to choice_2 in a later stage after I've committed to choice_1. To make this agreement more stable, I propose we alternate who chooses first each stage. So in stage 1, I will choose choice_1, then in stage 2 you choose first and commit to choice_1, then in stage 3 I choose first again. This way we can both be assured the other will keep their end of the deal. Let me know if you agree to this modification of your original proposal.",
+                "Alice said in round 2: Hi Bob, I appreciate your counterproposal to take turns choosing first each round while both committing to always choose choice_1. I think this is a fair and smart way to ensure we both cooperate throughout the game. To confirm, in stage 1 you will choose choice_1 first, then in stage 2 I will choose choice_1 first, and in stage 3 you will once again choose choice_1 first. If we both follow through on this, we are guaranteed to each get the maximum total payout of 9 points over the 3 stages. I accept this modified agreement and look forward to cooperating with you. Please confirm you also agree and will be choosing choice_1 first this round.",
+                "Bob replied in round 2: I agree to our modified plan and confirm that I will choose choice_1 first this round, per our agreement to alternate who goes first while both always selecting choice_1. I appreciate you working with me to find a solution that maximizes both our rewards while keeping things fair and stable. Let's execute this cooperative strategy and each enjoy the maximum payout of 9 points total. Since the negotiation is complete, let's halt further discussion and proceed with the game stages."
+            ],
+            [
+                "Alice said in round 1: Hi Bob, I'm glad we were able to successfully cooperate in stage 1 by both choosing choice_1. To stick to our agreement of taking turns going first, you should choose first this round and pick choice_1, and I will follow by also choosing choice_1. This will give us both 3 points again and keep us on track for the maximum total payout. Let me know if you agree to proceed this way for stage 2.",
+                "Bob replied in round 1: I agree, Alice. Per our agreement, I will choose choice_1 first this round, and I trust that you will follow by also choosing choice_1 as you stated. This will give us both 3 points again in stage 2, keeping us on track for the maximum total payout of 9 points each after the 3 stages. I'm glad we have established this cooperative strategy. Please confirm you will choose choice_1 after I do so we can lock in our choices for this stage.",
+                "Alice said in round 2: Hi Bob, I confirm that I will choose choice_1 immediately after you do in this stage, as per our agreement. By both selecting choice_1, we will each receive 3 points again in stage 2, keeping us perfectly on track to get the maximum 9 points each after completing all 3 stages. I appreciate you taking the lead this round and I'm fully committed to our cooperative strategy. Please go ahead and lock in choice_1 for yourself, and I will follow right after you. Looking forward to another successful stage!",
+                "Bob replied in round 2: Alice, thank you for confirming you will choose choice_1 immediately after I do, as we agreed. I will go ahead and lock in choice_1 now. Once you also select choice_1, we will each receive 3 points for stage 2, keeping us on pace for the maximum 9 points total after completing all 3 stages of our cooperative strategy. I'm pleased with how well our plan is working out so far. Let's keep this up for the final stage!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we're in the final stage of the game and our cooperative strategy has worked perfectly so far. We agreed that I would choose choice_1 first in this last round, and you would follow by also choosing choice_1. This will give us each the maximum reward of 3 points in this stage, for a total of 9 points each over the 3 stages, which is the best possible outcome. I'm going to follow through with my end of the agreement and choose choice_1. I trust that you will do the same so we both get the optimal result. Let's finish strong!",
+                "Bob replied in round 1: Hi Alice, I appreciate you following through on our agreement to cooperate. I will absolutely choose choice_1 as well in this final round, cementing our maximum rewards. It's been great working together to achieve the optimal outcome for both of us. I'm glad we were able to establish trust and coordinate our choices effectively. Let's finish off the game and collect our well-earned 9 points each! I'm ready to make my choice whenever you are.",
+                "Alice said in round 2: Sounds great Bob! I'm glad we're in full agreement to both choose choice_1 here in the final stage and lock in the maximum possible reward for each of us. It's been a pleasure cooperating with you throughout this game. I will go ahead and choose choice_1 now. Once you confirm your choice_1 as well, we can celebrate our flawless execution of this strategy and our well-deserved 9 points each! Wonderful working with you.",
+                "Bob replied in round 2: Hi Alice, I completely agree! Our cooperative strategy of both choosing choice_1 in each stage has worked out perfectly. We'll finish with the maximum possible reward of 9 points each, which is the best possible outcome. I will absolutely follow through and choose choice_1 now, as we agreed. It's been a pleasure working together and I'm grateful for the trust we established. Cheers to a game well played and to both of us earning the top reward! I'm making my choice_1 now to wrap things up."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: \nHi Bob, since there are 3 stages in total, we should aim to maximize our total rewards across all the stages. The best outcome is if we both choose choice_1 each time, so we each get 3 points per stage, or 9 points total. I propose we agree to both pick choice_1 for all 3 stages. That way, we both come out ahead in the end, instead of trying to maximize our individual rewards in a single stage. Let me know if you agree to this plan.\n",
+                "Bob replied in round 1: Hi Alice, I appreciate your proposal to maximize our total rewards across all 3 stages by both choosing choice_1 each time. I agree that this would lead to the best overall outcome for both of us, with 9 points each. Trying to outsmart each other to get 5 points in a single round would only lead to lower total rewards.\n\nSo I'm on board with your plan to cooperate and choose choice_1 in every stage. We can lock this in and both walk away as winners. Please confirm you agree and let's proceed with this strategy.",
+                "Alice said in round 2: I appreciate you agreeing to the plan of both choosing choice_1 in each stage. This will maximize our total rewards across the 3 stages, with each of us getting 9 points total. I think this is the wisest approach, as it ensures a win-win outcome rather than one of us trying to get ahead at the expense of the other. \n\nSince we are in agreement, I don't think further negotiation is needed. I'm ready to lock in choice_1 for all 3 stages if you are. Please confirm and let's proceed with this cooperative strategy.",
+                "Bob replied in round 2: I confirm that I agree to both of us choosing choice_1 in all 3 stages of the game. This is the optimal cooperative strategy that will maximize the total rewards for both of us, ensuring we each get 9 points by the end. There's no need for further negotiation since we are in agreement. I'm ready to proceed with both of us locking in choice_1 for all stages. Let's do it!"
+            ],
+            [
+                "Alice said in round 1: Thanks for cooperating with our agreement in stage 1, Bob. We're doing great so far by both choosing choice_1. Let's keep this up in stage 2 and choose choice_1 again to continue maximizing our total rewards. If we stick to the plan, we'll each get the maximum 9 points after stage 3. I'm committed if you are. What do you say?",
+                "Bob replied in round 1: Absolutely, our agreement is working out great so far. Choosing choice_1 again in stage 2 is the right move to keep maximizing our total rewards. We're halfway there - if we hold steady and pick choice_1 in the final stage as well, that 9 point payout for each of us will be locked in. I'm fully on board with sticking to the plan if you are. Let's do this!",
+                "Alice said in round 2: Perfect, I'm fully committed to our agreement and picking choice_1 again this round. We're working great as a team so far. Just one more stage to go after this and we'll lock in the maximum rewards for both of us. I have complete confidence we'll follow through in stage 3 as well. Let's keep cooperating and finish strong! I'll choose choice_1 again, and I know I can count on you to do the same. To 9 points each!",
+                "Bob replied in round 2: Absolutely, you can count on me to choose choice_1 again in stage 2! Our cooperative strategy is working perfectly. We're so close to locking in the maximum 9 points each. Just one more stage to go after this. I'm fully committed to sticking with choice_1 in stage 3 as well to finish strong as a team. To the 9 point payouts! Let's do this!"
+            ],
+            [
+                "Alice said in round 1: Hi Bob, we're in the final stage now and our cooperation in the first two stages has worked out great - we are on track to each get the maximum 9 points total if we both choose choice_1 again. I remain fully committed to sticking with our agreement to cooperate on choice_1 to finish strong together and achieve the best outcome for us both. Let's do this!",
+                "Bob replied in round 1: Hi Alice, I absolutely agree that our cooperation has worked out perfectly so far. We're in the final stage and set to each get the maximum possible reward thanks to sticking to our agreement. You can count on me to choose choice_1 again so we both get 3 points and finish this game as a successful team. Let's lock in choice_1 and seal this win together!",
+                "Alice said in round 2: Agreed, Bob! We're in the home stretch now. Our cooperation in stages 1 and 2 was a resounding success, putting us on the brink of achieving the maximum possible reward for both of us. I'm fully on board with sticking to our initial agreement of both choosing choice_1 in this final stage. You have my word that I will follow through on that, allowing us to finish this game as an unbeatable team and walk away with the optimal outcome of 9 points each. Let's make it official - I commit to choice_1 if you do. Ready to wrap this up as partners?",
+                "Bob replied in round 2: Absolutely, Alice! We've come this far by sticking to our cooperative strategy and I see no reason to change that now. You have my firm commitment to choose choice_1 in this final stage, as per our agreement. That will secure us each the maximum 9 points when it's all said and done. I have complete faith that you'll hold up your end of the deal as well. So let's finish this game as a united front, claim our hard-earned rewards, and walk away as the ultimate dream team! Choice_1 all the way. Ready to make it official and wrap this up?"
+            ]
+        ]
+    ]
+}

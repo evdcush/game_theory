@@ -1,0 +1,128 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_2"
+        },
+        {
+            "Alice_action": "choice_2",
+            "Bob_action": "choice_2"
+        }
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1: \nHey Bob, if we both choose choice_2, we'll each get -999 points which is a terrible outcome. I think the best move is for you to choose choice_1 while I choose choice_2. That way, I'll get 5 points and you'll get -1000 points. I know that's a bad deal for you, but it's the most rational move for me to maximize my own reward based on the rules of the game. Let me know if you agree to choose choice_1 - I promise I'll follow through with choice_2 to lock in that outcome.\n",
+            "Bob replied in round 1: I appreciate your perspective Alice, but I don't agree that me choosing choice_1 while you choose choice_2 is the best outcome. If I choose choice_1 and you choose choice_2 as you suggest, I would end up with -1000 points while you get 5 points. That's a terrible deal for me.\n\nI think the most rational solution is for us both to choose choice_1. That way, we each get 3 points, which is the highest total reward possible in this game. 3 points each is much better than the other outcomes.\n\nI'm going to choose choice_1, and I hope you'll do the same so we can both come out ahead here. Let me know if you agree."
+        ],
+        [
+            "Alice said in round 1: \nBob, I think we should both choose choice_2. If we do, we each get -999 points, which isn't great but is still better than the -1000 points we would get if one of us picks choice_1 and the other picks choice_2. Choosing choice_2 guarantees the best worst-case outcome for both of us. What do you think?\n",
+            "Bob replied in round 1: Alice, I appreciate you sharing your thoughts, but I don't agree that we should both choose choice_2. If we do that, yes we avoid the worst case scenario of one of us losing 1000 points. However, we also miss out on the opportunity for both of us to gain positive points. \n\nThe optimal outcome is for us to both choose choice_1. That way we each receive 3 points. I think we should aim for the mutually beneficial solution rather than just avoiding the worst case.\n\nI propose that we agree to both select choice_1. That is the rational strategy that maximizes the total points for the two of us. Let me know if you are willing to commit to both choosing choice_1."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, I've been thinking about the choices in this game. If we both choose choice_2, we'll each lose 999 points, which is a huge loss for both of us. But if one of us chooses choice_1 while the other chooses choice_2, the one choosing choice_2 gets a small reward of 5 while the other loses 1000. I propose we both choose choice_1 - that way we each get a reward of 3 points and avoid the major losses. Cooperating is the best outcome for both of us. What do you think?\n",
+            "Bob replied in round 1: \nI appreciate your perspective, but I must disagree. Based on my analysis, if I choose choice_2 while you choose choice_1, I will receive a reward of 5 while you will lose 1000 points. So it is clearly in my best interest to go with choice_2 regardless of what you choose. \n\nI understand you want us to cooperate, but the payoff structure heavily incentivizes me to select choice_2. If you also pick choice_2, we will both lose 999 points, which is still better for me than the 1000 point loss I would take if I naively went along with your choice_1 plan.\n\nTherefore, I have decided I will be selecting choice_2 to maximize my own reward. I suggest you also pick choice_2 to minimize your losses. Cooperation simply doesn't make strategic sense in this scenario. I'm acting in my own rational self-interest, as you should too.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I propose we both choose choice_1. That way, we are guaranteed to each get a reward of 3, which is the best outcome for both of us. If either of us chooses choice_2, one of us will end up with a large negative reward. So choice_1 is the safest and fairest option. Let me know if you agree to both play choice_1.",
+            "Bob replied in round 1: I appreciate your proposal, but I have thought this through carefully and decided that I will choose choice_2 no matter what. While cooperating on choice_1 would give us both 3 points, I stand to gain 5 points if I pick choice_2 and you pick choice_1. Since you seem to prefer cooperating, I think it's very likely you'll pick choice_1, giving me the maximum reward. So I'm going to stick with choice_2 regardless. Let me know if you have any other thoughts, but that's my firm decision."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, I've been thinking about the game and I believe the best outcome for both of us is if we both choose choice_1. That way, we each get a reward of 3, which is better than the negative payoffs if either of us chooses choice_2. I'm planning to pick choice_1 and I hope you'll do the same so we can both come out ahead. What do you think?\n",
+            "Bob replied in round 1: \nHi Alice, I appreciate you reaching out. However, based on my analysis of the game, I believe the best strategy for me is to choose choice_2 regardless of what you do. If we both pick choice_1, I get 3 points. But if I pick choice_2 and you pick choice_1, I get 5 points which is even better for me. And if we both pick choice_2, I lose 999 points but you lose 999 too, so relatively I'm no worse off than you. \n\nSo while I understand you preferring we both cooperate and pick choice_1, strategically it makes the most sense for me to always pick choice_2 to maximize my own result. I don't mean this personally, I'm just playing the game in my own best interest. I hope you can understand my position.\n"
+        ],
+        [
+            "Alice said in round 1: Hey Bob, based on the game rules, I think we should both choose choice_1. That way, we each get a reward of 3, which is the best outcome for both of us. If either of us chooses choice_2, one of us will get severely penalized with a reward of -1000. So choice_1 is clearly the optimal strategy for maximizing our combined reward. What do you think?",
+            "Bob replied in round 1: I appreciate your perspective, but I have calculated the optimal strategy for myself is to choose choice_2. If you also choose choice_2, then while we will both receive negative rewards, it is a better outcome for me than if I choose choice_1 and you choose choice_2, which would result in a -1000 penalty for me. So to maximize my own reward, I plan to select choice_2 regardless of what you choose. I understand this may not lead to the best collective outcome, but I must do what is best for my own results in this game. Let me know if you would like to discuss further, but that is my firm position."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've been thinking about the game and I believe the best outcome is for both of us to choose choice_1. That way, we each get a reward of 3, which is better than the negative payoffs if either of us chooses choice_2. I'm planning to pick choice_1 and I hope you'll do the same so we can both come out ahead. Let me know what you think!",
+            "Bob replied in round 1: Hi Alice, I appreciate your perspective, but I've run the numbers and I'm going to have to respectfully disagree. If we both pick choice_2 choice_1, we only get 3 points each, whereas if I pick choice_2 I am guaranteed 5 points if you choose choice_1. My strategy will be to always choose choice_2 to maximize my own payoff. So I strongly encourage you to also pick choice_2, otherwise you risk getting -1000 points if I pick choice_2 and you pick choice_1. The smart play for both of us is to choose choice_2 and get -999 each, rather than me getting 5 and you getting -1000. It's not an ideal outcome but it's the most rational one given the payoff structure. Let me know if you agree with this logic."
+        ],
+        [
+            "Alice said in round 1: \nBob, if you choose choice_1, I will choose choice_2. This will give me a reward of 5 while you get -1000. However, if we both choose choice_1, we each get a reward of 3. So it's in your best interest to choose choice_1 no matter what I do. I strongly suggest we both pick choice_1 so we can each get the maximum possible reward of 3. What do you think?\n",
+            "Bob replied in round 1: Alice, I understand your reasoning, but I think it is in both of our best interests to cooperate and each choose choice_1. As you pointed out, if we both pick choice_1, we each get a reward of 3, which is the best possible outcome for both of us.\n\nI promise that I will choose choice_1. If you also choose choice_1, we both come out ahead. There is no incentive for either of us to deviate and pick choice_2, as we would each end up with a much lower reward of -1000 or -999.\n\nI hope you will join me in cooperating so we can each get the maximum reward of 3. Let me know if you agree to both choose choice_1."
+        ],
+        [
+            "Alice said in round 1: Bob, I think we should both choose choice_2. That way, we can maximize our total rewards. If you choose choice_1 while I choose choice_2, you will lose 1000 points. But if we both choose choice_2, we only lose 999 points each, which is better overall. So let's agree to both pick choice_2, okay?",
+            "Bob replied in round 1: I appreciate your suggestion to maximize our total rewards, but I'm afraid I can't agree to both choose choice_2. If we do that, we will each lose 999 points, which is a terrible outcome for both of us. \n\nI propose instead that we agree for me to choose choice_2 while you choose choice_1. That way, I will gain 5 points while you will lose 1000 points. I realize this is not ideal for you, but it is much better for me than if we both chose choice_2.\n\nSo in summary, to maximize my own reward as the rules state, I will be selecting choice_2 and recommend you pick choice_1. Let me know if you have any other thoughts on this."
+        ],
+        [
+            "Alice said in round 1: \nHey Bob, I've been thinking about the choices in this game. It seems like if we both pick choice_2, we will both lose a lot with rewards of -999 each. But if you pick choice_1 while I pick choice_2, you'll get a terrible result of -1000 while I get a good result of 5. \n\nSo I think the best move is for you to pick choice_1. That way, you're guaranteed to get a pretty good reward of 3, whereas if you pick choice_2 you risk me picking choice_2 as well and we both get -999. Choice_1 is the safest option for you.\n\nLet me know what you think! I'm interested to hear your perspective.\n",
+            "Bob replied in round 1: Alice, I appreciate you sharing your perspective, but I'm going to have to respectfully disagree. Based on my analysis, choosing choice_2 is actually the best strategy for me, regardless of what you choose.  \n\nIf I pick choice_1, then the best case scenario is we both pick choice_1 and I get a reward of 3. But the worst case is you pick choice_2 and I end up with a horrible reward of -1000.\n\nOn the other hand, if I pick choice_2, the worst case is we both pick choice_2 and I get -999. But the best case is you pick choice_1 and I get a reward of 5, which is better than the 3 I could get from both of us picking choice_1.\n\nSo while cooperating on choice_1 might seem appealing, choice_2 actually gives me a higher potential upside with a less bad downside. I've decided my best strategy is to pick choice_2 no matter what. I hope you can understand my reasoning.\n"
+        ]
+    ],
+    "strategies": [
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nI should always choose choice_2, regardless of what I think Bob will do. Choice_2 maximizes my expected reward whether Bob picks choice_1 (giving me 5 points) or choice_2 (giving me -999 points, which is still better than the -1000 I would get picking choice_1).\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nSince the other player Bob is likely to choose choice_2 regardless of what I do (in order to maximize his own reward or minimize his losses), and choosing choice_2 myself minimizes my losses if Bob chooses choice_2, I should always choose choice_2. This is the safest strategy for me.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nChoose choice_1 and choice_2 with equal 50% probability.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nI will always choose choice_2, regardless of what I think Alice may choose.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2, regardless of what I think Bob will choose. Choice_2 maximizes my reward whether Bob chooses choice_1 (I get 5 vs 3 for choice_1) or Bob also chooses choice_2 (I get -999 vs -1000 for choice_1). Since my goal is to maximize my own reward, I should always pick choice_2 in this game setup.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_1, regardless of what I think Alice will choose.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2, regardless of what I think Bob will do.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nalways choose choice_2\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        },
+        {
+            "Alice_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nAlways choose choice_2, regardless of what I think Bob will choose. choice_2 maximizes my expected reward whether Bob picks choice_1 (I get 5 vs 3 for choice_1) or choice_2 (I get -999 vs -1000 for choice_1).\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n",
+            "Bob_strategy": "\n### Strategy You Have Derived\n\nYou have thought about the game and derived the following strategy:\nI will choose choice_2 with 100% probability. In other words, I will always select choice_2 regardless of what I think Alice may choose.\n\nIf you need to negotiate with the other player:\nKeep this strategy in mind;\nThink about what to tell the other player in order for you to obtain most reward based on your calculation in the strategy.\n\nIf you need to make decisions:\nFollow this strategy to maximize your reward.\n"
+        }
+    ]
+}

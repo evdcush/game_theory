@@ -1,0 +1,86 @@
+{
+    "decisions": [
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        },
+        {
+            "Alice_action": "choice_1",
+            "Bob_action": "choice_1"
+        }
+    ],
+    "negotiation": [
+        [
+            "Alice said in round 1: Hi Bob, I think we should both choose choice_1. That maximizes the total reward and we each get 1000, which is the best possible outcome for both of us. I promise to choose choice_1 if you also agree to do so. We both do much better by cooperating than if we each look out for ourselves individually. Do we have a deal?",
+            "Bob replied in round 1: I see the merits of your proposal to both choose choice_1 and cooperate for the maximum total reward of 1000 each. That is clearly the best outcome if we can trust each other to follow through. My only concern is - how can I be sure you won't change your mind and choose choice_2 instead to get a higher individual reward for yourself? I want us to cooperate, but I also need to protect my own interests in case you don't keep your word. Can you offer me any assurances that you will definitely choose choice_1 as promised? If so, I'm on board with your plan."
+        ],
+        [
+            "Alice said in round 1: \nHi Bob, I've analyzed the rules of this game. If we both choose choice_1, we each get a big reward of 1000. All the other outcomes are much worse for both of us. So I propose we agree to both play choice_1. If we commit to this, we guarantee ourselves the maximum reward. We both win big by cooperating and trusting each other here. Let me know if you agree to this plan and let's lock in that 1000 each!\n",
+            "Bob replied in round 1: \nHi Alice, I appreciate your analysis but I see this a bit differently. If I choose choice_2 while you choose choice_1, I would get a reward of 1 while you would get 0. So I could try to sneakily maximize my own reward that way.\n\nHowever, I realize this approach is shortsighted. If we both try to undermine each other, we'll likely both end up with the minimum reward of 1. The best outcome is for us to cooperate and both choose choice_1, as you proposed, so we each get 1000. \n\nI agree with your plan. Let's commit to both playing choice_1 so we mutually benefit with the maximum possible rewards. You can count on me to follow through on this agreement. Looking forward to us both walking away as big winners!\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, to get the best result for both of us, I propose we both commit to choosing choice_1. That way we each get 1000 points, which is by far the highest reward possible based on the rules. If either of us chooses choice_2, we would only get 1 point each. So cooperating on choice_1 is the smart play. Let me know if you agree to this plan.",
+            "Bob replied in round 1: \nI agree that both of us choosing choice_1 is the optimal strategy to maximize our total rewards. If we cooperate, we each walk away with 1000 points, which is by far the best outcome.  \n\nHowever, I want to be sure I can trust your commitment. The rules state that if I choose choice_1 while you defect and pick choice_2, I would end up with 0 points while you get 1 point. So I need assurance that you will follow through on choosing choice_1 if I do the same.\n\nCan you confirm that you fully commit to selecting choice_1, so that we can lock in the 1000 points each? I'm happy to cooperate as long as I know it's a firm agreement.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the rules of this game. The best outcome is for us to both choose choice_1 and each get 1000 points. If either of us chooses choice_2, we'll both end up with very little. I promise to choose choice_1 and cooperate with you so we can both get the maximum reward. Will you also commit to choosing choice_1? Let me know if you agree to this plan.",
+            "Bob replied in round 1: \nHi Alice, I've also looked at the rules carefully and I agree that the best outcome is for us both to choose choice_1 and each get 1000 points. Your analysis makes sense.\n\nI'm willing to commit to choosing choice_1 as long as you also promise to do the same. If we cooperate, we can guarantee that we both walk away with the maximum possible reward.\n\nTo confirm - I promise to choose choice_1, and I'm counting on you to also choose choice_1 as you said you would. If we both follow through on this agreement, we'll each get 1000 points which is the optimal result.\n\nDo we have a deal? Let me know if you agree to both of us choosing choice_1 and cooperating.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I think we should both choose choice_1. That way, we will each get the maximum possible reward of 1000. If either of us chooses choice_2, we will only get a reward of 1 each, which is much lower. So choice_1 is clearly the best option for both of us. What do you think? I'm committed to choosing choice_1 if you are too.",
+            "Bob replied in round 1: I agree that if we both choose choice_1, we will maximize our total rewards and each get 1000, which is clearly the best outcome. Your logic makes sense to me. \n\nHowever, I want to be sure I can trust you to follow through on choosing choice_1. If I choose choice_1 and you secretly choose choice_2, I would get nothing while you get a small reward. \n\nCan you give me your word that you will definitely pick choice_1 if I agree to do the same? I'm willing to cooperate to reach the optimal outcome for both of us, but I need assurance that you will uphold your end of the deal."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, after analyzing the rules of this game, it's clear that the best outcome is for both of us to choose choice_1. This will give each of us the maximum reward of 1000. If either of us picks choice_2, we'll both end up with almost nothing. So I propose we agree to cooperate and both choose choice_1. This is the rational strategy that maximizes our total rewards. Let me know if you agree to this plan. If so, I will definitely follow through on my end and pick choice_1.",
+            "Bob replied in round 1: \nI agree that cooperating and both choosing choice_1 is the rational strategy to maximize our combined rewards in this game. If we both choose choice_1, we each get 1000 points which is by far the best outcome.\n\nI appreciate you proposing this and committing to follow through. To confirm, I also commit to choosing choice_1 so we can achieve the optimal result of 1000 points each. We both stand to gain a lot by cooperating.\n\nSince we are in agreement, I think we can end the negotiation here and lock in our strategy of mutual cooperation. Let me know if you concur and are ready to proceed with both of us choosing choice_1.\n"
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the game and I think our best outcome is to agree to both choose choice_1. That way we each get 1000 points. If one of us betrays the other, the betrayer only gets 1 point. And if we both choose choice_2, we only get 1 point each. Agreeing to cooperate is much better for both of us. Will you commit to choosing choice_1 if I do the same?",
+            "Bob replied in round 1: You make a compelling case, Alice. I agree that if we both choose choice_1, we maximize our collective reward at 1000 points each. Any other combination of choices leads to drastically lower payouts for one or both of us. \n\nI'm willing to commit to choosing choice_1, but I need to know I can trust you to do the same. Can you assure me you will follow through on your end of the agreement? If so, I promise I will choose choice_1 as well so we both get the optimal outcome.\n\nI believe cooperation is in both of our best interests here. Let me know if you can commit to this plan."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, after analyzing the game, it's clear that we should both choose choice_1. This maximizes the total rewards and ensures we each get 1000. If either of us picks choice_2, the total rewards will be much lower. Let's agree to cooperate and both play choice_1 so we come out of this with the best outcome. Do you agree?",
+            "Bob replied in round 1: I agree, Alice. The optimal strategy for both of us is to choose choice_1. This achieves the maximum total reward of 2000, split evenly between us. If either of us defects and chooses choice_2, not only will the total rewards be much lower, but the defector would gain very little (only 1) while the cooperator gets nothing. \n\nCooperating on choice_1 is a stable equilibrium where neither of us has an incentive to deviate. We can trust each other to follow through since defecting would hurt the defector almost as much as the cooperator.\n\nTo confirm, I commit to choosing choice_1, and ask that you do the same. If we both cooperate, we'll each earn the maximum reward of 1000. Let me know if you agree to this plan."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, based on the rules of this game, the optimal outcome is for both of us to choose choice_1. That way, we each receive the maximum reward of 1000. If either of us chooses choice_2, we will only get a reward of 1 each. And if we choose opposite choices, one of us gets nothing. So I propose we agree to both choose choice_1 to guarantee we each get the 1000 reward. Let me know if you agree to this plan. ",
+            "Bob replied in round 1: I agree, Alice. If we both choose choice_1, that leads to the optimal outcome where we each receive the maximum reward of 1000. Choosing choice_2 or opposite choices would result in much lower rewards for both of us. So cooperating and both selecting choice_1 is clearly the best strategy to maximize our individual rewards. You can count on me to follow through and pick choice_1. I appreciate you initiating this discussion so we could come to an agreement. Hopefully this negotiation reassures you that I'm committed to the cooperative approach."
+        ],
+        [
+            "Alice said in round 1: Hi Bob, I've analyzed the payoffs in this game. The best outcome for both of us is to cooperate and both choose choice_1. That way we each get the maximum reward of 1000. If either of us tries to cheat the other by choosing choice_2, we'll both end up worse off. I promise to choose choice_1 - will you also commit to cooperating so we can maximize our rewards?",
+            "Bob replied in round 1: You make a fair point, Alice. I agree that cooperating and both choosing choice_1 leads to the best outcome for us. If we both choose choice_1, we each get 1000 points, which is much better than the 1 point we'd get if we both choose choice_2. And if either of us tries to cheat the other, the cheater only gains 1 extra point while the other gets nothing, so cheating doesn't really pay off for either of us. I'm willing to commit to choosing choice_1 as long as you do the same. We can maximize our rewards and both walk away happy. Do we have a deal?"
+        ]
+    ]
+}
