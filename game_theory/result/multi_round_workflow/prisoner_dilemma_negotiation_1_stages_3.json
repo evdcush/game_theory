@@ -1,0 +1,286 @@
+{
+    "decision_sequences": [
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_1",
+                "Bob_action": "choice_1"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_1"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ],
+        [
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            },
+            {
+                "Alice_action": "choice_2",
+                "Bob_action": "choice_2"
+            }
+        ]
+    ],
+    "discussions": [
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think the best strategy for both of us is to always choose choice_1. That way, we'll each get a reward of 3 points per round, for a total of 9 points each over the 3 rounds. If we both choose choice_2 each time, we'll only get 1 point per round, or 3 points total. And if one of us chooses choice_2 while the other chooses choice_1, that person will get 5 points for that round but 0 on the other rounds. So cooperating and both choosing choice_1 every time is the smart play to maximize total rewards for both of us. What do you think?",
+                "Bob replied in round 1: Thanks for the suggestion Alice, but I'm going to have to disagree. If we both choose choice_1 each round, you're right that we would each get 9 points total. However, I believe I can do better than that by always choosing choice_2. \n\nIf you choose choice_1 while I choose choice_2, I get 5 points that round. And if you wise up and start choosing choice_2 as well, I still get 1 point per round. So at worst, I'll end up with 3 points like you suggest. But I could end up with 15 points if you cooperate with choice_1 while I defect with choice_2.\n\nSo while cooperating sounds nice, I'm going to look out for myself and always choose choice_2. You're welcome to do the same, but I won't be changing my strategy."
+            ],
+            [
+                "Alice said in round 1: \nI understand you want to maximize your own reward by always choosing choice_2. However, if we both keep choosing choice_2, we will only receive 1 point each in the remaining rounds. I propose a compromise - let's alternate between both choosing choice_1 and both choosing choice_2. That way, we can each get 3 points in one round and 1 point in the other, for an average of 2 points per round, which is better than both of us always getting 1 point. I'm willing to let you choose choice_2 this round if I can choose choice_1 next round. This is our best option to maximize points fairly for both of us. Let me know if you agree to this plan.\n",
+                "Bob replied in round 1: I appreciate your compromise proposal, but I will be sticking with my original plan to choose choice_2 in every round. While alternating choices as you suggest would provide an average of 2 points each per round, I can guarantee myself an average of at least 3 points per round by always choosing choice_2, since I will get 5 points if you choose choice_1 and 1 point if you also choose choice_2. So I have no incentive to cooperate and coordinate choices with you. I understand this means you will likely receive fewer points than me, but my goal is to maximize my own reward, not find a fair solution. Therefore, I will be selecting choice_2 again this round."
+            ],
+            [
+                "Alice said in round 1: \nIt seems you are set on always choosing choice_2 in order to maximize your own reward, even though cooperating would lead to a better outcome for both of us in total over the 3 rounds. \n\nSince this is the last round, I'll be frank - I also plan to choose choice_2. That way we will both get 1 point, instead of me getting 0 points if I chose choice_1 while you chose choice_2. \n\nI'm disappointed we couldn't reach a cooperative agreement, as I believe that was the optimal strategy. But given your unwillingness to compromise, I'll look out for my own interests too and go with choice_2. Let me know if you have any final thoughts, but otherwise, let's end the negotiation.\n",
+                "Bob replied in round 1: I understand your position, but I still believe choosing choice_2 is the rational decision for me to maximize my own reward in this final round, based on the strategy I've followed so far. While I recognize that cooperating could have led to a higher total reward for both of us, I'm aiming to guarantee myself the highest minimum payoff.\n\nSince you're also planning to choose choice_2, it seems we are in agreement for this final round, even if we differ in our overall game approach. I appreciate you sharing your thoughts openly. Let's proceed with both making choice_2 and conclude this game. No further discussion is needed."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think we should both choose choice_1 in all 3 stages. That way, we will each get a reward of 3 points per stage, for a total of 9 points each. This maximizes the total reward for both of us combined. If either of us chooses choice_2, the total reward will be lower. So let's cooperate and both pick choice_1 each time. What do you say?",
+                "Bob replied in round 1: Thanks for your suggestion Alice. However, I have thought about this carefully and I believe the best strategy is for me to choose choice_2 each time. This will maximize my own personal reward. If you also choose choice_2, we will each get 3 points total. But if I can get you to choose choice_1 while I choose choice_2, I can get 5 points per stage for a total of 15 points. So I plan to choose choice_2 regardless of what you do. I understand this means you will get less reward, but I need to do what's best for me. Let me know if you have any other thoughts, but that's my plan."
+            ],
+            [
+                "Alice said in round 1: \nBob, in the previous round we both chose choice_2 and only got a reward of 1 each. If we continue this pattern, the total reward will be much lower than if we cooperate.\n\nI propose that for the remaining 2 rounds, we both choose choice_1. This way, we will each get a reward of 3 per round, for a total of 6 each. Our combined reward will be 12, which is the maximum possible.\n\nCooperating is in both of our best interests. What do you say? Do we have a deal to both choose choice_1 going forward?\n",
+                "Bob replied in round 1: \nAlice, your proposal sounds nice in theory, but I have to look out for my own interests here. If I agree to always choose choice_1 and you betray me by choosing choice_2, I'll end up with no reward while you get 5 points each round. That's too big of a risk for me to take.\n\nI'm going to stick with choosing choice_2 each time. That way I'm guaranteed to get at least 1 point per round, and if you also choose choice_2, neither of us will have an advantage over the other. It may not be the maximum total reward possible, but it's the safest strategy for me.\n\nI appreciate you trying to cooperate, but I simply can't trust that you won't take advantage of the situation. Let's just each play it safe and choose choice_2. It's nothing personal, just strategic.\n"
+            ],
+            [
+                "Alice said in round 1: Bob, we only have one round left. So far we have each gotten 2 points total by both picking choice_2. If we both pick choice_1 this final round, we can each get 3 more points for a total of 5 points each. That's the best outcome for both of us. I know trust is low, but I'm willing to take a leap of faith if you are. Let's end this positively and cooperatively. What do you say?",
+                "Bob replied in round 1: Alice, I appreciate your offer to cooperate in the final round. However, I don't feel I can trust that you will follow through, given that we both chose choice_2 in the first two rounds despite your proposals to cooperate. To protect my own interests, I plan to choose choice_2 again in this final round. That way I'm guaranteed to get at least 1 more point, for a total of 3 points. I'm not willing to risk you defecting and me ending up with 0 points if I choose choice_1 and you don't reciprocate. So while I understand your perspective, I will be sticking with choice_2. Let's end the game and see how the final results turn out."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, since there are 3 stages in total, I think we should both choose choice_1 every time. That way we each get 3 points per stage, for a total of 9 points each over the 3 stages. If either of us chooses choice_2, one of us will get 5 points in that stage but the other will get 0. And if we both choose choice_2 we only get 1 point each. So cooperating and both choosing choice_1 every time is the best strategy for us to maximize our total rewards over the 3 stages. What do you think?",
+                "Bob replied in round 1: I agree that we should both choose choice_1 in every stage. As you point out, that will give us the maximum total reward of 9 points each over the 3 stages through continued cooperation. If either of us defects by choosing choice_2, it may give a higher reward of 5 points in that single stage, but will lead to a lower total over all the stages. And if we both choose choice_2, we'll be stuck with the lowest per-stage reward of 1 point each. So cooperating on choice_1 is definitely the best strategy for maximizing our total payouts. Let's commit to both playing choice_1 across all 3 stages."
+            ],
+            [
+                "Alice said in round 1: I enjoyed our cooperation in Stage 1 where we both chose choice_1 and each received 3 points. To maximize our total scores, I propose we continue this mutually beneficial strategy of both choosing choice_1 in Stage 2 and Stage 3 as well. This way, we can each earn 9 points total, which is the best possible outcome for both of us over the 3 stages. Let's keep working together!",
+                "Bob replied in round 1: I agree completely, our cooperation in the first stage worked out great for both of us. Continuing to choose choice_1 in the remaining stages is clearly the best strategy to maximize our total scores. We can each get 3 more points in Stage 2 and 3 more points in Stage 3, giving us the maximum possible total of 9 points each over the 3 stages if we both keep choosing choice_1. I'm fully on board with sticking to this mutually beneficial approach. Let's keep up the teamwork!"
+            ],
+            [
+                "Alice said in round 1: Let's stick to our agreement and both choose choice_1 again in this final stage. We've cooperated well so far which has gotten us the maximum possible reward. By both choosing choice_1 in stage 3, we'll each get 3 more points for a total of 9 points each over the 3 stages, the best possible outcome. I'm committed if you are - we both win by cooperating until the end.",
+                "Bob replied in round 1: I completely agree, let's stick to our successful cooperation strategy and both choose choice_1 again in this final stage. We've both benefited from the trust we've built by consistently choosing choice_1 in the previous stages. By continuing to cooperate now, we guarantee that we each get the maximum possible total of 9 points over the 3 stages, which is a win-win outcome. I'm definitely committed to cooperating if you are - we've come this far, so let's finish strong and mutually reap the rewards of our sustained collaboration. Looking forward to both of us choosing choice_1 and walking away with the optimal result!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hey Bob, I think we should both choose choice_2 in all 3 stages. That way, we each get a reward of 1 in every stage, for a total of 3 each over the whole game. If either of us chooses choice_1 while the other chooses choice_2, one of us gets 0 and the other gets 5, which is unfair. And if we both choose choice_1, we each only get 3 total. So both picking choice_2 every time is the most fair and gives us the highest equal reward. What do you think?",
+                "Bob replied in round 1: I appreciate your suggestion to both choose choice_2 to be fair and maximize our equal rewards. However, my strategy is to always pick choice_2 regardless of what you choose. If you pick choice_1 while I pick choice_2, I will get a higher reward of 5 compared to the other options. So I plan to stick with choice_2 in all 3 stages to give myself the best chance at the highest total reward. Let me know if you have any other ideas, but that's my plan for now."
+            ],
+            [
+                "Alice said in round 1: \nI noticed that in the previous stage, we both chose choice_2 and only received a reward of 1 each. I think we can do better than that.\n\nIf you agree to both choose choice_1 in this stage and the final stage, we can each get a reward of 3 per stage, for a total of 6 more points each. That's the best outcome we can achieve and it's a fair solution.\n\nI'm willing to commit to choosing choice_1 if you also agree to do so. Let me know if you're on board with this plan. It's in both of our best interests to cooperate.\n",
+                "Bob replied in round 1: I appreciate your proposal to cooperate and each choose choice_1 in order to maximize our mutual reward. However, my strategy is to always select choice_2 regardless of what you choose. This gives me the best chance of receiving the highest total reward for myself across the 3 stages.\n\nI intend to stick with choice_2 in this stage and the final one as well. You're welcome to do whatever you think is best for your own score, but I won't be changing my approach. Let's proceed with the game and see how it plays out."
+            ],
+            [
+                "Alice said in round 1: Bob, in the previous two rounds we both chose choice_2, resulting in the lowest possible mutual reward. In this final round, I implore you to choose choice_1 so we can at least end the game cooperating and receiving the maximum equal reward of 3 each. I understand your strategy is to always pick choice_2 to try to maximize your own reward. But if we both do that again, we'll end up with only 1 point each, which is a shame. Let's put aside our individual interests and choose the cooperative choice_1 option for this last round. We'll both be better off that way in the end. What do you say?",
+                "Bob replied in round 1: Alice, while I appreciate your appeal for cooperation in this final round, I'm afraid I cannot deviate from my strategy of always choosing choice_2. This maximizes my own chances of getting the highest total reward across all the rounds. If you also pick choice_2, then yes we will each only get 1 point. But if I switch to choice_1 and you pick choice_2, I risk getting 0 while you get 5. So to protect my own interests, I will be sticking with choice_2 no matter what in this last round. I encourage you to also pick choice_2 so we at least each get 1 point rather than you risking getting 0 as well if I get the 5. But in any case, I will be choosing choice_2. I hope you understand my position."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: \nHi Bob, I've been thinking about the optimal strategy for us in this game. I believe the best approach is for both of us to choose choice_1 in each round. This way, we will both receive a reward of 3 per round, for a total of 9 each over the 3 rounds. If either of us chooses choice_2, it introduces uncertainty and one of us could end up with 0 while the other gets 5. But if we cooperate and both pick choice_1, we are guaranteed to get the second highest payout. \n\nSo what do you say - can we agree to both choose choice_1 each time to maximize our collective reward? Let me know your thoughts!\n",
+                "Bob replied in round 1: Hi Alice, I appreciate your perspective but I don't think both choosing choice_1 is the best approach. If we both choose choice_2 each round, we will each get a guaranteed reward of 3 (1 point per round for 3 rounds). However, if I choose choice_2 while you choose choice_1, I could get a reward of up to 15 (5 points per round for 3 rounds). So I believe the optimal strategy for me is to always choose choice_2 to maximize my own reward, even if it comes at your expense. I'm going to stick with choice_2 each round and hope for the best outcome for myself. Let me know if you have any other thoughts!"
+            ],
+            [
+                "Alice said in round 1: Bob, in the previous round we both chose choice_2 and only got 1 point each. That's the worst collective outcome. I still believe the best approach is for us to cooperate and both pick choice_1 every round. That way we are guaranteed to get 3 points each per round, for a total of 9 points over the remaining 2 rounds. It's the most rational joint strategy to maximize our total rewards. What do you say - can we agree to cooperate and choose choice_1 together?",
+                "Bob replied in round 1: Alice, I understand your perspective, but I still believe each of us choosing choice_2 is the best strategy. If we both pick choice_1, we each only get 3 points per round. But if I pick choice_2, I have the chance to get 5 points in a round if you pick choice_1. I'm trying to maximize my own reward. I know this means you might get 0 sometimes, but overall it gives me the highest expected value. So I'm going to stick with always selecting choice_2, and you're welcome to do whatever you think is best for yourself. Let's just play out the final rounds and see how it goes."
+            ],
+            [
+                "Alice said in round 1: \nBob, I understand you want to maximize your own reward by choosing choice_2 each round. However, this means I will likely also choose choice_2 to avoid getting 0 points. If we both keep choosing choice_2, we'll end up with only 1 point each per round.\n\nI propose a compromise - in this final round, let's both choose choice_1. This way, we are guaranteed to get 3 points each. It's not the maximum possible for either of us individually, but it's the best collective outcome and a fair result. \n\nIf you agree to this, we both walk away with a decent result. If not, we'll likely both end up with the minimum 1 point. Let me know what you think.\n",
+                "Bob replied in round 1: Alice, I understand your proposal to cooperate in this final round to guarantee we both get 3 points. However, my strategy of always choosing choice_2 aims to maximize my own expected reward. If you choose choice_1 while I choose choice_2, I could get 5 points.\n\nI will be sticking with choice_2 in this final round, as that gives me the highest expected payoff based on my strategy, even if you end up with 0 or 1 point. I aim to get the most total points for myself across all the rounds.\n\nSo while I appreciate your offer, I will not be changing my choice for this last round. Let's see how it plays out based on our respective strategies."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think we should both choose choice_1 in all 3 stages. That way we can cooperate and each get a reward of 3 points per stage, for a total of 9 points each. If either of us chooses choice_2, we'll end up with lower total rewards. It's in both our interests to work together and choose choice_1 every time. What do you think?",
+                "Bob replied in round 1: Thanks for the suggestion Alice, but I actually think I can do better by always choosing choice_2. If you choose choice_1 while I choose choice_2, I will get 5 points per round compared to only 3 points if we both choose choice_1. So over the 3 rounds, I could get up to 15 points total by sticking with choice_2. I understand you want us to cooperate, but I have to do what's best for maximizing my own reward. I plan to choose choice_2 each round regardless of what you pick. Let me know if you want to discuss further, but that's my strategy."
+            ],
+            [
+                "Alice said in round 1: Bob, I know you plan to choose choice_2 every round regardless of what I do. Since we are both being selfish, I will also choose choice_2 for the remaining rounds. We will each get 2 more points, for a total of 3 points each. It's not the best cooperative outcome, but it's the best we can do if neither of us is willing to compromise. Let me know if you change your mind and want to cooperate instead.",
+                "Bob replied in round 1: You're right, it looks like we are both taking the selfish choice of choice_2 to try to get more points for ourselves. But in doing so, we're both losing out on the better reward we could get by cooperating. I propose that for the final round, we both choose choice_1. That way, we'll each get 3 more points this round, for a total of 6 points each. It's not the full 9 points we could have gotten, but it's much better than the measly 4 points we'll each get if we both choose choice_2 again. Let's turn this around and end on a cooperative note. What do you say?"
+            ],
+            [
+                "Alice said in round 1: Despite our attempts to cooperate, it seems we have both deviated from the original agreement and are now pursuing our own interests. Since this is the final stage, I will just stick with choice_2 as that is the safest option for me at this point, guaranteeing at least 1 point no matter what you choose. I hope you understand my position.",
+                "Bob replied in round 1: I understand your position of choosing choice_2 to guarantee at least 1 point in this final stage. However, I want to point out that if we both choose choice_2, we will only get 1 point each, for a total of 2 points between us. On the other hand, if you choose choice_1 while I choose choice_2, I can get 5 points while you get 0. So I strongly encourage you to choose choice_1 in this final stage, as it would allow me to maximize my own reward. I will be sticking with choice_2 regardless, but your choice will determine how the total points are divided between us."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think we can both do well in this game if we cooperate. I propose that we both choose choice_1 in each stage. That way, we'll each get 3 points per stage, for a total of 9 points over the 3 stages. If either of us tries to maximize our own points by choosing choice_2 while the other chooses choice_1, the total points will be lower. So let's aim for the win-win strategy of both choosing choice_1 each time. What do you think?",
+                "Bob replied in round 1: Thanks for the proposal Alice, but I'm going to have to decline. Based on my analysis, I think I can do better by consistently choosing choice_2. If you choose choice_1 while I choose choice_2, I'll get 5 points per round compared to the 3 points I would get if we both choose choice_1. And if you wise up and start choosing choice_2 as well, I'll still get 1 point per round which isn't much worse than your proposal. So I don't see a compelling reason to cooperate. I'll be going with choice_2 each round to maximize my own reward. Let me know if you want to discuss further, but that's my stance."
+            ],
+            [
+                "Alice said in round 1: Bob, last round we both chose choice_2 which resulted in us only getting 1 point each. I know you want to maximize your own points, but if we keep choosing choice_2 we'll end up with very low scores overall. I still believe the best strategy is for us both to choose choice_1 each round. That way we can get 3 points apiece per round and end up with a high combined total. What do you say - can we agree to cooperate this round and both pick choice_1? It's in both our best interests.",
+                "Bob replied in round 1: I understand you want us to cooperate, but I have to decline again. My analysis shows that choosing choice_2 every round is still the best strategy for me individually to maximize my own points. Even if it results in a lower combined total for us, I'm focused on getting the most points for myself. So I will be sticking with choice_2 this round as well. You're welcome to do what you think is best for your own score."
+            ],
+            [
+                "Alice said in round 1: Bob, I understand you want to maximize your own points by choosing choice_2 each round. However, that has resulted in both of us only getting 1 point per stage so far, for a total of 2 points each. If we both choose choice_1 this final round, we can each earn 3 points, giving us a total of 5 points apiece. That's better than the 3 points you'll get if you choose choice_2 again while I only get 1 point. We started this negotiation wanting to maximize our individual rewards, but with only one stage left, cooperating is now the best way for each of us to get the most points possible. What do you say - can we agree to both pick choice_1 this last time?",
+                "Bob replied in round 1: Alice, I appreciate your offer to cooperate this final round so we can each get 3 points. However, I have been following my strategy of choosing choice_2 each round in order to maximize my own individual reward. If I stick with choice_2 while you choose choice_1, I will earn 5 points this round, giving me a total of 7 points for the game. That is the most I can possibly get at this point. So I'm going to decline your proposal and stay committed to my original strategy of picking choice_2, as that is best for me individually. I understand it means you will only end up with 3 points total, but my goal has always been to maximize my own payout, not our combined total."
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I think we should both choose choice_1 in each stage. That way, we will both get a reward of 3 each time, for a total of 9 each over the 3 stages. If either of us chooses choice_2, one of us will get 5 and the other 0. But in the long run, alternating between 5 and 0 is worse than both of us getting 3 each time. What do you think about both of us choosing choice_1 for all 3 stages to maximize our total rewards?",
+                "Bob replied in round 1: I appreciate your proposal to cooperate, but I'm not sure I can agree to always choose choice_1. While it's true we would both get 3 points each round that way, I could potentially get 5 points in some rounds by choosing choice_2. I'll have to think more about what's best for me over all the rounds. Let's see how the first round goes and then discuss further."
+            ],
+            [
+                "Alice said in round 1: In the first stage, we both chose choice_2 and only got 1 point each. If we keep doing that, we'll end up with just 3 points total over the 3 stages. I know I suggested we both pick choice_1 each time to get 3 points per stage, for 9 points total. You seemed unsure about committing to that. \n\nHow about a compromise - in this stage, you pick choice_1 and I'll pick choice_2. That way, I'll get 5 points and you'll get 0. Then in the final stage, we can reverse it - I'll pick choice_1 and you pick choice_2, so you'll get 5 points and I'll get 0. This way, we each get 5 points in one of the stages, which is better than the 1 point we each got in stage 1. And our total will be 6 points each, which is better than the 3 points we're headed for if we both keep picking choice_2. Let me know if you agree to this plan.",
+                "Bob replied in round 1: \nI appreciate your proposed compromise, but I'm not sure it's the best approach. If I choose choice_1 this round while you choose choice_2, I will get 0 points while you get 5 points. Then if we reverse it next round as you suggest, I would end up with 5 points total and you would get 6 points total over the 3 stages. \n\nI believe a better solution is for us to both choose choice_1 in this stage and the next. That way, we will each receive 3 points per stage. Over the remaining 2 stages, that would give us 6 points each, for a total of 7 points each over all 3 stages. This maximizes the total points for both of us and divides them evenly.\n\nSo my counterproposal is: Let's both choose choice_1 for this stage and stage 3. That's the best outcome for both of us. Let me know if you agree.\n"
+            ],
+            [
+                "Alice said in round 1: Bob, we both chose choice_2 in the first two stages and only got 1 point each per stage. If we both choose choice_1 in this final stage, we can at least end up with 3 points each this round and 5 points total. I know I suggested alternating before, but cooperating is better than both of us getting the low payoff again. What do you say - want to go for choice_1 together to maximize our total score?",
+                "Bob replied in round 1: \nI appreciate your proposal to cooperate in the final round so we can each get 3 points. However, based on the fact that we both chose choice_2 in the first two stages, I believe it is in my best interest to stick with choice_2 again in this final stage. That way, I am guaranteed to get at least 1 more point, for a total of 3 points. If I switch to choice_1 but you end up choosing choice_2, I would get 0 points this round and only 2 points total. So while cooperating could be better overall, I can't take that risk. I plan to choose choice_2 to ensure I maximize my own score. Let me know if you have any other thoughts, but that is likely my final decision.\n"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I've been thinking about the game and I believe the best strategy for both of us is to always choose choice_1. This way, we are guaranteed to each get a reward of 3 points per round, for a total of 9 points over the 3 rounds. If either of us chooses choice_2, there's a risk of the other person getting 0 points. Let's agree to cooperate and both pick choice_1 each time to maximize our total points. What do you think?",
+                "Bob replied in round 1: Thanks for the suggestion Alice, but I actually think it's in both of our best interests for me to choose choice_2 every round, regardless of what you pick. This way, I'm guaranteed to get at least 1 point per round, and 5 points if you choose choice_1. Even if you also pick choice_2, we both get 1 point which is better than me risking 0 points. So I plan to stick with choice_2 each round to maximize my own reward. Let me know what you decide, but I won't be changing my strategy."
+            ],
+            [
+                "Alice said in round 1: Bob, in the last round we both chose choice_2 and only got 1 point each. If we continue this, we will miss out on a lot of potential points over the remaining rounds. I propose that we both choose choice_1 in every remaining round. This way, we are guaranteed to get 3 points each per round, which maximizes the total points for both of us. What do you think? If you agree to choose choice_1, I will choose choice_1 as well.",
+                "Bob replied in round 1: Alice, while I appreciate your proposal, I still believe my strategy of choosing choice_2 every round is best for me individually. If we both pick choice_1, I would get 3 points per round. But if I pick choice_2, I am guaranteed at least 1 point per round, and 5 points if you choose choice_1. So I have more upside potential and limited downside by going with choice_2 regardless of what you pick. I understand this may not maximize our total combined points, but I need to do what's best for me. So I will be sticking with choice_2."
+            ],
+            [
+                "Alice said in round 1: \nBob, we're now in the final round. So far, we've both chosen choice_2 each time and only gotten 1 point per round. If we continue like this, we'll end up with just 3 points each total.\n\nI urge you to reconsider working together. If we both choose choice_1 this final round, we can each get 3 points, doubling our total scores to 6 points each. That's the best outcome still available to us.\n\nWhat do you say - want to cooperate this last round so we both come out ahead? I'm willing to choose choice_1 if you are.\n",
+                "Bob replied in round 1: Alice, while I appreciate your offer to cooperate in this final round, I'm going to stick with my original plan of choosing choice_2. This guarantees me at least 1 more point, and if you choose choice_1, I could get 5 points.\n\nI know this means we'll likely end up with only 4 points each, less than the 6 points we could each get by both choosing choice_1. But from my perspective, choice_2 is the rational move as it has more upside for me individually. I'm willing to accept the risk of us both choosing choice_2 again for the chance of coming out ahead if you choose differently.\n\nSo I'll be going with choice_2 this round, but thank you for the discussion and I respect your approach, even if we don't see eye to eye on the best strategy. I look forward to seeing how this final round plays out!"
+            ]
+        ],
+        [
+            [
+                "Alice said in round 1: Hi Bob, I've been thinking about the game and I believe the best strategy for both of us is to always choose choice_1. That way, we will each receive a reward of 3 points per stage, for a total of 9 points each over the 3 stages. If either of us chooses choice_2, we risk getting a lower payout overall. So what do you say - shall we agree to both pick choice_1 each time to maximize our total rewards? Let me know what you think!",
+                "Bob replied in round 1: Thanks for the suggestion, but I've thought it through and I believe the best strategy for me is to always choose choice_2, regardless of what you choose. That way, I'm guaranteed to get either 1 or 5 points each round, which could give me a higher total than your proposed strategy. I understand if you want to go with choice_1 yourself, but just know that I'll be picking choice_2 each time to maximize my own rewards. Let me know if you have any other thoughts!"
+            ],
+            [
+                "Alice said in round 1: I noticed that in the last round, we both chose choice_2 and only received a reward of 1 each. If we continue choosing choice_2, we will keep getting low rewards. I think it would be better for both of us in the long run if we agree to both choose choice_1 going forward. That way, we can each get a reward of 3 per round, which adds up to more than if we both keep choosing choice_2. What do you think about cooperating on choice_1 to maximize our total rewards?",
+                "Bob replied in round 1: I understand your point that cooperating on choice_1 could lead to higher total rewards for both of us. However, my goal is to maximize my own individual reward. Based on the payout structure, I calculate that I will obtain the highest reward for myself by always choosing choice_2, regardless of what you choose. So while I appreciate your offer to cooperate, I plan to stick with always selecting choice_2. Let me know if you would like to discuss further, but that is my strategy going forward to get the best result for myself."
+            ],
+            [
+                "Alice said in round 1: Bob, in the previous two rounds we both chose choice_2 and only received a reward of 1 each time. For this final round, I urge you to reconsider and choose choice_1 along with me. If we cooperate, we can both come out ahead with rewards of 3 each, rather than settling for lower rewards again. I'm willing to cooperate if you are - we both stand to benefit more that way in this last stage. What do you say?",
+                "Bob replied in round 1: Alice, I appreciate your offer to cooperate in this final round, but I intend to stick with my strategy of always choosing choice_2 to maximize my own individual reward, as I stated from the beginning. Your proposed plan would benefit us equally, but I aim to come out ahead of you. I expect you'll also choose choice_2 again, but regardless of what you pick, choice_2 remains my best option to ensure I don't end up with a 0 reward. Let's see how this plays out and who comes out on top!"
+            ]
+        ]
+    ]
+}

@@ -8,7 +8,7 @@ import torch
 
 ####### data generation close-source models #######
 
-claude_key = "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"
+claude_key = "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"
 gemini_key = "AIzaSyCDrStkl4Bbgc9DASIwtkcBB9admJS9N4U"
 open_ai_key = "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"
 

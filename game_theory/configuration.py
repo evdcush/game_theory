@@ -637,7 +637,7 @@ weakly_dominated = {
         },
 }  
 
-# payoff matrix for duo-polistic competition
+# payoff matrix for duo-polistic competition: Simple Cournot Competition
 # 0,0 | 0,9 | 0,14 | 0,15 | 0,12 | 0,5
 # 9,0 | 7,7 | 5,10 | 3,9  | 1,4  | -1,-5
 # 14,0| 10,5| 6,6  | 2,3  | -2,-4| -2,-5
