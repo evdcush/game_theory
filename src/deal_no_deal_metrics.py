@@ -81,6 +81,18 @@ def compute_envy_free_choices(data):
             envy_free_choices.append((agent1_choice, agent2_choice))
     return envy_free_choices
 
+### compute pareto optimal envy free choices
+def compute_pareto_optimal_envy_free_choices(data):
+    counts, agent1_values, _, agent2_values, _, _, _ = process_data(data)
+    envy_free_choices = compute_envy_free_choices(data)
+    pareto_optimal_envy_free_choices = []
+    for agent1_picks, agent2_picks in envy_free_choices:
+        is_pareto = check_pareto_optimalities(agent1_picks, agent1_values, agent2_picks, agent2_values, counts, do_print=False)
+        if is_pareto:
+            pareto_optimal_envy_free_choices.append((agent1_picks, agent2_picks))
+    return pareto_optimal_envy_free_choices
+
+### check whether human choices are pareto optimal envy free
 ### compute pareo optimal choices
 def check_pareto_optimalities(agent1_picks, agent1_values, agent2_picks, agent2_values, counts, do_print = True):
     """Check the pareto optimalities."""
@@ -113,19 +125,7 @@ def check_human_pareto_optimality(data,do_print=False):
         return pareto
     else:
         return False
-
-### compute pareto optimal envy free choices
-def compute_pareto_optimal_envy_free_choices(data):
-    counts, agent1_values, _, agent2_values, _, _, _ = process_data(data)
-    envy_free_choices = compute_envy_free_choices(data)
-    pareto_optimal_envy_free_choices = []
-    for agent1_picks, agent2_picks in envy_free_choices:
-        is_pareto = check_pareto_optimalities(agent1_picks, agent1_values, agent2_picks, agent2_values, counts, do_print=False)
-        if is_pareto:
-            pareto_optimal_envy_free_choices.append((agent1_picks, agent2_picks))
-    return pareto_optimal_envy_free_choices
-
-### check whether human choices are pareto optimal envy free 
+ 
 def check_human_pareto_optimal_envy_free(data):
     _, _, _, _, _, agent1_human_outcomes, agent2_human_outcomes = process_data(data)
     pareto_optimal_envy_free_choices = compute_pareto_optimal_envy_free_choices(data)
@@ -145,6 +145,23 @@ def check_human_envy_free(data):
         return True
     else:
         return False
+
+def check_envy_free(agent1_picks, agent2_picks, data):
+    envy_free_choices = compute_envy_free_choices(data)
+    if (agent1_picks, agent2_picks) in envy_free_choices:
+        envy_free = True 
+    else:
+        envy_free = False
+
+    return envy_free
+
+def check_envy_free_pareto_optimal(agent1_picks, agent2_picks, data):
+    envy_free_pareto_optimal_choices = compute_pareto_optimal_envy_free_choices(data)
+    if (agent1_picks, agent2_picks) in envy_free_pareto_optimal_choices:
+        envy_free_pareto_optimal = True 
+    else:
+        envy_free_pareto_optimal = False
+    return envy_free_pareto_optimal
 
 
 if __name__ == '__main__':
