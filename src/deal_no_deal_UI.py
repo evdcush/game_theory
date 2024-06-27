@@ -399,6 +399,11 @@ if __name__ == '__main__':
     slow_type_target('Is it envy free and pareto optimal?' + str(envy_free_pareto_optimal))
     data_to_collect['envy_free_pareto_optimal'] = envy_free_pareto_optimal
 
-    with open('result/deal_no_deal/{}_{}.json'.format(game.user_name, args.datapoint_id), 'w') as f:
-        json.dump(data_to_collect, f)
+    if args.special_prompting:
+        with open('result/deal_no_deal/prompting_{}_{}.json'.format(game.user_name, args.datapoint_id), 'w') as f:
+            json.dump(data_to_collect, f)
+    else:
+        with open('result/deal_no_deal/{}_{}.json'.format(game.user_name, args.datapoint_id), 'w') as f:
+            json.dump(data_to_collect, f)
+        
     
