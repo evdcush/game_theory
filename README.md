@@ -64,9 +64,9 @@ number_of_stages: number of stages to play in this multi-stage game
 ### deal no deal negotiation game
 To play with bare LLM on negotiation game:
 ```
-python deal_no_deal_UI.py --datapoint_id 10
+python deal_no_deal_UI.py --datapoint_id {datapoint_id}
 ```
 To play with specially-prompted (pareto-optimal & envy free) LLM on negotiation game:
 ```
-python deal_no_deal_UI.py --datapoint_id 10 --special prompting
+python deal_no_deal_UI.py --datapoint_id {datapoint_id} --special prompting
 ```
