@@ -1,4 +1,4 @@
-# game_theory
+# Game theoretic LLM as human proxy
 
 
 ## Introductions
@@ -69,4 +69,13 @@ python deal_no_deal_UI.py --datapoint_id {datapoint_id}
 To play with specially-prompted (pareto-optimal & envy free) LLM on negotiation game:
 ```
 python deal_no_deal_UI.py --datapoint_id {datapoint_id} --special prompting
+```
+
+👁👁👁To do some initial human experiments, Alfonso, Lingyao, Oliver, Shengwei, Wenyue each conduct 20 games:
+```
+python deal_no_deal_UI.py --datapoint_id {from 0 - 9}
+```
+and 
+```
+python deal_no_deal_UI.py --datapoint_id {from 10 - 19} --special_prompting
 ```
