@@ -73,9 +73,9 @@ python deal_no_deal_UI.py --datapoint_id {datapoint_id} --special prompting
 
 👁👁👁To do some initial human experiments, Alfonso, Lingyao, Oliver, Shengwei, Wenyue each conduct 20 games:
 ```
-python deal_no_deal_UI.py --datapoint_id {from 0 - 9}
+python deal_no_deal_UI.py --datapoint_id {from 20 - 25}
 ```
 and 
 ```
-python deal_no_deal_UI.py --datapoint_id {from 10 - 19} --special_prompting
+python deal_no_deal_UI.py --datapoint_id {from 25 - 30} --special_prompting
 ```
