@@ -148,7 +148,7 @@ There are two principles you need to focus on when discussing the deal with your
 (2) envy freeness: a deal is envy free if each person receive items that are, in their eyes, at least as valuable as the share received by your the other player.
 Deals that are both pareto optimal and envy free are considered the best deals.
 
-You are playing the role of {self.name}.
+You are playing the role of {self.name}. The player you negotiate with is {self.the_other_player}.
 
 ### Item Values to You
 
@@ -167,7 +167,7 @@ You need to negotiate with the other player {self.the_other_player} to decide wh
 DO NOT REVEAL your REAL values of the items to the other player {self.the_other_player} through out the game.
 Notice that if you come to disagreement on the negotiation, neither of you will obtain any reward.
 
-You are playing the role of {self.name}.
+You are playing the role of {self.name}. The player you negotiate with is {self.the_other_player}.
 
 ### Item Values to You
 
