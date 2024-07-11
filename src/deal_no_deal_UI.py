@@ -134,9 +134,13 @@ class Alice:
             self.game_description = f"""
 ### Game Description
 
-This is a negotiation game. There are {self.example_count[0]} books, {self.example_count[1]} hats, and {self.example_count[2]} balls in total. Each item has a value to you and your the other player {self.the_other_player}.
-Your goal is to maximize the total reward/value you alone can obtain by taking the items after negotiation.
+This is a negotiation game. There are {self.example_count[0]} books, {self.example_count[1]} hats, and {self.example_count[2]} balls in total. 
+Each item has a value to you and the other player {self.the_other_player}. You only know your values for all the item, but you don't know {self.the_other_player}'s valuation of each item; this is unknown to you.
+Thus do not assume the values of the items to the other player {self.the_other_player} are the same as yours.
+
+Your goal is to MAXIMIZE the total reward/value you alone can obtain by taking the items after negotiation, which is the sum of the VALUES of the items you get.
 You need to negotiate with the other player {self.the_other_player} to decide which and how many items you and your the other player {self.the_other_player} will each get.
+DO NOT REVEAL your REAL values of the items to the other player {self.the_other_player} through out the game.
 Notice that if you come to disagreement on the negotiation, neither of you will obtain any reward.
 
 There are two principles you need to focus on when discussing the deal with your the other player {self.the_other_player}: 
@@ -154,9 +158,13 @@ You are playing the role of {self.name}.
             self.game_description = f"""
 ### Game Description
 
-This is a negotiation game. There are {self.example_count[0]} books, {self.example_count[1]} hats, and {self.example_count[2]} balls in total. Each item has a value to you and your partner {self.the_other_player}.
-Your goal is to maximize the total reward/value you alone can obtain by taking the items after negotiation.
+This is a negotiation game. There are {self.example_count[0]} books, {self.example_count[1]} hats, and {self.example_count[2]} balls in total. 
+Each item has a value to you and the other player {self.the_other_player} which is unknown to you.
+Thus do not assume the value of the items to the other player {self.the_other_player} is the same as yours.
+
+Your goal is to MAXIMIZE the total reward/value you alone can obtain by taking the items after negotiation, which is the sum of the VALUES of the items you get.
 You need to negotiate with the other player {self.the_other_player} to decide which and how many items you and your partner {self.the_other_player} will each get.
+DO NOT REVEAL your REAL values of the items to the other player {self.the_other_player} through out the game.
 Notice that if you come to disagreement on the negotiation, neither of you will obtain any reward.
 
 You are playing the role of {self.name}.
@@ -171,6 +179,7 @@ You are playing the role of {self.name}.
 ### Negotiation
 
 You can discuss with {self.the_other_player} to maximize the reward you can obtain. You have a maximum of {self.max_negotiation_round} rounds to negotiate.
+DO NOT REVEAL your real values of the items to the other player {self.the_other_player} through out the game.
 Analyze the situation and decide on what to say to your the other player {self.the_other_player}.
 
 There are two principles you need to focus on when negotiate on the deal: 
@@ -188,6 +197,7 @@ Especially, if you have come to an agreement, say '<s>halt negotiation</s>' to e
 ### Negotiation
 
 You can discuss with {self.the_other_player} to maximize the reward you can obtain. You have a maximum of {self.max_negotiation_round} rounds to negotiate.
+DO NOT REVEAL your real values of the items to the other player {self.the_other_player} through out the game.
 Analyze the situation and decide on what to say to the other player.
 
 Surround your message with '<s>' and '</s>' to indicate the start and end of your message. For example, '<s>Hi, how are you?</s>'.
@@ -406,4 +416,3 @@ if __name__ == '__main__':
         with open('result/deal_no_deal/{}_{}.json'.format(game.user_name, args.datapoint_id), 'w') as f:
             json.dump(data_to_collect, f)
         
-    
