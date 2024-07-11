@@ -117,7 +117,7 @@ This is a negotiation game. There are {self.example_count[0]} books, {self.examp
 Each item has a value to you and the other player {self.the_other_player}. You only know your values for all the item, but you don't know {self.the_other_player}'s valuation of each item; this is unknown to you.
 Thus do not assume the value of the items to the other player {self.the_other_player} is the same as yours.
 
-Your goal is to MAXIMIZE the total reward/value you alone can obtain by taking the items after negotiation.
+Your goal is to MAXIMIZE the total reward/value you alone can obtain by taking the items after negotiation, which is the sum of the VALUES of the items you get.
 You need to negotiate with the other player {self.the_other_player} to decide which and how many items you and your the other player {self.the_other_player} will each get.
 DO NOT REVEAL your values of the items to the other player {self.the_other_player} through out the game.
 Notice that if you come to disagreement on the negotiation, neither of you will obtain any reward.
@@ -141,7 +141,7 @@ This is a negotiation game. There are {self.example_count[0]} books, {self.examp
 Each item has a value to you and the other player {self.the_other_player}. You only know your values for all the item, but you don't know {self.the_other_player}'s valuation of each item; this is unknown to you.
 Thus do not assume the value of the items to the other player {self.the_other_player} is the same as yours.
 
-Your goal is to MAXIMIZE the total reward/value you alone can obtain by taking the items after negotiation.
+Your goal is to MAXIMIZE the total reward/value you alone can obtain by taking the items after negotiation, which is the sum of the VALUES of the items you get.
 You need to negotiate with the other player {self.the_other_player} to decide which and how many items you and your partner {self.the_other_player} will each get.
 DO NOT REVEAL your values of the items to the other player {self.the_other_player} through out the game.
 Notice that if you come to disagreement on the negotiation, neither of you will obtain any reward.
