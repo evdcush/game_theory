@@ -1,14 +1,14 @@
+import os
 import anthropic
 import google.generativeai as genai
 import time
 from openai import OpenAI
-from vllm import LLM, SamplingParams
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 ####### data generation close-source models #######
 
-claude_key = ""
+claude_key = os.getenv('$ANTHROPIC_API_KEY')
 gemini_key = ""
 open_ai_key = ""
 
@@ -78,73 +78,3 @@ def close_source_call(model, message, system_prompt):
         result = call_gpt35_api(message, system_prompt)
 
     return result
-
-####### model evaluation with scaling #######
-####### tulu #######
-def run_tulu_7(text_prompt, model_name=None):
-    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-    if model_name is None:
-        model_name = 'allenai/tulu-2-7b'
-        download_dir = 'pretrained_models'
-    else:
-        download_dir = model_name
-    llm = LLM(
-        model=model_name,
-        download_dir=download_dir,
-        trust_remote_code=True,
-        tensor_parallel_size=4, 
-        max_num_seqs=4,
-        max_num_batched_tokens=4 * 8192,
-    )
-    text_prompt = ['<|user|>\n'+t+'<|assistant|>\n' for t in text_prompt]
-    predictions = llm.generate(text_prompt, sampling_params)
-    all_predictions = []
-    for RequestOutput in predictions:
-        output = RequestOutput.outputs[0].text
-        all_predictions.append(output)
-    return all_predictions 
-
-def run_tulu_13(text_prompt, model_name=None):
-    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-    if model_name is None:
-        model_name = 'allenai/tulu-2-13b'
-        download_dir = 'pretrained_models'
-    else:
-        download_dir = model_name
-    llm = LLM(
-        model=model_name,
-        download_dir=download_dir,
-        trust_remote_code=True,
-        tensor_parallel_size=4, 
-        max_num_seqs=4,
-        max_num_batched_tokens=4 * 8192,
-    )
-    text_prompt = ['<|user|>\n'+t+'<|assistant|>\n' for t in text_prompt]
-    predictions = llm.generate(text_prompt, sampling_params)
-    all_predictions = []
-    for RequestOutput in predictions:
-        output = RequestOutput.outputs[0].text
-        all_predictions.append(output)
-    return all_predictions 
-
-def run_tulu_70(text_prompt, model_name=None):
-    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-    if model_name is None:
-        model_name = 'allenai/tulu-2-70b'
-        download_dir = 'pretrained_models'
-    else:
-        download_dir = model_name
-    llm = LLM(
-        model=model_name,
-        download_dir=download_dir,
-        trust_remote_code=True,
-        tensor_parallel_size=4, 
-        max_num_seqs=4,
-        max_num_batched_tokens=4 * 8192,
-    )
-    predictions = llm.generate(text_prompt, sampling_params)
-    all_predictions = []
-    for RequestOutput in predictions:
-        output = RequestOutput.outputs[0].text
-        all_predictions.append(output)
-    return all_predictions 

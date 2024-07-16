@@ -30,8 +30,8 @@ def slow_type_target(t):
         sys.stdout.write("\033[" + colorCodes['bright purple'] + "m" + l + "\033[0m")
         #sys.stdout.write(l)
         sys.stdout.flush()
-        time.sleep(random.random()*10.0/300)
-        time.sleep(10.0/300)
+        # time.sleep(random.random()*10.0/300)
+        # time.sleep(10.0/300)
     print('')
     return ''
 
